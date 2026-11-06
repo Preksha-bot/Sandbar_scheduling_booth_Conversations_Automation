@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+<base target="_top">
+<meta charset="utf-8">
+<style>
+  :root { --bg:#fbfaf7; --fg:#1d1d1b; --muted:#6b6a65; --line:#e4e1d8; --card:#fff; --hot:#b8452f; --warm:#b07a1a; --cold:#4f6d8a; --accent:#1f6f5c; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#161614; --fg:#ecebe6; --muted:#a3a29b; --line:#34332f; --card:#1f1f1c; --accent:#5cc2a6; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  header { padding:12px 16px 0; position:sticky; top:0; background:var(--bg); border-bottom:1px solid var(--line); z-index:2; }
+  .tabs { display:flex; gap:4px; margin-top:8px; }
+  .tabs button { flex:1; border:0; background:none; padding:10px 4px; font:inherit; font-size:15px; color:var(--muted); border-bottom:3px solid transparent; }
+  .tabs button.on { color:var(--fg); border-bottom-color:var(--accent); font-weight:600; }
+  main { padding:0 16px 40px; }
+  h2 { font-size:13px; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin:22px 0 6px; }
+  .card { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--line); border-radius:10px; padding:12px; margin:10px 0; }
+  .card.hot { border-left-color:var(--hot); } .card.warm { border-left-color:var(--warm); } .card.cold { border-left-color:var(--cold); }
+  .muted { color:var(--muted); font-size:14px; } .held { color:var(--hot); font-size:14px; }
+  pre { white-space:pre-wrap; font:14px/1.45 system-ui,sans-serif; background:rgba(127,127,127,.08); padding:8px; border-radius:8px; }
+  .row { display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; }
+  a.btn, .row button { font:inherit; font-size:15px; border-radius:8px; padding:9px 14px; border:1px solid var(--line); background:var(--card); color:var(--fg); text-decoration:none; }
+  a.btn.primary { background:var(--accent); color:#fff; border-color:var(--accent); }
+  .row button.on { background:var(--accent); color:#fff; border-color:var(--accent); font-weight:600; }
+  .row button:disabled { opacity:.55; }
+  .row button:active, a.btn:active { transform:scale(.97); }
+  .saved { font-size:14px; margin-top:6px; min-height:1.2em; color:var(--accent); }
+  .saved.bad { color:var(--hot); }
+  .card.ask { border-left-color:var(--warm); background:rgba(176,122,26,.06); }
+  .hint { font-size:13px; color:var(--muted); margin-top:4px; }
+  input { font:inherit; font-size:15px; padding:8px; border-radius:8px; border:1px solid var(--line); width:100%; margin-top:8px; background:var(--card); color:var(--fg); }
+  .tiles { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:12px; }
+  .tile { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px; }
+  .tile .n { font-size:30px; font-weight:700; line-height:1.1; }
+  .tile .l { font-size:14px; color:var(--muted); }
+  .name { margin:4px 0; font-size:15px; }
+</style>
+</head>
+<body>
+<header>
+  <b id="title">Sandbar</b> <span class="muted" id="sub"></span>
+  <div class="tabs" id="tabs"></div>
+</header>
+<main id="main"><p class="muted">Loading…</p></main>
+<script>
+  var WHO = <?= who ?>, VIEW = <?= view ?>;
+  var EMAIL_OUTCOMES = ['interested', 'not now', 'remove me', 'booked'];
+  var CALL_OUTCOMES = ['reached', 'no answer', 'not now', 'booked'];
+  var DEMO_OUTCOMES = ['held', 'no-show', 'rescheduled'];
+  var current = VIEW === 'results' ? 'results' : 'list';
+
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+
+  function tabs() {
+    var t = [['list', 'My list']];
+    if (WHO === 'Nadia') t.push(['demos', 'My demos']);
+    t.push(['results', 'Results']);
+    document.getElementById('tabs').innerHTML = t.map(function (x) {
+      return '<button class="' + (x[0] === current ? 'on' : '') + '" onclick="show(\'' + x[0] + '\')">' + esc(x[1]) + '</button>';
+    }).join('');
+  }
+  function show(v) { current = v; tabs(); load(); }
+
+  function load() {
+    var main = document.getElementById('main');
+    main.innerHTML = '<p class="muted">Loading…</p>';
+    var fail = function (e) {
+      var m = String(e && e.message || e);
+      main.innerHTML = '<p class="held">Could not load: ' + esc(m) + '</p>' + (/PERMISSION_DENIED|storage|authorization/i.test(m)
+        ? '<p class="muted">This usually means the browser is signed in to more than one Google account. Open this page in a private/Incognito window signed in only to your Sandbar account, or sign the other accounts out.</p>' : '');
+    };
+    if (current === 'list') google.script.run.withSuccessHandler(drawList).withFailureHandler(fail).getList(WHO);
+    else if (current === 'demos') google.script.run.withSuccessHandler(drawDemos).withFailureHandler(fail).getDemos();
+    else google.script.run.withSuccessHandler(drawResults).withFailureHandler(fail).getResults();
+  }
+
+  // ---- the list: promises first ----
+  function drawList(data) {
+    WHO = data.who; tabs();
+    document.getElementById('title').textContent = data.who + "'s list";
+    document.getElementById('sub').textContent = data.show ? '· ' + data.show : '';
+    var order = ['1. Asked for something', '2. Call tasks', '3. Real conversations', 'Waiting (not ready to send)', 'Already handled'];
+    var help = { '1. Asked for something': 'They asked for this. Send these first.', '2. Call tasks': 'Phone, don\'t email.',
+      '3. Real conversations': 'A short note. Nothing was asked for.', 'Waiting (not ready to send)': 'Not ready yet: see the red line on each.',
+      'Already handled': 'Already written to or booked. Nothing to do.' };
+    var html = '';
+    ROWS = [];
+    QS = data.questions || [];
+    if (QS.length) {
+      html += '<h2>Questions for you (' + QS.length + ')</h2><div class="muted">Erin needs your answer. One tap: it goes straight into the Sheet.</div>';
+      QS.forEach(function (q, i) {
+        html += '<div class="card ask" id="q_' + i + '"><b>' + esc(q.title) + '</b><div class="muted">' + esc(q.why) + '</div>' +
+          (q.context || []).map(function (c) { return '<div class="muted"><b>' + esc(c.label) + ':</b> ' + esc(c.text) + '</div>'; }).join('') +
+          '<div class="row">' + q.options.map(function (o) { return '<button onclick="answerQ(' + i + ', \'' + esc(o.value) + '\', this)">' + esc(o.label) + '</button>'; }).join('') + '</div>' +
+          '<div class="saved" id="qs_' + i + '"></div></div>';
+      });
+    }
+    order.forEach(function (sec) {
+      var rows = data.rows.filter(function (r) {
+        if (sec === '2. Call tasks') return r.tasks && /call/i.test(r.tasks) && r.section !== '1. Asked for something';
+        return r.section === sec;
+      });
+      if (!rows.length) return;
+      html += '<h2>' + esc(sec) + ' (' + rows.length + ')</h2><div class="muted">' + esc(help[sec]) + '</div>';
+      rows.forEach(function (r) {
+        var i = ROWS.push(r) - 1;
+        var isCall = sec === '2. Call tasks', isWaiting = sec === 'Waiting (not ready to send)';
+        var outs = isCall ? CALL_OUTCOMES : isWaiting ? ['remove me'] : EMAIL_OUTCOMES;
+        html += '<div class="card ' + esc(r.priority) + '">' +
+          '<b>' + esc(r.name) + '</b> <span class="muted">' + esc(r.clinic) + ' · ' + esc(r.priority) + ' · ' + esc(r.nextStep) + '</span>' +
+          (r.detail ? '<div class="muted">“' + esc(r.detail) + '”</div>' : '') +
+          (r.tasks ? '<div class="muted">☎ ' + esc(r.tasks) + '</div>' : '') +
+          (r.held ? '<div class="held">' + esc(r.held) + '</div>' : '') +
+          (r.body && !isCall ? '<details><summary class="muted">Read the draft</summary><pre>' + esc(r.body) + '</pre></details>' : '') +
+          (r.mailto && !isCall ?
+            '<div class="row"><a class="btn primary" href="' + esc(r.mailto) + '">Open in my email app</a>' +
+            (r.gmail ? '<a class="btn" target="_blank" rel="noopener" href="' + esc(r.gmail) + '">Open in Gmail</a>' : '') + '</div>' +
+            '<div class="hint">Nothing is sent until you press Send in your email. "My email app" opens whatever this device uses for email; "Open in Gmail" opens Gmail in this Google account.</div>' +
+            '<div class="row"><button onclick="send(' + i + ', \'sent\', this)"' + (r.sent ? ' class="on"' : '') + '>' + (r.sent ? '✓ Sent ' + esc(r.sent) : 'Done: I sent it') + '</button></div>' : '') +
+          (isWaiting ? '<div class="hint">Not ready to send: the red line says what it is waiting for. Erin sorts it out; add a note for her if you know the answer.</div>' : '') +
+          '<div class="hint">' + (isCall ? 'After the call:' : isWaiting ? 'If they asked to be taken off:' : 'What happened after?') + '</div>' +
+          '<div class="row">' +
+          outs.map(function (o) { return '<button class="' + (r.outcome === o ? 'on' : '') + '" onclick="send(' + i + ', \'' + o + '\', this)">' + esc(o) + '</button>'; }).join('') +
+          '</div><input placeholder="Note for Erin (optional)" id="n_' + i + '" value="' + esc(r.note) + '">' +
+          '<div class="row"><button onclick="send(' + i + ', \'note\', this)">Save note</button></div>' +
+          '<div class="saved" id="s_' + i + '">' + (r.outcome ? '✓ Saved: ' + esc(r.outcome) : '') + '</div></div>';
+      });
+    });
+    document.getElementById('main').innerHTML = html || '<p class="muted">Nothing on your list right now. Erin makes the lists on her Thursday.</p>';
+  }
+
+  var ROWS = [], QS = [];
+  function answerQ(i, value, btn) {
+    var q = QS[i], msg = document.getElementById('qs_' + i), card = document.getElementById('q_' + i);
+    var btns = card.querySelectorAll('button');
+    Array.prototype.forEach.call(btns, function (b) { b.disabled = true; });
+    var label = btn.textContent; btn.textContent = 'Saving…';
+    msg.className = 'saved'; msg.textContent = 'Saving and updating the lists… (about 10 seconds)';
+    google.script.run.withSuccessHandler(function (res) {
+      btn.textContent = label; btn.classList.add('on');
+      msg.textContent = res && res.already ? '✓ Already answered: ' + res.already : '✓ Saved: ' + label + '. Thanks, Erin can see it.';
+    }).withFailureHandler(function (e) {
+      Array.prototype.forEach.call(btns, function (b) { b.disabled = false; });
+      btn.textContent = label; msg.className = 'saved bad'; msg.textContent = 'Not saved: ' + (e && e.message || e) + '. Try again in a moment.';
+    }).answerFromPhone(q.id, value, WHO);
+  }
+  function send(i, what, btn) {
+    var r = ROWS[i], noteEl = document.getElementById('n_' + i), msg = document.getElementById('s_' + i);
+    var note = noteEl ? noteEl.value : '';
+    if (what === 'note' && !note.trim()) { msg.className = 'saved bad'; msg.textContent = 'Type a note first.'; return; }
+    var label = btn.textContent;
+    btn.disabled = true; btn.textContent = 'Saving…';
+    msg.className = 'saved'; msg.textContent = 'Saving…';
+    google.script.run.withSuccessHandler(function (res) {
+      btn.disabled = false;
+      var time = String(res.at).slice(11, 16);
+      if (what === 'sent') { btn.textContent = '✓ Sent ' + res.at.slice(0, 10); btn.classList.add('on'); msg.textContent = '✓ Saved: sent (' + time + ')'; }
+      else if (what === 'note') { btn.textContent = label; msg.textContent = '✓ Note saved for Erin (' + time + ')'; }
+      else {
+        btn.textContent = label;
+        Array.prototype.forEach.call(btn.parentNode.children, function (b) { b.classList.remove('on'); });
+        btn.classList.add('on');
+        msg.textContent = '✓ Saved: ' + what + (what === 'remove me' ? ' (added to the do-not-email list)' : '') + ' (' + time + ')';
+      }
+    }).withFailureHandler(function (e) {
+      btn.disabled = false; btn.textContent = label;
+      msg.className = 'saved bad';
+      msg.textContent = 'Not saved: ' + (e && e.message || e) + '. Try again in a moment.';
+    }).tap(r.key, what, note);
+  }
+
+  // ---- Nadia's demos: one tap after each (day 60) ----
+  function drawDemos(data) {
+    document.getElementById('title').textContent = 'My demos';
+    var html = '<div class="muted" style="margin-top:12px">After each demo, one tap: did it happen?</div>';
+    if (!data.rows.length) html += '<p class="muted">No demos counted yet. Erin runs "Day 30" to fill this.</p>';
+    data.rows.forEach(function (r) {
+      html += '<div class="card"><b>' + esc(r.name) + '</b> <span class="muted">' + esc(r.clinic) + '</span><div class="muted">' + esc(r.reason) + '</div><div class="row">' +
+        DEMO_OUTCOMES.map(function (o) { return '<button class="' + (r.demo === o ? 'on' : '') + '" onclick="demo(\'' + esc(r.key) + '\', \'' + o + '\', this)">' + esc(o) + '</button>'; }).join('') + '</div></div>';
+    });
+    document.getElementById('main').innerHTML = html;
+  }
+  function demo(key, what, btn) {
+    btn.disabled = true; btn.textContent = 'Saving…';
+    google.script.run.withSuccessHandler(function () {
+      btn.disabled = false; btn.textContent = what;
+      Array.prototype.forEach.call(btn.parentNode.children, function (b) { b.classList.remove('on'); }); btn.classList.add('on');
+    }).withFailureHandler(function (e) { btn.disabled = false; btn.textContent = what; btn.parentNode.insertAdjacentHTML('afterend', '<div class="saved bad">Not saved: ' + esc(e && e.message || e) + '</div>'); }).tapDemo(key, what);
+  }
+
+  // ---- results: day 30 / 60 / 90 ----
+  function drawResults(o) {
+    document.getElementById('title').textContent = 'Results';
+    if (!o) { document.getElementById('main').innerHTML = '<p class="muted">No results yet. Erin runs "Day 30" about a month after the show.</p>'; return; }
+    document.getElementById('sub').textContent = '· ' + (o.showName || '') + ' · updated ' + o.updated;
+    var t = function (n, l) { return '<div class="tile"><div class="n">' + esc(n) + '</div><div class="l">' + esc(l) + '</div></div>'; };
+    var PILES = ['Demo booked', 'Trial started', 'Wrote, nothing came of it', 'Never wrote'];
+    var DEMOS = ['held', 'no-show', 'rescheduled', 'not tapped yet'];
+    var html = '<h2>Day 30 · ' + esc(o.day30) + ' · ' + o.total + ' real conversations</h2><div class="tiles">' +
+      PILES.map(function (k) { return t(o.counts[k] || 0, k); }).join('') + '</div>' +
+      (o.notSorted.length ? '<div class="muted" style="margin-top:8px">Not sorted yet: ' + o.notSorted.map(function (x) { return esc(x.name) + ' (' + esc(x.why) + ')'; }).join('; ') + '</div>' : '');
+    if (o.day60) html += '<h2>Day 60 · the demos (Nadia\'s taps)</h2><div class="tiles">' + DEMOS.map(function (k) { return t(o.day60[k] || 0, k); }).join('') + '</div>';
+    html += '<h2>Day 90 · paying clinics</h2>' + (o.day90 ? '<div class="tiles">' + t(o.day90.count, 'paying clinics') + t('$' + Math.round(o.day90.yearly).toLocaleString(), 'a year') + '</div><p>' + esc(o.day90.verdict) + '</p>' +
+      o.day90.paying.map(function (x) { return '<div class="name">• ' + esc(x.name) + ', ' + esc(x.clinic) + ' <span class="muted">since ' + esc(x.since) + '</span></div>'; }).join('')
+      : '<p class="muted">Not counted yet. Erin adds the invoice list at day 90.</p>');
+    html += '<h2>Was the show worth it?</h2><div class="tiles">' + t('$' + o.money.cost.toLocaleString(), 'the show cost') +
+      t(o.money.perDemoOrTrial ? '$' + o.money.perDemoOrTrial.toLocaleString() : '—', 'per demo or trial') + '</div><p class="muted">' + esc(o.money.breakEven) + '</p>';
+    html += '<h2>Who is in each pile</h2>' + PILES.filter(function (k) { return o.piles[k]; }).map(function (k) {
+      return '<details><summary><b>' + esc(k) + '</b> (' + o.piles[k].length + ')</summary>' +
+        o.piles[k].map(function (x) { return '<div class="name">' + esc(x.name) + ', ' + esc(x.clinic) + '<div class="muted">' + esc(x.reason) + '</div></div>'; }).join('') + '</details>';
+    }).join('');
+    document.getElementById('main').innerHTML = html;
+  }
+
+  tabs(); load();
+</script>
+</body>
+</html>

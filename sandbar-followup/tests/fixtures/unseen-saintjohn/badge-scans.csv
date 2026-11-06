@@ -1,0 +1,92 @@
+scan_id,scanned_at,scanned_by,first_name,last_name,title,company,email,phone,city,province,share_with_exhibitors,rating,notes
+S001,2027-04-12 09:06,Owen (iPad),Jocelyn,Hayward,Physiotherapist,Kingsbrae Physio,jhayward@kingsbraephysio.example.ca,506-555-0144,St. Andrews,NB,Y,,
+S002,2027-04-12 09:09,Owen (iPad),Desmond,Hawkes,"Owner, Physiotherapist",Fundy Shore Physiotherapy,des@fundyshorephysio.example.ca,(506) 555-0121,Saint John,NB,Y,A,FUNDY SHORE - 4 sites - CV - demo w/ mgrs
+S003,2027-04-12 09:14,Nadia (phone),Ainsley,Fanjoy,"Student, Massage Therapy",Fundy Coast College,ainsley.fanjoy@fundycoastcollege.example.ca,506.555.0172,Saint John,NB,Y,,
+S004,2027-04-12 09:17,Owen (iPad),Clifford,Brine,Owner,Brine Sport & Spine,cliff@brinesportspine.example.ca,902-555-0163,Truro,NS,Y,A,5 sites (truro/amherst/new glasgow +2) / sheets / no-show fee on card?
+S005,2027-04-12 09:21,Owen (iPad),Danielle,Bourque,RMT,Seabright Massage,danielle@seabrightmassage.example.com,506 555 0190,Moncton,NB,Y,,
+S006,2027-04-12 09:24,Owen (iPad),Kyle,McGraw,Territory Manager,Tidewater Orthotics,kmcgraw@tidewaterorthotics.example.com,902.555.0108,Dartmouth,NS,Y,,"exhibitor - orthotics booth beside us, good guy"
+S007,2027-04-12 09:30,Owen (iPad),Gerald,Thorne,Clinic Director,Portland Street Physio & Rehab,gthorne@portlandstphysio.example.ca,506-555-0148,Saint John,NB,Y,A,3 sites / sheets / $$ / WSNB claim #s ??
+S008,2027-04-12 09:33,Nadia (phone),Amélie,Savoie,Physiothérapeute,Physio Péninsule,amelie@physiopeninsule.example.ca,506-555-0117,Tracadie,NB,Y,,
+S009,2027-04-12 09:38,Owen (iPad),Gail,Mersereau,"RMT, Owner",Mersereau Massage,gail@mersereaumassage.example.ca,506.555.0139,St. Stephen,NB,Y,,solo / paper / browsing
+S010,2027-04-12 09:41,Owen (iPad),Brody,Kelly,Kinesiology student,Tidal River University,brody.kelly@tidalriveru.example.ca,506-555-0156,Fredericton,NB,Y,,
+S011,2027-04-12 09:44,Owen (iPad),MEGHAN,DOUCETTE,Kinesiology student,Tidal River University,meghan.doucette@tidalriveru.example.ca,902-555-0185,Halifax,NS,Y,,
+S012,2027-04-12 09:52,Owen (iPad),Megan,Hatfield,Practice Manager,Lancaster Physio,megan@lancasterphysio.example.ca,506-555-0133,Saint John,NB,Y,,2 locs / bkstd - reminders dont say which clinic / 1 pager for partner
+S013,2027-04-12 09:55,Nadia (phone),Shelley,Gorham,Operations Manager,Rothesay Health Collective,sgorham@rothesayhealth.example.ca,(506) 555-0161,Rothesay,NB,Y,,"3 sites, gcal, physios + RMTs fighting over rooms"
+S014,2027-04-12 10:01,Owen (iPad),Cheryl,Wetmore,Clinic Owner,Wetmore Physio,cheryl@wetmorephysio.example.ca,506-555-0109,Quispamsis,NB,Y,,gun draw
+S015,2027-04-12 10:03,Owen (iPad),Hector,Allain,Physiotherapist,Shediac Bay Physio,hallain@shediacbayphysio.example.ca,506 555 0182,Shediac,NB,Y,,
+S016,2027-04-12 10:07,Owen (iPad),Leanne,Quinlan,"RMT, Owner",Kingshurst Massage Therapy,leanne@kingshurstmassage.example.ca,506-555-0127,Saint John,NB,Y,,$$ / 3 RMTs
+S017,2027-04-12 10:12,Owen (iPad),Jared,Seely,Account Executive,Pracshift,jared.seely@pracshift.example.com,416-555-0102,Toronto,ON,Y,,pracshift guy - fishing
+S018,2027-04-12 10:15,Nadia (phone),Rowan,Belding,"Student, Massage Therapy",Fundy Coast College,rowan.belding@fundycoastcollege.example.ca,506.555.0193,Saint John,NB,Y,,
+S019,2027-04-12 10:20,Owen (iPad),Siobhan,Cormier,"Physiotherapist, Owner",Cormier Physiotherapy,siobhan@cormierphysio.example.ca,506-555-0151,Riverview,NB,Y,,
+S020,2027-04-12 10:24,Owen (iPad),Kristen,Vautour,"Owner, Physiotherapist",Quispamsis Physio & Sport,kristen@qpsphysio.example.ca,506-555-0175,Quispamsis,NB,Y,B,
+S021,2027-04-12 10:31,Owen (iPad),Graham,Northrup,Physiotherapist,Kennebec Rehab,gnorthrup@kennebecrehab.example.com,506.555.0119,Hampton,NB,Y,,
+S022,2027-04-12 10:33,Owen (iPad),Brianna,Colpitts,Clinic Manager,Hammond River Physiotherapy,brianna@hammondriverphysio.example.ca,506-555-0158,Quispamsis,NB,Y,B,hammond river - mgr - trial for her FD x2
+S023,2027-04-12 10:35,Owen (iPad),Martin,Trites,"Owner, Physiotherapist",Hammond River Physiotherapy,mtrites@hammondriverphysio.example.ca,506-555-0159,Quispamsis,NB,Y,,
+S024,2027-04-12 10:42,Nadia (phone),Odette,Maillet,RMT,Maillet Massothérapie,odette@mailletmasso.example.ca,506-555-0134,Dieppe,NB,Y,,
+S025,2027-04-12 10:48,Owen (iPad),Ella,Crossman,Kinesiology student,Tidal River University,ella.crossman@tidalriveru.example.ca,506-555-0101,Saint John,NB,Y,,"student - doing a project on clinic software, wants to talk to nadia"
+S026,2027-04-12 10:55,Owen (iPad),Dana,Kierstead,"Owner, RMT",Kierstead Massage & Wellness,dana@kiersteadmassage.example.ca,(506) 555-0142,Sussex,NB,Y,B,sussex / bkstd / adding rooms
+S027,2027-04-12 11:02,Owen (iPad),Neville,Horsman,Clinic Manager,Bayside Sports Medicine,nhorsman@baysidesportsmed.example.ca,902-555-0126,Halifax,NS,Y,,
+S028,2027-04-12 11:05,Owen (iPad),Lisa,Furlong,Account Manager,Maritime Mutual Benefits,lisa.furlong@maritimemutual.example.com,506-555-0198,Moncton,NB,Y,,wants partnership info - send deck
+S029,2027-04-12 11:10,Nadia (phone),Natasha,Pelkey,Clinic Manager,Millidgeville Physiotherapy,natasha@millidgevillephysio.example.ca,506-555-0186,Saint John,NB,N,,clinivo - late cancels killing them
+S030,2027-04-12 11:14,Owen (iPad),Ahmad,Rahimi,"Owner, Physiotherapist",Rahimi Physiotherapy,ahmad@rahimiphysio.example.ca,506.555.0113,Fredericton,NB,Y,C,
+S031,2027-04-12 11:20,Owen (iPad),Brent,Colwell,Physiotherapist,Harbour Passage Physio,bcolwell@harbourpassagephysio.example.ca,506-555-0164,Saint John,NB,Y,,ballot - didnt chat
+S032,2027-04-12 11:26,Owen (iPad),Malcolm,Ogilvie,Director of Operations,Tantramar Physiotherapy Group,malcolm.ogilvie@tantramarphysio.example.ca,506-555-0137,Sackville,NB,Y,,tantramar grp 4 locs
+S033,2027-04-12 11:31,Owen (iPad),Marc,Cormier,Physiotherapist,Codiac Physio,marc.cormier@codiacphysio.example.ca,506 555 0110,Moncton,NB,Y,,
+S034,2027-04-12 11:38,Nadia (phone),Wendy,Kilpatrick,Front Desk,Oromocto Physiotherapy,frontdesk@oromoctophysio.example.ca,506-555-0179,Oromocto,NB,Y,,
+S035,2027-04-12 11:45,Owen (iPad),Joel,Estabrooks,"Physiotherapist, Owner",Estabrooks Physiotherapy,joel@estabrooksphysio.example.ca,506-555-0125,Grand Falls,NB,Y,,solo - gcal - not ready
+S036,2027-04-12 11:52,Owen (iPad),Glenna,Fowler,RMT,Fowler Massage Therapy,glenna@fowlermassage.example.ca,506.555.0147,Hampton,NB,Y,C,
+S037,2027-04-12 12:05,Owen (iPad),Tyson,Duplisea,"Student, Massage Therapy",Fundy Coast College,tyson.duplisea@fundycoastcollege.example.ca,506-555-0165,Saint John,NB,Y,,
+S038,2027-04-12 12:06,Owen (iPad),KATIE,MOREHOUSE,"Student, Massage Therapy",Fundy Coast College,katie.morehouse@fundycoastcollege.example.ca,506-555-0122,Rothesay,NB,Y,,
+S039,2027-04-12 12:14,Nadia (phone),Tom,Belyea,Front Desk Lead,Westside Physiotherapy,tom.belyea@westsidephysio.example.ca,506-555-0191,Saint John,NB,N,,1 loc - sheets - not yet
+S040,2027-04-12 12:22,Owen (iPad),Darren,Wry,RMT,Wry Massage Therapy,darren@wrymassage.example.ca,506-555-0116,Hampton,NB,Y,,
+S041,2027-04-12 12:30,Owen (iPad),Lloyd,Mazerolle,"RMT, Owner",Mazerolle Massage Therapy,lloyd@mazerollemassage.example.ca,506-555-0170,Miramichi,NB,Y,C,
+S042,2027-04-12 12:41,Owen (iPad),Stuart,Gaskin,"Athletic Therapist, Owner",Gaskin Athletic Therapy,stuart@gaskinat.example.ca,902-555-0153,Charlottetown,PE,Y,,AT clinic / excel / maybe fall
+S043,2027-04-12 12:50,Nadia (phone),Brooke,Ryan,Event Staff,Saint John Allied Health Forum,brooke.ryan@sjahforum.example.ca,506-555-0100,Saint John,NB,Y,,
+S044,2027-04-12 13:02,Owen (iPad),Philippe,Gionet,Physiotherapist,Physio Chaleur,pgionet@physiochaleur.example.ca,506.555.0187,Bathurst,NB,Y,,
+S045,2027-04-12 13:10,Owen (iPad),Paulette,Doiron,"RMT, Owner",Doiron Massage Therapy,paulette@doironmassage.example.ca,506-555-0118,Dieppe,NB,Y,B,
+S046,2027-04-12 13:18,Owen (iPad),Frank,Leger,Director,Acadie Rehab Group,fleger@acadierehab.example.ca,506-555-0104,Moncton,NB,Y,,draw - 6 clinic grp? didnt really talk
+S047,2027-04-12 13:25,Owen (iPad),Holly,Brewer,Physiotherapist,Brewer Physio,holly@brewerphysio.example.com,902-555-0132,Amherst,NS,Y,,
+S048,2027-04-12 13:31,Nadia (phone),Remi,Chiasson,"Student, Massage Therapy",Fundy Coast College,remi.chiasson@fundycoastcollege.example.ca,506-555-0145,Moncton,NB,Y,,
+S049,2027-04-12 13:40,Owen (iPad),Kayleigh,Sherwood,Front Desk,Simonds Street Physio,kayleigh@simondsphysio.example.ca,506-555-0124,Saint John,NB,Y,,
+S050,2027-04-12 13:52,Owen (iPad),Lowell,Briggs,Owner,Briggs Physiotherapy,lowell@briggsphysio.example.ca,506-555-0169,Saint John,NB,Y,,
+S051,2027-04-12 14:05,Owen (iPad),Rosalie,Haché,RMT,Haché Massage,rosalie@hachemassage.example.ca,506.555.0150,Caraquet,NB,Y,,
+S052,2027-04-12 14:10,Owen (iPad),Wanda,Pugh,Owner,Pugh Massage Therapy,wanda@pughmassage.example.ca,506-555-0129,Saint John,NB,Y,,
+S053,2027-04-12 14:22,Nadia (phone),Wallace,Stackhouse,Physiotherapist,Grand Lake Physio,cstackhouse@grandlakephysio.example.ca,506-555-0196,Minto,NB,Y,,
+S054,2027-04-12 14:30,Owen (iPad),Brent,Ogden,Clinic Owner,Ogden Physiotherapy,brent@ogdenphysio.example.ca,506-555-0141,Moncton,NB,Y,,on CV / clients cant pick their physio online
+S055,2027-04-12 14:41,Owen (iPad),Marcy,Stackhouse,Sales Representative,Harbourline Medical Supply,marcy@harbourlinemedical.example.com,902-555-0119,Halifax,NS,Y,,
+S056,2027-04-12 14:48,Owen (iPad),Fraser,Crawford,Physiotherapist,Crawford Physio & Pilates,fraser@crawfordphysio.example.ca,506 555 0138,Fredericton,NB,Y,,
+S057,2027-04-12 14:55,Nadia (phone),Jeannine,Bastarache,Massothérapeute,Massothérapie Bastarache,jeannine@massobastarache.example.ca,506-555-0162,Bouctouche,NB,Y,,
+S058,2027-04-12 15:05,Owen (iPad),Priya,Varghese,Practice Manager,Lakewood Physiotherapy,pvarghese@lakewoodphysio.example.ca,506-555-0183,Saint John,NB,Y,,1 loc | sheets | send info
+S059,2027-04-12 15:12,Owen (iPad),Noah,Seely,Kinesiology student,Tidal River University,noah.seely@tidalriveru.example.ca,506-555-0111,Saint John,NB,Y,,
+S060,2027-04-12 15:20,Owen (iPad),Bev,Price,Clinic Manager,Kingswood Physio,bev.price@kingswoodphysio.example.ca,902-555-0174,Sydney,NS,Y,,contest entry
+S061,2027-04-12 15:33,Owen (iPad),Rhys,Fairweather,Physiotherapist,Riverside Rehab Fredericton,ofairweather@riversiderehabfton.example.ca,506-555-0160,Fredericton,NB,Y,,
+S062,2027-04-12 15:47,Nadia (phone),Sandra,Wilson,Front Desk,Hampton Family Physio,swilson@hamptonfamilyphysio.example.ca,506-555-0105,Hampton,NB,Y,,
+S063,2027-04-12 16:02,Owen (iPad),Gavin,Ellis,Physiotherapist,Uptown Physio SJ,gavin@uptownphysiosj.example.ca,506-555-0189,Saint John,NB,Y,,
+S064,2027-04-12 16:15,Owen (iPad),Arlene,Kinney,Clinic Manager,Kinney Physiotherapy,akinney@kinneyphysio.example.ca,506-555-0146,Saint John,NB,Y,,
+S065,2027-04-12 16:30,Owen (iPad),Maya,Lutes,"Student, Massage Therapy",Fundy Coast College,maya.lutes@fundycoastcollege.example.ca,506-555-0130,Sussex,NB,Y,,
+S066,2027-04-13 09:04,Nadia (phone),Megan,Hatfield,Practice Manager,Lancaster Physio,megan@lancasterphysio.example.ca,506-555-0133,Saint John,NB,Y,,"came by again, same as yday"
+S067,2027-04-13 09:10,Owen (iPad),Terrence,Murray,RMT,Bay Shore Massage,terrence@bayshoremassage.example.ca,902-555-0106,Yarmouth,NS,Y,,
+S068,2027-04-13 09:15,Nadia (phone),Josée,Cyr,"Physiothérapeute, propriétaire",Clinique Physio Madawaska,josee@physiomadawaska.example.ca,506-555-0114,Edmundston,NB,Y,,voir carte - FR
+S069,2027-04-13 09:22,Owen (iPad),Mira,Daigle,Account Executive,Clinivo,mira.daigle@clinivo.example.com,647-555-0181,Toronto,ON,Y,,
+S070,2027-04-13 09:30,Owen (iPad),Corey,Dunlop,Physiotherapist,Island Spine & Sport,corey@islandspine.example.ca,902.555.0167,Summerside,PE,Y,,
+S071,2027-04-13 09:38,Nadia (phone),Joel,Estabrooks,"Physiotherapist, Owner",Estabrooks Physiotherapy,joel@estabrooksphysio.example.ca,506-555-0125,Grand Falls,NB,Y,,
+S072,2027-04-13 09:44,Owen (iPad),Ruth,Ellsworth,"Owner, Physiotherapist",Ellsworth Physiotherapy,rellsworth@ellsworthphysio.example.ca,506-555-0152,Saint John,NB,Y,,
+S073,2027-04-13 09:52,Owen (iPad),Aidan,McKay,Physiotherapist,Moncton Movement Clinic,aidan.mckay@monctonmovement.example.ca,506-555-0177,Moncton,NB,Y,,draw only
+S074,2027-04-13 10:00,Nadia (phone),Raymond,Losier,"Owner, Physiotherapist",Losier Physiotherapy,ray@losierphysio.example.ca,506-555-0123,Woodstock,NB,Y,,
+S075,2027-04-13 10:06,Owen (iPad),Sienna,Roussel,"Student, Massage Therapy",Fundy Coast College,sienna.roussel@fundycoastcollege.example.ca,506-555-0194,Saint John,NB,Y,,
+S076,2027-04-13 10:15,Owen (iPad),Patricia,Hayes,Clinic Manager,Fundy Trail Physio,phayes@fundytrailphysio.example.ca,506-555-0107,St. Martins,NB,Y,,
+S077,2027-04-13 10:21,Nadia (phone),Malcolm,Ogilvie,Director of Operations,Tantramar Physiotherapy Group,malcolm.ogilvie@tantramarphysio.example.ca,506-555-0137,Sackville,NB,Y,,mac again - wants demo w/ owner there
+S078,2027-04-13 10:33,Owen (iPad),Jonah,Wetmore,Kinesiology student,Tidal River University,jonah.wetmore@tidalriveru.example.ca,506-555-0192,Saint John,NB,Y,,
+S079,2027-04-13 10:40,Owen (iPad),Darlene,Moore,Account Manager,Maritime Mutual Benefits,darlene.moore@maritimemutual.example.com,506-555-0131,Saint John,NB,Y,,
+S080,2027-04-13 10:52,Owen (iPad),Kelsey,Ouellette,RMT,Ouellette Massage,kelsey@ouellettemassage.example.ca,506-555-0171,Edmundston,NB,Y,,
+S081,2027-04-13 11:05,Nadia (phone),Hugh,Seaman,Physiotherapist,Fredericton Physio Centre,hseaman@frederictonphysio.example.ca,506-555-0154,Fredericton,NB,Y,,
+S082,2027-04-13 11:16,Owen (iPad),Carla,Jonah,Front Desk Lead,Harbourview Rehab,carla@harbourviewrehab.example.ca,902-555-0180,Halifax,NS,Y,,
+S083,2027-04-13 11:30,Owen (iPad),PIPER,MCGRAW,"Student, Massage Therapy",Fundy Coast College,piper.mcgraw@fundycoastcollege.example.ca,506-555-0103,Quispamsis,NB,N,,
+S084,2027-04-13 11:44,Nadia (phone),Lucas,Richard,Physiotherapist,Physio Memramcook,lucas@physiomemramcook.example.ca,506-555-0128,Memramcook,NB,Y,,
+S085,2027-04-13 12:02,Owen (iPad),Tanya,Rice,RMT,Rice Therapeutic Massage,tanya@ricemassage.example.ca,709-555-0112,St. John's,NL,Y,,
+S086,2027-04-13 12:20,Nadia (phone),Abigail,Poirier,Kinesiology student,Tidal River University,abigail.poirier@tidalriveru.example.ca,506-555-0143,Moncton,NB,Y,,
+S087,2027-04-13 12:38,Owen (iPad),Derrick,Smith,Physiotherapist,Valley Physio Sussex,dsmith@valleyphysiosussex.example.ca,506-555-0166,Sussex,NB,Y,,
+S088,2027-04-13 13:05,Owen (iPad),Monica,Lirette,Clinic Manager,Bridge Street Physio,monica@bridgestreetphysio.example.ca,506-555-0135,Saint John,NB,Y,,
+S089,2027-04-13 14:48,Owen (iPad),Keegan,Kelly,RMT,Lighthouse Massage SJ,keegan@lighthousemassagesj.example.ca,506-555-0199,Saint John,NB,Y,,
+S090,2027-04-13 15:02,Nadia (phone),Gisèle,Michaud,Physiothérapeute,Physio Grand-Sault,gisele@physiograndsault.example.ca,506-555-0115,Grand Falls,NB,Y,,
+S091,2027-04-13 15:10,Owen (iPad),Eric,Seaman,Physiotherapist,Seaman Physiotherapy,eric@seamanphysio.example.ca,506-555-0102,Saint John,NB,Y,,

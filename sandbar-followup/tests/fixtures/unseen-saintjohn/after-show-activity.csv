@@ -1,0 +1,42 @@
+event_id,date_time,event,channel,name,email,clinic,detail
+A001,2027-04-14 10:12,demo booked,demo booking page,Shannon Fairweather,shannon@harbourlightrmt.example.ca,Harbourlight Massage,Demo booked for 2027-05-04 14:00 (30 min). How did you hear about us: Google search
+A002,2027-04-15 13:40,trial started,trial sign-up form,Craig Lutz,craig@lutzphysio.example.ca,Lutz Physio,Trial started (14 days). How did you hear about us: podcast
+A003,2027-04-19 21:48,email sent,Owen's mailbox,Desmond Hawkes,des@fundyshorephysio.example.ca,Fundy Shore Physiotherapy,Fundy Shore - demo with your clinic managers
+A004,2027-04-20 07:55,email sent,Owen's mailbox,Malcolm Ogilvie,malcolm.ogilvie@tantramarphysio.example.ca,Tantramar Physiotherapy Group,Tantramar - a demo with your owner
+A005,2027-04-20 08:20,email sent,Owen's mailbox,Brianna Colpitts,brianna@hammondriverphysio.example.ca,Hammond River Physiotherapy,Trial for your front desk
+A006,2027-04-20 11:03,reply received,Owen's mailbox,Desmond Hawkes,des@fundyshorephysio.example.ca,Fundy Shore Physiotherapy,"Great, I'll get reception to find a slot that works for all four managers."
+A007,2027-04-21 21:30,email sent,Owen's mailbox,Leanne Quinlan,leanne@kingshurstmassage.example.ca,Kingshurst Massage Therapy,Pricing for your three RMTs
+A008,2027-04-22 09:31,email sent,hello@ inbox,"Martin Trites, PT",martin@hammondriverphysio.example.ca,Hammond River Physiotherapy,Great to meet you at the Saint John Allied Health Forum!
+A009,2027-04-22 09:35,email sent,hello@ inbox,Megan Hatfield,megan@lancasterphysio.example.ca,Lancaster Physio,Great to meet you at the Saint John Allied Health Forum!
+A010,2027-04-22 09:38,email sent,hello@ inbox,Gail Mersereau,gail@mersereaumassage.example.ca,Mersereau Massage,Great to meet you at the Saint John Allied Health Forum!
+A011,2027-04-22 09:41,email sent,hello@ inbox,Cheryl Wetmore,cheryl@wetmorephysio.example.ca,Wetmore Physio,Great to meet you at the Saint John Allied Health Forum!
+A012,2027-04-22 09:44,email sent,hello@ inbox,Natasha Pelkey,natasha@millidgevillephysio.example.ca,Millidgeville Physiotherapy,Great to meet you at the Saint John Allied Health Forum!
+A013,2027-04-22 09:50,email sent,hello@ inbox,Gerald Thorne,gthorne@portlandstphysio.example.ca,Portland Street Physio & Rehab,Great to meet you at the Saint John Allied Health Forum!
+A014,2027-04-22 09:53,email sent,hello@ inbox,Malcolm Ogilvie,mogilvie@tantramarphysio.example.ca,Tantramar Physiotherapy Group,Great to meet you at the Saint John Allied Health Forum!
+A015,2027-04-22 09:57,email sent,hello@ inbox,Lisa Furlong,lisa.furlong@maritimemutual.example.com,Maritime Mutual Benefits,Great to meet you at the Saint John Allied Health Forum!
+A016,2027-04-22 10:02,email sent,hello@ inbox,"W. Pugh, RMT",info@pughmassage.example.ca,Pugh Massage Therapy,Great to meet you at the Saint John Allied Health Forum!
+A017,2027-04-22 10:06,email sent,hello@ inbox,A. Kinney,arlene@kinneyphyiso.example.ca,Kinney Physiotherapy,Great to meet you at the Saint John Allied Health Forum!
+A018,2027-04-22 10:09,email sent,hello@ inbox,"Brent Ogden, PT",brent@ogdenphysio.example.ca,Ogden Physiotherapy,Great to meet you at the Saint John Allied Health Forum!
+A019,2027-04-22 10:13,email sent,hello@ inbox,Priya Varghese,pvarghese@lakewoodphysio.example.ca,Lakewood Physiotherapy,Great to meet you at the Saint John Allied Health Forum!
+A020,2027-04-22 10:31,email bounced,hello@ inbox,Mail Delivery Subsystem,arlene@kinneyphyiso.example.ca,,Delivery failed: address not found (arlene@kinneyphyiso.example.ca)
+A021,2027-04-22 15:26,reply received,hello@ inbox,Lisa Furlong,lisa.furlong@maritimemutual.example.com,Maritime Mutual Benefits,Thanks! Would love to set up a call about a group benefits partnership for your clinic customers.
+A022,2027-04-23 08:12,reply received,hello@ inbox,Gail Mersereau,gail@mersereaumassage.example.ca,Mersereau Massage,Please take me off your mailing list. Thanks.
+A023,2027-04-23 10:40,reply received,hello@ inbox,Cheryl Wetmore,cheryl@wetmorephysio.example.ca,Wetmore Physio,I only put my name in for the massage gun. Please remove me from your list.
+A024,2027-04-23 16:20,reply received,hello@ inbox,Brent Ogden,brent@ogdenphysio.example.ca,Ogden Physiotherapy,"Thanks. We're locked in with Clinivo until 2028, so not for now."
+A025,2027-04-23 19:05,demo booked,demo booking page,Malcolm Ogilvie,mogilvie@tantramarphysio.example.ca,Tantramar Physio Group,Demo booked for 2027-05-11 13:30 (45 min). Notes: our owner will join. How did you hear about us: Owen's email
+A026,2027-04-26 09:10,demo booked,demo booking page,Reception,reception@fundyshorephysio.example.ca,Fundy Shore Physio,Demo booked for 2027-05-12 14:00 (45 min). Notes: for Des Hawkes + 4 clinic managers. How did you hear about us: Des
+A027,2027-04-26 13:22,trial started,trial sign-up form,Front Desk,frontdesk@hammondriverphysio.example.ca,Hammond River Physio,Trial started (14 days). How did you hear about us: Brianna met Owen in Saint John
+A028,2027-04-27 09:30,email sent,hello@ inbox,Clifford Brine,cliff@brinesportspine.example.ca,Brine Sport & Spine,Great to meet you at the Saint John Allied Health Forum!
+A029,2027-04-27 09:34,email sent,hello@ inbox,Yolanda Barrieau,yolanda@grandbayphysio.example.ca,Grand Bay Physiotherapy,Great to meet you at the Saint John Allied Health Forum!
+A030,2027-04-27 09:37,email sent,hello@ inbox,Shelley Gorham,sgorham@rothesayhealth.example.ca,Rothesay Health Collective,Great to meet you at the Saint John Allied Health Forum!
+A031,2027-04-27 09:41,email sent,hello@ inbox,Tom Belyea,tom.belyea@westsidephysio.example.ca,Westside Physiotherapy,Great to meet you at the Saint John Allied Health Forum!
+A032,2027-04-27 09:45,email sent,hello@ inbox,"Heidi Crandall, BKin",heidi@crandallkin.example.ca,Crandall Kinesiology & Massage,Great to meet you at the Saint John Allied Health Forum!
+A033,2027-04-27 09:49,email sent,hello@ inbox,Stuart Gaskin,stuart@gaskinat.example.ca,Gaskin Athletic Therapy,Great to meet you at the Saint John Allied Health Forum!
+A034,2027-04-27 09:52,reply received,hello@ inbox,Shelley Gorham,sgorham@rothesayhealth.example.ca,Rothesay Health Collective,Automatic reply: I am away from the office until 2027-05-03. For bookings please call the clinic.
+A035,2027-04-29 11:15,demo booked,demo booking page,Ruth Ellsworth,ruth.ellsworth.pt@example.com,Ellsworth Physio,Demo booked for 2027-05-19 14:30 (30 min). How did you hear about us: met Owen at the Saint John forum
+A036,2027-04-30 20:14,trial started,trial sign-up form,Reception,frontdesk@doironmassage.example.ca,Doiron Massage,Trial started (14 days). How did you hear about us: Paulette saw you at the forum in Saint John
+A037,2027-05-03 10:02,trial started,trial sign-up form,Priya Varghese,pvarghese@lakewoodphysio.example.ca,Lakewood Physio,Trial started (14 days). How did you hear about us: your email after the forum
+A038,2027-05-04 16:30,demo booked,demo booking page,Lowell Briggs,lowell@briggsphysio.example.ca,Briggs Physiotherapy,Demo booked for 2027-05-25 13:00 (30 min). How did you hear about us: walked past your booth in Saint John
+A039,2027-05-05 12:45,demo booked,demo booking page,Colleen Rice,colleen@seasidephysio.example.ca,Seaside Physio,Demo booked for 2027-05-26 14:00 (30 min). How did you hear about us: a colleague
+A040,2027-05-07 09:20,trial started,trial sign-up form,Jill Crawford,jill@crawfordmassage.example.ca,Crawford Massage,Trial started (14 days). How did you hear about us: at a conference
+A041,2027-05-10 18:02,trial started,trial sign-up form,Eric Moore,eric@mooreathletic.example.ca,Moore Athletic Therapy,Trial started (14 days). How did you hear about us: Facebook group

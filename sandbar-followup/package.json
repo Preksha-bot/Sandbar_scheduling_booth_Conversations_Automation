@@ -1,0 +1,12 @@
+{
+  "name": "sandbar-followup",
+  "private": true,
+  "description": "Sandbar trade-show follow-up: the engine, the Apps Script build and the Node runner.",
+  "scripts": {
+    "test": "node tests/run-tests.js",
+    "bundle": "node tools/bundle.js"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^1.6.0"
+  }
+}

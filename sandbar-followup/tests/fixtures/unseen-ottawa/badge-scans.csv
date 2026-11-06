@@ -1,0 +1,111 @@
+scan_id,scanned_at,scanned_by,first_name,last_name,title,company,email,phone,city,province,share_with_exhibitors,rating,notes
+S001,2027-02-08 09:14,Owen (iPad),Kate,Doyle,"Clinic Director, Physiotherapist",Rideau Valley Physiotherapy,kdoyle@rideauvalleyphysio.example.ca,613-555-0142,Ottawa,ON,Y,A,rideau valley - 3 sites - clinivo / DEMO w her 2 leads
+S002,2027-02-08 09:31,Nadia (phone),Dana,Lindgren,Clinic Manager,Kemptville Health Collective,dlindgren@kemptvillehealth.example.ca,613 555 0177,Kemptville,ON,Y,,2 clinics. gcal. sat double bookings betw the 2
+S003,2027-02-08 09:32,Owen (iPad),Tasha,Greer,RMT,Almonte Massage,tgreer@almontemassage.example.ca,613 555 0144,Almonte,ON,Y,,
+S004,2027-02-08 09:36,Owen (iPad),Peter,Vandermeer,Chiropractor,Kanata Chiropractic,peter.vandermeer@kanatachiro.example.com,613.555.0103,Kanata,ON,N,,
+S005,2027-02-08 09:40,Owen (iPad),Carl,Jessup,"Owner, Physiotherapist",Arnprior Physiotherapy,carl@arnpriorphysio.example.ca,(613) 555-0119,Arnprior,ON,Y,C,"clinivo - wants 2 reminders, day before + 2 hrs"
+S006,2027-02-08 09:48,Owen (iPad),Ruby,Sauvé,"Student, Physiotherapist Assistant program",Capital Valley College,ruby.sauve@capitalvalleycollege.example.ca,613-555-0171,Ottawa,ON,Y,,
+S007,2027-02-08 09:49,Owen (iPad),Declan,Hogue,"Student, Physiotherapist Assistant program",Capital Valley College,declan.hogue@capitalvalleycollege.example.ca,613 555 0143,Ottawa,ON,Y,,student
+S008,2027-02-08 09:53,Nadia (phone),Ross,Kellerman,Owner,Kellerman Physio,ross.kellerman@kellermanphysio.example.ca,(613) 555-0151,Smiths Falls,ON,Y,,
+S009,2027-02-08 09:56,Nadia (phone),Gina,Russo,RMT,Manotick Wellness,gina_russo@manotickwellness.example.ca,613.555.0143,Manotick,ON,Y,,
+S010,2027-02-08 10:02,Nadia (phone),Luca,Ferri,Physiotherapist,Hampton Park Sports Medicine,luca_ferri@hamptonparksportsmed.example.ca,(343) 555-0177,Ottawa,ON,Y,,
+S011,2027-02-08 10:12,Owen (iPad),Leanne,Fraser,"Owner, Physiotherapist",Mississippi Mills Physiotherapy,leanne@mmphysio.example.ca,613-555-0163,Almonte,ON,Y,A,owner. almonte + CP. both paper. DEMO
+S012,2027-02-08 10:13,Owen (iPad),Joanne,Pilon,Front Desk Lead,Mississippi Mills Physiotherapy,joanne@mmphysio.example.ca,613-555-0164,Carleton Place,ON,Y,B,"FD lead, w leanne. reminder info for FD"
+S013,2027-02-08 10:26,Nadia (phone),Priya,Natarajan,"RMT, Owner",Kanata Therapeutic Massage,priya@kanatamassage.example.ca,343-555-0108,Kanata,ON,Y,,gcal. trial for her 4 rmts
+S014,2027-02-08 10:44,Owen (iPad),Wyatt,Corrigan,Sales Representative,Trillium Treatment Tables,wcorrigan@trilliumtables.example.com,905-555-0162,Mississauga,ON,Y,,table guy - exhibitor
+S015,2027-02-08 10:58,Owen (iPad),Siobhan,Kearney,"Owner, RMT",Kearney Massage Therapy,siobhan@kearneymassage.example.ca,613.555.0151,Perth,ON,Y,C,
+S016,2027-02-08 11:02,Nadia (phone),Priyanka,Bose,"Student, Physiotherapist Assistant program",Capital Valley College,priyanka.bose@capitalvalleycollege.example.ca,343-555-0193,Nepean,ON,Y,,
+S017,2027-02-08 11:03,Nadia (phone),Bill,Harker,Physiotherapist,Arnprior Rehab,bill_harker@arnpriorrehab.example.com,613 555 0107,Arnprior,ON,Y,,
+S018,2027-02-08 11:20,Owen (iPad),Mohammed,Rahimi,"Owner, Physiotherapist",Glebe Sports Physio,mrahimi@glebesportsphysio.example.ca,613-555-0186,Ottawa,ON,Y,B,bookstead. $$. 5 physios + 2 pt timers
+S019,2027-02-08 11:34,Nadia (phone),Omar,Farouk,RMT,Centretown Massage,ofarouk@centretownmassage.example.ca,343.555.0174,Ottawa,ON,Y,,
+S020,2027-02-08 11:38,Nadia (phone),Anjali,Mehra,Physiotherapist,Stittsville Physio & Pilates,anjali@stittsvillepilates.example.ca,(613) 555-0188,Stittsville,ON,Y,,
+S021,2027-02-08 11:44,Owen (iPad),Jeff,Strand,"Physiotherapist, Owner",Strand Physiotherapy,jeff@strandphysio.example.com,613 555 0129,Carleton Place,ON,Y,C,"solo, paper, maybe 2028"
+S022,2027-02-08 11:46,Nadia (phone),Laurie,Pickett,Front Desk,Kanata North Physio,laurie@kanatanorthphysio.example.ca,613.555.0117,Kanata,ON,N,,
+S023,2027-02-08 11:51,Nadia (phone),Isabelle,Gagnon-Paquette,"Physiothérapeute, copropriétaire",Clinique Physio Outaouais,isabelle@physiooutaouais.example.ca,819-555-0147,Gatineau,QC,Y,,
+S024,2027-02-08 12:11,Owen (iPad),Erica,Thibault,Front Desk,Orleans Wellness,erica.thibault@orleanswellness.example.ca,613-555-0114,Orleans,ON,Y,,
+S025,2027-02-08 12:17,Owen (iPad),Elena,Popescu,Physiotherapist,Westboro Physio Studio,epopescu@westborophysiostudio.example.ca,(613) 555-0139,Ottawa,ON,Y,,
+S026,2027-02-08 12:18,Owen (iPad),Lorraine,Vachon,"RMT, Owner",Tenth Line Massage Therapy,lorraine@tenthlinemassage.example.ca,613-555-0138,Orléans,ON,Y,C,
+S027,2027-02-08 12:30,Owen (iPad),Bobbi,Sheridan,RMT,Perth Wellness Studio,bobbi@perthwellness.example.com,613.555.0125,Perth,ON,Y,,
+S028,2027-02-08 12:35,Nadia (phone),Monica,Tran,Clinic Manager,Merivale Physiotherapy,monica.tran@merivalephysio.example.com,(613) 555-0172,Nepean,ON,Y,,"1 loc, gcal, not ready"
+S029,2027-02-08 12:36,Owen (iPad),Carmen,Ortiz,Physiotherapist,Alta Vista Rehab,cortiz@altavistarehab.example.ca,(343) 555-0162,Ottawa,ON,Y,,
+S030,2027-02-08 12:47,Owen (iPad),Holly,Matheson,"RMT, Owner",Manotick Massage Therapy,holly@manotickmassage.example.ca,613.555.0115,Manotick,ON,Y,C,solo / paper
+S031,2027-02-08 12:50,Owen (iPad),Tim,Rourke,Athletic Therapist,Barrhaven AT Clinic,trourke@barrhavenat.example.ca,(343) 555-0106,Ottawa,ON,Y,,
+S032,2027-02-08 12:52,Nadia (phone),Michelle,Yuen,Clinic Manager,Chinatown Physio,michelle.yuen@chinatownphysio.example.ca,613-555-0147,Ottawa,ON,Y,,
+S033,2027-02-08 12:59,Owen (iPad),Rick,Sorensen,Clinic Owner,Hunt Club Physio,rick@huntclubphysio.example.ca,613-555-0189,Ottawa,ON,Y,,draw
+S034,2027-02-08 13:09,Owen (iPad),Paul,Haraldsen,"Owner, Physiotherapist",Stittsville Sports Physio,paul@stittsvillesportsphysio.example.ca,613-555-0191,Stittsville,ON,Y,B,pracshift. NO newsletter!!
+S035,2027-02-08 13:13,Owen (iPad),JULIE,BOUCHER,RMT,Boucher Massothérapie,julie.boucher@bouchermasso.example.ca,819 555 0166,Gatineau,QC,Y,,
+S036,2027-02-08 13:30,Owen (iPad),Simone,Achterberg,"Owner, RMT",Westboro Massage Collective,simone@westboromassage.example.ca,613 555 0124,Ottawa,ON,N,C,"2 locs, bookstead, nice"
+S037,2027-02-08 13:41,Owen (iPad),JONAH,WHITTY,"Student, Physiotherapist Assistant program",Capital Valley College,jonah.whitty@capitalvalleycollege.example.ca,613.555.0106,Ottawa,ON,Y,,
+S038,2027-02-08 13:48,Nadia (phone),Heidi,Lachance,Physiotherapist,Barrhaven Sports Clinic,heidi.lachance@barrhavensports.example.com,(343) 555-0111,Ottawa,ON,Y,,
+S039,2027-02-08 13:50,Nadia (phone),Joy,Ramkissoon,RMT,Nepean Massage Studio,joy@nepeanmassage.example.ca,343-555-0165,Nepean,ON,Y,,
+S040,2027-02-08 13:52,Owen (iPad),Brent,Holloway,Owner,Brockville Rehab Centre,brent@brockvillerehab.example.ca,613-555-0157,Brockville,ON,Y,B,"2 sites, xl, phone tag all day"
+S041,2027-02-08 13:59,Owen (iPad),Malik,Osman,Physiotherapist,Leitrim Physio,malik_osman@leitrimphysio.example.ca,343.555.0181,Ottawa,ON,Y,,
+S042,2027-02-08 14:01,Owen (iPad),Shannon,Leduc,RMT,Hawkesbury Massage,sleduc@hawkesburymassage.example.ca,613 555 0136,Hawkesbury,ON,Y,,
+S043,2027-02-08 14:03,Owen (iPad),Ella,Desrosiers,"Student, Massage Therapy",Bytown College,ella.desrosiers@bytowncollege.example.com,819-555-0122,Gatineau,QC,Y,,
+S044,2027-02-08 14:04,Owen (iPad),Tyson,Mallory,"Student, Massage Therapy",Bytown College,tyson.mallory@bytowncollege.example.com,613-555-0158,Ottawa,ON,Y,,swag
+S045,2027-02-08 14:15,Owen (iPad),Angela,Rinaldi,Office Manager,Alta Vista Massage Therapy,arinaldi@altavistamassage.example.ca,(613) 555-0133,Ottawa,ON,Y,,
+S046,2027-02-08 14:24,Owen (iPad),Craig,Dunlop,Kinesiologist,Nepean Active Rehab,craig_dunlop@nepeanactive.example.ca,(613) 555-0148,Nepean,ON,Y,,
+S047,2027-02-08 14:26,Owen (iPad),Samuel,Ayodele,Physiotherapist,Gloucester Rehab,samuel_ayodele@gloucesterrehab.example.com,613-555-0132,Ottawa,ON,Y,,
+S048,2027-02-08 14:33,Nadia (phone),Teresa,Muir,Front Desk Lead,Bank Street Physiotherapy,frontdesk@bankstreetphysio.example.ca,613-555-0112,Ottawa,ON,Y,,"front desk, owner decides. clinivo. wants waitlist"
+S049,2027-02-08 14:48,Owen (iPad),Rohan,Dutta,"Owner, Physiotherapist",Hintonburg Physiotherapy,rohan@hintonburgphysio.example.com,343.555.0126,Ottawa,ON,Y,C,
+S050,2027-02-08 14:58,Nadia (phone),Yvette,Lalande,Massothérapeute,Massothérapie Lalande,yvette@massolalande.example.ca,873-555-0191,Gatineau,QC,Y,,
+S051,2027-02-08 15:10,Owen (iPad),Ethan,Gauthier,"Physiotherapist, Owner",March Road Physiotherapy,ethan@marchroadphysio.example.ca,613-555-0149,Kanata,ON,Y,C,
+S052,2027-02-08 15:21,Nadia (phone),Rhonda,Kemp,Office Manager,Brockville Massage Clinic,rhonda.kemp@brockvillemassage.example.ca,613.555.0195,Brockville,ON,Y,,
+S053,2027-02-08 15:26,Owen (iPad),Greg,Halvorsen,Physiotherapist,Cumberland Physio,greg@cumberlandphysio.example.ca,613 555 0183,Orleans,ON,Y,,"gcal, 1 loc"
+S054,2027-02-08 15:38,Owen (iPad),Aaron,Fischer,Kinesiologist,Glebe Movement Lab,afischer@glebemovement.example.com,343-555-0110,Ottawa,ON,Y,,
+S055,2027-02-08 15:40,Owen (iPad),Kyle,Brodeur,"Owner, Physiotherapist",Brodeur Physiotherapy,kyle@brodeurphysio.example.ca,613-555-0105,Hawkesbury,ON,Y,,
+S056,2027-02-08 15:42,Owen (iPad),Derrick,Mbatha,Physiotherapist,Vanier Sports Physio,derrick_mbatha@vaniersportsphysio.example.ca,(343) 555-0154,Ottawa,ON,Y,,
+S057,2027-02-08 15:51,Nadia (phone),Shelby,Marchand,Exhibitor,Polaris Cold Therapy,shelby@polariscold.example.com,514-555-0140,Montréal,QC,Y,,
+S058,2027-02-08 16:02,Nadia (phone),Fatima,Al-Sayed,RMT,Aylmer Wellness Massage,fatima@aylmerwellness.example.ca,819.555.0161,Gatineau,QC,Y,,
+S059,2027-02-08 16:20,Nadia (phone),Tanya,Rousseau,"RMT, Owner",Rousseau Massage Therapy,tanya@rousseaumassage.example.ca,613-555-0174,Cornwall,ON,Y,,solo / gcal / send info
+S060,2027-02-08 16:27,Nadia (phone),Claire,Beaudoin,Ostéopathe,Ostéo Aylmer,cbeaudoin@osteoaylmer.example.ca,873.555.0169,Gatineau,QC,Y,,
+S061,2027-02-08 16:31,Owen (iPad),Brendan,Quinlan,Account Executive,Pracshift,brendan.quinlan@pracshift.example.com,647-555-0121,Toronto,ON,Y,,pracshift rep - fishing
+S062,2027-02-08 16:44,Owen (iPad),Melissa,Gravelle,RMT,Gravelle Massage,melissa@gravellemassage.example.ca,613 555 0152,Rockland,ON,Y,,coffee draw - didnt talk
+S063,2027-02-08 16:49,Owen (iPad),Connor,Pruett,Athletic Therapist,Orleans Athletic Therapy,connor@orleansat.example.ca,613.555.0133,Orleans,ON,Y,,
+S064,2027-02-09 09:05,Nadia (phone),Josée,Lacroix,Event Staff,Ottawa Valley Rehab & Wellness Expo,josee@ovrwexpo.example.ca,613-555-0100,Ottawa,ON,Y,,
+S065,2027-02-09 09:14,Owen (iPad),Ann-Marie,Coutu,Office Manager,Rockland Health Centre,annmarie_coutu@rocklandhealth.example.ca,613-555-0118,Rockland,ON,Y,,
+S066,2027-02-09 09:20,Owen (iPad),Sunil,Varma,Director of Operations,Capital Region Rehab,svarma@capitalregionrehab.example.com,613-555-0102,Ottawa,ON,Y,A,"CRR 4 sites, sheets per site, demo for ops team"
+S067,2027-02-09 09:35,Nadia (phone),Kate,Doyle,"Clinic Director, Physiotherapist",Rideau Valley Physiotherapy,kdoyle@rideauvalleyphysio.example.ca,613-555-0142,Ottawa,ON,Y,,kate again - demo confirmed w leads
+S068,2027-02-09 09:44,Owen (iPad),Rania,Nassar,Front Desk,Westgate Physio,rnassar@westgatephysio.example.ca,343.555.0170,Ottawa,ON,Y,,
+S069,2027-02-09 09:47,Nadia (phone),PAT,NOLAN,Physiotherapist,Bank & Walkley Physio,pat.nolan@bankwalkleyphysio.example.ca,343 555 0158,Ottawa,ON,Y,,
+S070,2027-02-09 09:58,Owen (iPad),Hana,Kovac,"Chiropractor, Owner",Kovac Chiropractic & Massage,hana@kovacchiro.example.ca,(613) 555-0167,Orleans,ON,Y,B,1 loc clinivo. demo. WSIB # on booking?? (check w Sam)
+S071,2027-02-09 09:59,Nadia (phone),Yuki,Tanaka,RMT,Sandy Hill Massage,yuki@sandyhillmassage.example.ca,613 555 0159,Ottawa,ON,N,,
+S072,2027-02-09 10:22,Nadia (phone),Nadine,Proulx,Practice Manager,Barrhaven Massage & Wellness,nadine@barrhavenmassage.example.ca,613.555.0135,Ottawa,ON,Y,,pracshift / 6 RMTs / online bkg down 2x in Jan / send pricing
+S073,2027-02-09 10:24,Owen (iPad),Darryl,Fenwick,Owner,Fenwick Fitness & Rehab,darryl.fenwick@fenwickrehab.example.com,613.555.0155,Cornwall,ON,Y,,
+S074,2027-02-09 10:26,Nadia (phone),Sophia,Lund,Physiotherapist,Kingston Sport & Spine,slund@kingstonsportspine.example.ca,613.555.0192,Kingston,ON,Y,,
+S075,2027-02-09 10:40,Owen (iPad),Ava,Kessler,"Student, Massage Therapy",Bytown College,ava.kessler@bytowncollege.example.com,613 555 0131,Kanata,ON,Y,,
+S076,2027-02-09 10:41,Owen (iPad),Noor,Saleh,"Student, Massage Therapy",Bytown College,noor.saleh@bytowncollege.example.com,343.555.0179,Ottawa,ON,N,,
+S077,2027-02-09 10:44,Owen (iPad),Trent,Albright,Physiotherapist,Brockville Physio Plus,trent@brockvillephysioplus.example.com,613.555.0122,Brockville,ON,Y,,
+S078,2027-02-09 10:51,Owen (iPad),Marcus,Bell,"Owner, Physiotherapist",Cataraqui Physiotherapy,marcus@cataraquiphysio.example.ca,613-555-0181,Kingston,ON,Y,A,"kingston, 3 sites, ALL paper"
+S079,2027-02-09 11:07,Nadia (phone),Brent,Holloway,Owner,Brockville Rehab Centre,brent@brockvillerehab.example.ca,613-555-0157,Brockville,ON,Y,,came by again
+S080,2027-02-09 11:30,Owen (iPad),Fergus,Lindsay,Regional Manager,Madawaska Physio & Rehab,flindsay@madawaskaphysio.example.ca,613 555 0153,Renfrew,ON,Y,B,
+S081,2027-02-09 11:46,Nadia (phone),Wendy,Archambault,Practice Manager,Orleans Family Physio,wendy@orleansfamilyphysio.example.ca,613-555-0118,Ottawa,ON,Y,,bookstead - price up ~30% jan
+S082,2027-02-09 12:12,Owen (iPad),Darnell,Pryce,Account Manager,Meridian Practice Insurance,darnell.pryce@meridianpractice.example.com,416-555-0187,Toronto,ON,Y,,draw entry
+S083,2027-02-09 12:13,Owen (iPad),Kerri-Ann,Lowe,Account Manager,Meridian Practice Insurance,kerriann.lowe@meridianpractice.example.com,613-555-0109,Ottawa,ON,Y,,
+S084,2027-02-09 12:20,Owen (iPad),Arthur,Penfold,VP Operations,Capital Physio Group,apenfold@capitalphysiogroup.example.com,613-555-0197,Ottawa,ON,Y,,"8 clinics - draw only, didnt talk"
+S085,2027-02-09 12:31,Nadia (phone),Mohammed,Rahimi,"Owner, Physiotherapist",Glebe Sports Physio,mrahimi@glebesportsphysio.example.ca,613-555-0186,Ottawa,ON,Y,,mo again - pricing by email for his accountant
+S086,2027-02-09 12:50,Nadia (phone),Ingrid,Solberg,Clinic Manager,Seaway Physio & Wellness,ingrid@seawayphysio.example.ca,613-555-0195,Cornwall,ON,N,,2 locs / pracshift / brochure for owner / physios hate the app
+S087,2027-02-09 12:56,Owen (iPad),Kelsey,Dunn,RMT,Westboro Wellness,kelsey.dunn@westborowellness.example.ca,(613) 555-0121,Ottawa,ON,N,,
+S088,2027-02-09 13:00,Nadia (phone),Farid,Haq,Physiotherapist,Cornwall Spine & Sport,fhaq@cornwallspine.example.ca,(613) 555-0180,Cornwall,ON,Y,,
+S089,2027-02-09 13:14,Owen (iPad),Andrew,Sinclair,"Owner, Physiotherapist",Sinclair Physiotherapy,andrew@sinclairphysio.example.ca,613.555.0146,Perth,ON,Y,,
+S090,2027-02-09 13:22,Nadia (phone),Tyson,Mallory,"Student, Massage Therapy",Bytown College,tyson.mallory@bytowncollege.example.com,613-555-0158,Ottawa,ON,Y,,back for more swag lol
+S091,2027-02-09 13:25,Nadia (phone),Lisa,Brandt,Physiotherapist,Kanata Lakes Physio,lisa@kanatalakesphysio.example.ca,613.555.0137,Kanata,ON,Y,,
+S092,2027-02-09 13:28,Nadia (phone),Benoît,Lavoie,Physiothérapeute,Clinique Lavoie,blavoie@cliniquelavoie.example.ca,(873) 555-0173,Gatineau,QC,Y,,
+S093,2027-02-09 13:36,Nadia (phone),Elaine,Burgess,Physiotherapist,Smiths Falls Physiotherapy,eburgess@smithsfallsphysio.example.ca,613 555 0169,Smiths Falls,ON,Y,,"clinivo, send info"
+S094,2027-02-09 13:56,Nadia (phone),Brad,Cormier,Owner,Cormier Physio,bcormier@cormierphysio.example.ca,613 555 0128,Hawkesbury,ON,Y,,
+S095,2027-02-09 13:58,Owen (iPad),Colleen,Ashworth,Clinic Manager,Navan Physiotherapy,colleen@navanphysio.example.ca,613-555-0127,Navan,ON,N,C,"paper, send brochure"
+S096,2027-02-09 14:02,Nadia (phone),Mathis,Bergeron,Kinesiology student,Gatineau Hills University,mathis.bergeron@gatineauhills.example.ca,819 555 0184,Gatineau,QC,Y,,
+S097,2027-02-09 14:03,Nadia (phone),Léa,Cyr,Kinesiology student,Gatineau Hills University,lea.cyr@gatineauhills.example.ca,873-555-0116,Gatineau,QC,Y,,student
+S098,2027-02-09 14:20,Owen (iPad),Sandra,Boateng,"RMT, Owner",Boateng Massage Therapy,sandra@boatengmassage.example.com,(343) 555-0155,Ottawa,ON,Y,C,"solo, sheets, just browsing"
+S099,2027-02-09 14:22,Nadia (phone),Hamid,Karimi,Physiotherapist,Bells Corners Physio,hamid.karimi@bellscornersphysio.example.ca,(343) 555-0129,Nepean,ON,Y,,
+S100,2027-02-09 14:41,Owen (iPad),Greg,Halvorsen,Physiotherapist,Cumberland Physio,greg@cumberlandphysio.example.ca,613 555 0183,Orleans,ON,Y,,
+S101,2027-02-09 14:55,Owen (iPad),Megan,Stuart,"Physiotherapist, Owner",Pine Hill Physio,megan@pinehillphysio.example.ca,613-555-0114,Russell,ON,Y,C,"xl, may sell clinic in a couple yrs"
+S102,2027-02-09 15:18,Owen (iPad),Douglas,Pattison,"Owner, RMT",Bonnechere Massage Therapy,doug@bonnecheremassage.example.ca,613.555.0198,Renfrew,ON,Y,C,
+S103,2027-02-09 15:26,Nadia (phone),Gwen,Atkins,Clinic Manager,Pembroke Wellness,gwen_atkins@pembrokewellness.example.ca,613 555 0140,Pembroke,ON,Y,,
+S104,2027-02-09 15:32,Nadia (phone),Bianca,Moretti,RMT,Little Italy Massage,bmoretti@littleitalymassage.example.ca,343.555.0185,Ottawa,ON,Y,,
+S105,2027-02-09 15:37,Nadia (phone),Jessica,Ouellette,Front Desk,Vanier Community Physio,jessica@vanierphysio.example.ca,613-555-0111,Ottawa,ON,Y,,"paper book, info for owner"
+S106,2027-02-09 15:41,Nadia (phone),Marie-Claude,Dion,Physiothérapeute,Physio Hull,marieclaude.dion@physiohull.example.ca,873-555-0196,Gatineau,QC,Y,,
+S107,2027-02-09 15:49,Owen (iPad),Stephanie,Wu,Physiotherapist,Barrhaven Physio,swu@barrhavenphysio.example.ca,343-555-0144,Ottawa,ON,Y,,draw entry
+S108,2027-02-09 16:14,Owen (iPad),Marty,Gold,Chiropractor,Gold Chiropractic,marty_gold@goldchiro.example.com,613.555.0102,Kingston,ON,Y,,
+S109,2027-02-09 16:29,Owen (iPad),Ivan,Petrov,Physiotherapist,Carp Road Physio,ipetrov@carproadphysio.example.ca,613 555 0184,Carp,ON,Y,,
+S110,2027-02-09 16:39,Owen (iPad),Dale,Kirkpatrick,Athletic Therapist,Kemptville Sports Therapy,dkirkpatrick@kemptvillesports.example.ca,613-555-0199,Kemptville,ON,Y,,

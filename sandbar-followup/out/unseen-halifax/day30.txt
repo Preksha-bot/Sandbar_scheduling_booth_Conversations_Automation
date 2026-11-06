@@ -1,0 +1,48 @@
+Day 30 (2026-12-24): 31 real conversations
+
+Demo booked: 4
+  - Kwame Asante, Clayton Park Physiotherapy: demo booked 2026-12-05 (A025, clinic email domain + "owen"); came on their own
+  - Imogen Crouse, Bluefin Physiotherapy: demo booked 2026-12-01 (A009, exact email)
+  - Bill Fraser, Eastern Passage Physiotherapy: demo booked 2026-12-03 (A022, exact email)
+  - Kenji Tanaka, Dartmouth Crossing Physio: demo booked 2026-12-09 (A030, exact email)
+
+Trial started: 2
+  - Tom Keddy, Anchorage Physio & Rehab: trial started 2026-12-07 (A026, clinic email domain + "expo"; 2 people at that clinic, the booking note names Tom Keddy); came on their own
+  - Rosalie Chiasson, Tidal Touch Massage: trial started 2026-12-02 (A011, surname + clinic name)
+
+Wrote, nothing came of it: 10
+  - Nathaniel Surette, Harbour Light Chiropractic: first email 2026-11-30 (1 sent)
+  - Callum Rideout, Tantallon Physio & Rehab: first email 2026-12-03 (1 sent)
+  - Priya Dhillon, Anchorage Physio & Rehab: first email 2026-11-30 (1 sent)
+  - Malcolm Dingwell, Celtic Shores Rehab Group: first email 2026-11-30 (1 sent)
+  - Petra Zwicker, Kinburn Physiotherapy: first email 2026-12-03 (1 sent)
+  - Sadie Langley, Avon River Physiotherapy: first email 2026-12-08 (1 sent)
+  - Rhiannon Weatherbee, Kingfisher Massage Therapy: first email 2026-12-03 (1 sent)
+  - Tamsin Gould, Herring Cove Physio: first email 2026-12-08 (1 sent)
+  - Wendell Sampson, Sampson Therapeutic Massage: first email 2026-12-03 (1 sent); asked to be removed after, stays in view, no more drafts
+  - Darlene Hiltz, Musquodoboit Valley Physio: first email 2026-12-03 (1 sent)
+
+Never wrote: 13
+  - Hamid Noori, Eastern Shore Massage: promised trial but never sent
+  - Josée Saulnier, Clinique Physio Baie Sainte-Marie: promised pricing but never sent
+  - Robert Cheverie, Brierly Brook Physiotherapy: promised pricing but never sent
+  - Teodor Vasilescu, Northwest Arm Massage: promised pricing but never sent
+  - Shona MacPhee, Margaree Physiotherapy: promised call back but never sent
+  - Marcy Dauphinee, Spryfield Physio: never written to
+  - Leo Cormier, Riverview Sport & Spine: never written to
+  - Lorraine Pyke, Mahone Bay Massage & Wellness: the only email bounced (lorraine@mahonebaymasage.example.ca)
+  - Alasdair Gunn, Gunn Sport Physio: never written to
+  - Desmond Okoye, Sackville Sports Physio: never written to
+  - Bernadette Muise, Muise Massage Therapy: never written to
+  - Brenda Feltmate, Waverley Physio: never written to
+  - Yolanda Pierce, LaHave River Physio: never written to
+
+Not sorted yet: 5
+  - Nathaniel Surette: Owen wrote, no update (no outcome tapped)
+  - Priya Dhillon: Owen wrote, no update (no outcome tapped)
+  - Rhoda Pike: still in review: note says "referral deal": needs context (Owen)
+  - Malcolm Dingwell: Owen wrote, no update (no outcome tapped)
+  - Fiona Rudderham: still in review: badge not opted in to sharing, no card, nothing asked (strictest reading until Erin okays the wording)
+
+Cost $9000 · $290.32 per conversation · $1500 per demo or trial
+Assumption, labelled: a paying clinic is about $200 a month (about $2,400 a year). A $9,000 show pays back within a year with 4 paying clinics, or with 2 kept for two years. Paying clinics are counted at day 90 from Erin's invoices.

@@ -1,0 +1,35 @@
+event_id,date_time,event,channel,name,email,clinic,detail
+A001,2026-11-25 14:20,trial started,trial sign-up form,Marcel Poirier,marcel@poiriermassage.example.ca,Poirier Massage,Trial started (14 days). How did you hear about us: Instagram
+A002,2026-11-27 10:15,demo booked,demo booking page,Ainsley Corkum,ainsley@corkumphysio.example.ca,Corkum Physio,Demo booked for 2026-12-15 14:00 (30 min). How did you hear about us: Google search
+A003,2026-11-29 20:40,email sent,Owen's mailbox,Imogen Crouse,imogen@bluefinphysio.example.ca,Bluefin Physiotherapy,Bluefin - a time for the walkthrough
+A004,2026-11-30 21:02,email sent,Owen's mailbox,Priya Dhillon,priya@anchoragephysio.example.ca,Anchorage Physio & Rehab,Anchorage - pricing for your 22 practitioners
+A005,2026-11-30 21:15,email sent,Owen's mailbox,William Fraser,wfraser@easternpassagephysio.example.ca,Eastern Passage Physiotherapy,Eastern Passage - demo with your PTs
+A006,2026-11-30 21:30,email sent,Owen's mailbox,Malcolm Dingwell,malcolm.dingwell@celticshoresrehab.example.ca,Celtic Shores Rehab Group,Celtic Shores - one-pager for the board
+A007,2026-11-30 21:41,email sent,Owen's mailbox,Nate Surette,drnate@harbourlightchiro.example.ca,Harbour Light Chiropractic,Harbour Light - demo for you and your associate
+A008,2026-11-30 21:50,email sent,Owen's mailbox,Rosalie Chiasson,rosalie@tidaltouchmassage.example.ca,Tidal Touch Massage,Tidal Touch - your trial account
+A009,2026-12-01 09:12,demo booked,demo booking page,Imogen Crouse,imogen@bluefinphysio.example.ca,Bluefin Physio,Demo booked for 2026-12-16 13:30 (30 min). How did you hear about us: Owen
+A010,2026-12-01 11:30,reply received,Owen's mailbox,Malcolm Dingwell,malcolm.dingwell@celticshoresrehab.example.ca,Celtic Shores Rehab Group,"Thanks Owen, this will go in the January board pack. I'll be in touch after."
+A011,2026-12-02 19:45,trial started,trial sign-up form,Rosalie Chiasson,rosie.chiasson@example.com,Tidal Touch Massage,Trial started (14 days). How did you hear about us: Owen's email
+A012,2026-12-03 09:30,email sent,hello@ inbox,Rhiannon Weatherbee,rhiannon@kingfishermassage.example.ca,Kingfisher Massage Therapy,Great to meet you at the Maritime Allied Health Expo!
+A013,2026-12-03 09:33,email sent,hello@ inbox,Lorraine Pyke,lorraine@mahonebaymasage.example.ca,Mahone Bay Massage & Wellness,Great to meet you at the Maritime Allied Health Expo!
+A014,2026-12-03 09:36,email sent,hello@ inbox,Bill Fraser,bill@easternpassagephysio.example.ca,Eastern Passage Physiotherapy,Great to meet you at the Maritime Allied Health Expo!
+A015,2026-12-03 09:40,email sent,hello@ inbox,Callum Rideout,callum@tantallonphysio.example.ca,Tantallon Physio & Rehab,Great to meet you at the Maritime Allied Health Expo!
+A016,2026-12-03 09:43,email sent,hello@ inbox,Wendell Sampson,wendell@sampsonmassage.example.ca,Sampson Therapeutic Massage,Great to meet you at the Maritime Allied Health Expo!
+A017,2026-12-03 09:47,email sent,hello@ inbox,Petra Zwicker,petra@kinburnphysio.example.ca,Kinburn Physiotherapy,Great to meet you at the Maritime Allied Health Expo!
+A018,2026-12-03 09:50,email sent,hello@ inbox,Darlene Hiltz,darlene@mvphysio.example.ca,Musquodoboit Valley Physio,Great to meet you at the Maritime Allied Health Expo!
+A019,2026-12-03 09:53,email sent,hello@ inbox,Kenji Tanaka,kenji@dartmouthcrossingphysio.example.ca,Dartmouth Crossing Physio,Great to meet you at the Maritime Allied Health Expo!
+A020,2026-12-03 09:58,email sent,hello@ inbox,Dale Eisnor,dale@hubbardsphysio.example.ca,Hubbards Physio,Great to meet you at the Maritime Allied Health Expo!
+A021,2026-12-03 10:02,email bounced,hello@ inbox,Mail Delivery Subsystem,lorraine@mahonebaymasage.example.ca,,Delivery failed: address not found (lorraine@mahonebaymasage.example.ca)
+A022,2026-12-03 16:20,demo booked,demo booking page,William Fraser,wfraser@easternpassagephysio.example.ca,Eastern Passage Physio,Demo booked for 2026-12-17 14:00 (45 min). Notes: two of my physios will join. How did you hear about us: Owen
+A023,2026-12-04 08:12,reply received,hello@ inbox,Wendell Sampson,wendell@sampsonmassage.example.ca,Sampson Therapeutic Massage,Please unsubscribe me from your emails.
+A024,2026-12-04 13:40,reply received,hello@ inbox,Dale Eisnor,dale@hubbardsphysio.example.ca,Hubbards Physio,I only filled in a raffle ticket. Please remove me from your list.
+A025,2026-12-05 10:00,demo booked,demo booking page,Front Desk,frontdesk@claytonparkphysio.example.ca,Clayton Park Physio,Demo booked for 2026-12-22 13:00 (30 min). Notes: for Kwame Asante. How did you hear about us: Kwame met Owen at the Halifax expo
+A026,2026-12-07 15:10,trial started,trial sign-up form,Tom K.,frontdesk.bedford@anchoragephysio.example.ca,Anchorage Physio,Trial started (14 days). How did you hear about us: Halifax health expo
+A027,2026-12-08 09:20,email sent,hello@ inbox,Sadie Langley,sadie@avonriverphysio.example.ca,Avon River Physiotherapy,Great to meet you at the Maritime Allied Health Expo!
+A028,2026-12-08 09:24,email sent,hello@ inbox,Tamsin Gould,tamsin@herringcovephysio.example.ca,Herring Cove Physio,Great to meet you at the Maritime Allied Health Expo!
+A029,2026-12-08 11:05,demo booked,demo booking page,Gail Hennigar,gail@hennigarphysio.example.ca,Hennigar Physiotherapy,Demo booked for 2026-12-23 14:00 (30 min). How did you hear about us: saw your booth in Halifax
+A030,2026-12-09 14:30,demo booked,demo booking page,Kenji Tanaka,kenji@dartmouthcrossingphysio.example.ca,Dartmouth Crossing Physio,Demo booked for 2027-01-06 13:00 (30 min). Notes: my clinic manager will join. How did you hear about us: your email after the expo
+A031,2026-12-10 16:45,trial started,trial sign-up form,Raymond Ng,raymond@ngwellness.example.ca,Ng Wellness,Trial started (14 days). How did you hear about us: review site
+A032,2026-12-14 09:05,demo booked,demo booking page,Jessie Wournell,jessie@wournellphysio.example.ca,Wournell Physio,Demo booked for 2027-01-07 14:30 (30 min). How did you hear about us: a colleague
+A033,2026-12-16 18:30,trial started,trial sign-up form,Celeste Amero,celeste@ameromassage.example.ca,Amero Massage,Trial started (14 days). How did you hear about us: podcast
+A034,2026-12-18 10:22,reply received,Owen's mailbox,Priya Dhillon,priya@anchoragephysio.example.ca,Anchorage Physio & Rehab,Thanks Owen. We'll look at this with the partners in the new year.

@@ -1,0 +1,377 @@
+Owen's list
+
+== 1. Asked for something (promises first) (6)
+- Sunil Varma, Capital Region Rehab [hot · demo] → svarma@capitalregionrehab.example.com
+  flags: line taken from the voice note wording: check it reads right
+  Subject: Capital Region demo
+    Hi Sunil,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned every site keeps its own spreadsheet and head office can't see the whole week. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Kate Doyle, Rideau Valley Physiotherapy [hot · demo] → kathryn@rideauvalleyphysio.example.ca
+  flags: line taken from the voice note wording: check it reads right
+  Subject: Rideau Valley demo
+    Hi Kate,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned clients can't pick which physio they want when they book online. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Leanne Fraser, Mississippi Mills Physiotherapy [hot · demo] → leanne@mmphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Mississippi Mills demo
+    Hi Leanne,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Graham Tessier, Upper Valley Physiotherapy [hot · pricing] → graham@uppervalleyphysio.example.ca
+  flags: line taken from the voice note wording: check it reads right
+  Subject: Pricing for Upper Valley Physiotherapy
+    Hi Graham,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. As promised, here's the pricing: it's $34 per practitioner per month.
+    
+    You mentioned petawawas mostly military families and they cancel on short notice all the time. Happy to walk you through how that would work.
+    
+    If it's easier to see it in action, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Gwen Atkins, Pembroke Wellness [hot · pricing] → gwen_atkins@pembrokewellness.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Pricing for Pembroke Wellness
+    Hi Gwen,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. As promised, here's the pricing: it's $34 per practitioner per month.
+    
+    If it's easier to see it in action, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Mohammed Rahimi, Glebe Sports Physio [hot · pricing] → mo@glebesportsphysio.example.ca
+  Subject: Pricing for Glebe Sports Physio
+    Hi Mohammed,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. As promised, here's the pricing in writing for your partner: it's $34 per practitioner per month, so the price for your 5 physios is $170 a month at list.
+    
+    If it's easier to see it in action, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== 2. Call tasks (2)
+- Fergus Lindsay, Madawaska Physio & Rehab [warm · thank-you note] → fergus.lindsay@madawaskaphysio.example.ca
+  call: Owen to call: big group (3 locations), after the promises
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Fergus,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned your Bookstead contract coming up for renewal.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Marcus Bell, Cataraqui Physiotherapy [warm · thank-you note] → marcus@cataraquiphysio.example.ca
+  call: Owen to call: big group (3 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Marcus,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned every front desk across your clinics still working from a paper book.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== 3. Real conversations (18)
+- Joanne Pilon, Mississippi Mills Physiotherapy [warm · send info] → joanne@mmphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia; line taken from the voice note wording: check it reads right
+  Subject: Mississippi Mills - the one-pager
+    Hi Joanne,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    You mentioned you want something you can read on how the reminders work. If you want a proper look at that, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Fergus Lindsay, Madawaska Physio & Rehab [warm · thank-you note] → fergus.lindsay@madawaskaphysio.example.ca
+  call: Owen to call: big group (3 locations), after the promises
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Fergus,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned your Bookstead contract coming up for renewal.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Marcus Bell, Cataraqui Physiotherapy [warm · thank-you note] → marcus@cataraquiphysio.example.ca
+  call: Owen to call: big group (3 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Marcus,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned every front desk across your clinics still working from a paper book.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Brent Holloway, Brockville Rehab Centre [warm · thank-you note] → brent@brockvillerehab.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Brent,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned your front desk playing phone tag all day confirming appointments.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Lorraine Vachon, Tenth Line Massage Therapy [warm · thank-you note] → lorraine@tenthlinemassage.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Lorraine,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned your one front desk person drowning in phone bookings.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Paul Haraldsen, Stittsville Sports Physio [warm · thank-you note] → paul@stittsvillesportsphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Paul,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned being fed up with the marketing emails Pracshift sends you.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Carl Jessup, Arnprior Physiotherapy [warm · thank-you note] → carl@arnpriorphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Carl,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned wanting reminders the day before and again closer to the appointment.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Rohan Dutta, Hintonburg Physiotherapy [warm · thank-you note] → rohan@hintonburgphysio.example.com
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Rohan,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned wanting a deposit taken when clients book.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Siobhan Kearney, Kearney Massage Therapy [warm · thank-you note] → siobhan@kearneymassage.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Siobhan,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned clients phoning in to move appointments instead of doing it online.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Angela Rinaldi, Alta Vista Massage Therapy [cold · send info] → arinaldi@altavistamassage.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Alta Vista - the one-pager
+    Hi Angela,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Kyle Brodeur, Brodeur Physiotherapy [cold · send info] → kyle@brodeurphysio.example.ca
+  flags: card email typo?; no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Brodeur - the one-pager
+    Hi Kyle,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Ethan Gauthier, March Road Physiotherapy [cold · thank-you note] → ethan@marchroadphysio.example.ca
+  flags: list line matched by description: check; no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Ethan,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Greg Halvorsen, Cumberland Physio [cold · thank-you note] → greg@cumberlandphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Greg,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Jeff Strand, Strand Physiotherapy [cold · thank-you note] → jeff@strandphysio.example.com
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Jeff,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Sandra Boateng, Boateng Massage Therapy [cold · thank-you note] → sandra@boatengmassage.example.com
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Sandra,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Andrew Sinclair, Sinclair Physiotherapy [cold · thank-you note] → andrew@sinclairphysio.example.ca
+  flags: line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Andrew,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned wanting online booking eventually.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Douglas Pattison, Bonnechere Massage Therapy [cold · thank-you note] → doug@bonnecheremassage.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Doug,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Megan Stuart, Pine Hill Physio [cold · thank-you note] → megan@pinehillphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Ottawa Valley Rehab & Wellness Expo
+    Hi Megan,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== Waiting (1)
+- Hana Kovac, Kovac Chiropractic & Massage [hot · demo] → hana@kovacchiro.example.ca
+  waiting on an answer: we can put the wsib claim number on the booking (the draft waits, never guesses)
+  flags: line taken from the short note wording: check it reads right
+  Subject: Kovac Chiropractic demo
+    Hi Hana,
+    
+    Good to meet you at the Ottawa Valley Rehab & Wellness Expo. You mentioned asking about WSIB # on booking. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    You asked about we can put the wsib claim number on the booking: [ANSWER NEEDED: Nadia or Owen]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".

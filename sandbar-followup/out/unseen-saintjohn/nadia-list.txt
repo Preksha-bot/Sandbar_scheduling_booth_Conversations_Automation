@@ -1,0 +1,26 @@
+Nadia's list
+
+== 1. Asked for something (promises first) (1)
+- Josée Cyr, Clinique Physio Madawaska [hot · pricing] → josee.cyr@physiomadawaska.example.ca
+  Subject: Prix pour Clinique Physio Madawaska
+    Bonjour Josée,
+    
+    Merci pour notre conversation au salon Saint John Allied Health Forum. Comme promis, voici nos prix par écrit : c'est 34 $ par praticien par mois.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. Pour ne plus recevoir nos courriels, écrivez à hello@[DOMAIN] avec « Unsubscribe ».
+
+== 3. Real conversations (1)
+- Raymond Losier, Losier Physiotherapy [cold · thank-you note] → ray@losierphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Raymond,
+    
+    Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".

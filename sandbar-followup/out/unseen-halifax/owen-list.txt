@@ -1,0 +1,329 @@
+Owen's list
+
+== 1. Asked for something (promises first) (10)
+- Kwame Asante, Clayton Park Physiotherapy [hot · demo] → kwame@claytonparkphysio.example.ca
+  flags: line taken from the voice note wording: check it reads right
+  Subject: Clayton Park demo
+    Hi Kwame,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned their online booking keeps showing slots that are already gone and patients turn up for nothing. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Imogen Crouse, Bluefin Physiotherapy [hot · demo] → imogen@bluefinphysio.example.ca
+  flags: line taken from the voice note wording: check it reads right
+  Subject: Bluefin demo
+    Hi Imogen,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned your front desk spends an hour every morning on reminder calls. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Nathaniel Surette, Harbour Light Chiropractic [hot · demo] → drnate@harbourlightchiro.example.ca
+  flags: list line matched by description: check
+  Subject: Harbour Light Chiropractic demo
+    Hi Nate,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned not being able to see both clinics in one calendar on Pracshift. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Bill Fraser, Eastern Passage Physiotherapy [hot · demo] → wfraser@easternpassagephysio.example.ca
+  Subject: Eastern Passage demo
+    Hi Bill,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned your Clinivo contract coming up for renewal in February. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Tom Keddy, Anchorage Physio & Rehab [hot · trial] → tom.keddy@anchoragephysio.example.ca
+  Subject: Trial for Anchorage
+    Hi Tom,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned your Bookstead contract coming up for renewal in March.
+    
+    Here's the trial link so you can try it out: [TRIAL LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Hamid Noori, Eastern Shore Massage [hot · trial] → hamid@easternshoremassage.example.ca
+  flags: list line matched by description: check; line taken from the voice note wording: check it reads right; send in February
+  Subject: Trial for Eastern Shore
+    Hi Hamid,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned wanting a test drive for yourself and your two RMTs.
+    
+    Here's the trial link so you can try it out: [TRIAL LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Rosalie Chiasson, Tidal Touch Massage [hot · trial] → rosalie@tidaltouchmassage.example.ca
+  flags: list line matched by description: check
+  Subject: Trial for Tidal Touch
+    Hi Rosie,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned Bookstead being too pricey for your 3 RMTs.
+    
+    Here's the trial link so you can try it out: [TRIAL LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Priya Dhillon, Anchorage Physio & Rehab [hot · pricing] → priya@anchoragephysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Pricing for Anchorage Physio & Rehab
+    Hi Priya,
+    
+    Good to meet you at the Maritime Allied Health Expo. As promised, here's the pricing: it's $34 per practitioner per month.
+    
+    If it's easier to see it in action, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Robert Cheverie, Brierly Brook Physiotherapy [hot · pricing] → rcheverie@brierlybrookphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Pricing for Brierly Brook Physiotherapy
+    Hi Rob,
+    
+    Good to meet you at the Maritime Allied Health Expo. As promised, here's the pricing: it's $34 per practitioner per month, so the price for your 3 PTs is $102 a month at list.
+    
+    If it's easier to see it in action, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Shona MacPhee, Margaree Physiotherapy [hot · call back] → shona@margareephysio.example.ca
+  call: Owen to call after New Year's
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Margaree - I'll call after New Year's
+    Hi Shona,
+    
+    Good to meet you at the Maritime Allied Health Expo.
+    
+    As you asked, I'll give you a call after New Year's.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== 2. Call tasks (1)
+- Malcolm Dingwell, Celtic Shores Rehab Group [warm · send info] → malcolm.dingwell@celticshoresrehab.example.ca
+  call: Owen to call: big group (7 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Celtic Shores - something for your board
+    Hi Malcolm,
+    
+    Good to meet you at the Maritime Allied Health Expo. Here's the one-pager to show your board: [ONE-PAGER LINK]. Pricing is $34 per practitioner per month.
+    
+    You mentioned taking it to your board in January.
+    
+    Happy to answer anything that comes up, or to join a call with your board.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== 3. Real conversations (11)
+- Malcolm Dingwell, Celtic Shores Rehab Group [warm · send info] → malcolm.dingwell@celticshoresrehab.example.ca
+  call: Owen to call: big group (7 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Celtic Shores - something for your board
+    Hi Malcolm,
+    
+    Good to meet you at the Maritime Allied Health Expo. Here's the one-pager to show your board: [ONE-PAGER LINK]. Pricing is $34 per practitioner per month.
+    
+    You mentioned taking it to your board in January.
+    
+    Happy to answer anything that comes up, or to join a call with your board.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Kenji Tanaka, Dartmouth Crossing Physio [warm · thank-you note] → kenji@dartmouthcrossingphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Kenji,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned wanting cancellations filled from a waitlist.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Lorraine Pyke, Mahone Bay Massage & Wellness [warm · thank-you note] → lorraine@mahonebaymassage.example.ca
+  flags: card email typo?; provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Lorraine,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned wanting couples rooms booked as one appointment.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Alasdair Gunn, Gunn Sport Physio [warm · thank-you note] → alasdair@gunnsportphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia; line taken from the voice note wording: check it reads right
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Alasdair,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned clients can't rebook from the Clinivo reminder text.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Desmond Okoye, Sackville Sports Physio [warm · thank-you note] → des@sackvillesportsphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Des,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned wanting online booking to shut off 2 hours before.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Petra Zwicker, Kinburn Physiotherapy [warm · thank-you note] → petra@kinburnphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Petra,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned Bookstead putting their price up again.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Rhiannon Weatherbee, Kingfisher Massage Therapy [cold · send info] → rhiannon@kingfishermassage.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Kingfisher - the one-pager
+    Hi Rhiannon,
+    
+    Good to meet you at the Maritime Allied Health Expo. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Tamsin Gould, Herring Cove Physio [cold · send info] → tamsin@herringcovephysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Herring Cove - something for your associate
+    Hi Tamsin,
+    
+    Good to meet you at the Maritime Allied Health Expo. Here's the one-pager to show your associate: [ONE-PAGER LINK]. Pricing is $34 per practitioner per month.
+    
+    Happy to answer anything that comes up, or to join a call with your associate.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Brenda Feltmate, Waverley Physio [cold · thank-you note] → brenda@waverleyphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Brenda,
+    
+    Good to meet you at the Maritime Allied Health Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Darlene Hiltz, Musquodoboit Valley Physio [cold · thank-you note] → darlene@mvphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Darlene,
+    
+    Good to meet you at the Maritime Allied Health Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Yolanda Pierce, LaHave River Physio [cold · thank-you note] → yolanda@lahaveriverphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Yolanda,
+    
+    Good to meet you at the Maritime Allied Health Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== Waiting (1)
+- Callum Rideout, Tantallon Physio & Rehab [hot · demo] → callum@tantallonphysio.example.ca
+  waiting on an answer: whether we can fill in the WCB claim forms (the draft waits, never guesses)
+  flags: list line matched by description: check; line taken from the short note wording: check it reads right
+  Subject: Tantallon demo
+    Hi Callum,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned asking about WCB forms. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    You asked about whether we can fill in the WCB claim forms: [ANSWER NEEDED: Nadia or Owen]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".

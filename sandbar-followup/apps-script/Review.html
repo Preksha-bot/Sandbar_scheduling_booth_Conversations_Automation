@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<base target="_top">
+<meta charset="utf-8">
+<style>
+  :root { --fg:#1d1d1b; --muted:#6b6a65; --line:#e4e1d8; --bg:#fbfaf7; --card:#fff; --accent:#1f6f5c; --accent-soft:#e3f1ec; --warn:#b8452f; --ask:#7a5a12; --ask-soft:#fbf1da; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:14px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; color:var(--fg); background:var(--bg); }
+  header { position:sticky; top:0; z-index:3; background:var(--bg); border-bottom:1px solid var(--line); padding:10px 14px; display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+  header h1 { font-size:16px; margin:0; }
+  header .grow { flex:1; }
+  .msg { padding:8px 14px; background:var(--accent-soft); color:var(--accent); font-weight:600; display:none; }
+  .msg.bad { background:#fbe9e5; color:var(--warn); }
+  main { padding:4px 14px 40px; }
+  .intro { color:var(--muted); margin:10px 0 4px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin:12px 0; }
+  .card h2 { font-size:15px; margin:0 0 4px; }
+  .why { color:var(--muted); margin-bottom:4px; }
+  .now { font-size:13px; color:var(--muted); }
+  .tag { display:inline-block; font-size:12px; padding:1px 8px; border-radius:999px; background:#efede6; color:var(--muted); margin-right:6px; }
+  .tag.asked { background:var(--ask-soft); color:var(--ask); }
+  table.ctx { width:100%; border-collapse:collapse; margin:8px 0; font-size:13px; }
+  table.ctx td { border-top:1px solid var(--line); padding:5px 6px; vertical-align:top; }
+  table.ctx td.l { width:130px; color:var(--muted); white-space:nowrap; }
+  .cmp { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+  .cmp > div { border:1px dashed var(--line); border-radius:8px; padding:6px 8px; }
+  .cmp b { font-size:13px; }
+  .opts { display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; align-items:center; }
+  button { font:inherit; border-radius:8px; padding:7px 12px; border:1px solid #cfccc2; background:#fff; color:var(--fg); cursor:pointer; }
+  button:hover { border-color:var(--accent); }
+  button.sug { border:2px solid var(--accent); background:var(--accent-soft); font-weight:600; }
+  button.primary { background:var(--accent); color:#fff; border-color:var(--accent); font-weight:600; }
+  button:disabled { opacity:.5; cursor:default; }
+  .sugwhy { font-size:12px; color:var(--accent); margin-top:4px; }
+  select { font:inherit; padding:6px; border-radius:8px; border:1px solid #cfccc2; max-width:420px; }
+  details.fyi { margin-top:20px; }
+  details.fyi summary { cursor:pointer; color:var(--muted); }
+  .fyiw { border-top:1px solid var(--line); padding:6px 0; display:flex; gap:10px; align-items:baseline; flex-wrap:wrap; }
+  .fyiw code { font-weight:700; }
+  .done { text-align:center; padding:40px 10px; color:var(--accent); font-size:16px; }
+  #busy { position:fixed; inset:0; background:rgba(251,250,247,.75); display:none; align-items:center; justify-content:center; z-index:9; font-weight:600; }
+</style>
+</head>
+<body>
+<header>
+  <h1 id="h">Check first</h1>
+  <span class="grow"></span>
+  <button class="primary" id="acceptAll" onclick="acceptAll()" disabled>Accept all suggestions</button>
+  <button onclick="load()">Refresh</button>
+</header>
+<div class="msg" id="msg"></div>
+<main id="main"><p class="intro">Loading the questions… (a few seconds)</p></main>
+<div id="busy">Saving and updating Owen's and Nadia's lists… (about 10 seconds)</div>
+<script>
+  var DATA = null;
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function busy(on) { document.getElementById('busy').style.display = on ? 'flex' : 'none'; }
+  function say(text, bad) { var m = document.getElementById('msg'); m.textContent = text || ''; m.className = 'msg' + (bad ? ' bad' : ''); m.style.display = text ? 'block' : 'none'; }
+  function fail(e) {
+    busy(false);
+    var m = String(e && e.message || e);
+    say(/PERMISSION_DENIED|storage|authorization/i.test(m)
+      ? 'Google blocked this window (' + m + '). The browser is signed in to more than one Google account: open the Sheet in a private window signed in only to the Sheet\'s account.'
+      : 'Not saved: ' + m, true);
+  }
+  function run(fn, args, quiet) {
+    if (!quiet) busy(true);
+    var r = google.script.run.withSuccessHandler(function (d) { busy(false); draw(d); }).withFailureHandler(fail);
+    r[fn].apply(r, args || []);
+  }
+  function load() { say(''); document.getElementById('main').innerHTML = '<p class="intro">Loading the questions… (a few seconds)</p>'; run('getQuestions', [], true); }
+  function answer(i, value) {
+    var q = DATA.questions[i], pick = '';
+    if (value === 'pick') { pick = document.getElementById('pick_' + i).value; if (!pick) { say('Choose a person in the list first.', true); return; } }
+    run('answerQuestion', [q.id, value, pick]);
+  }
+  function acceptAll() {
+    var n = DATA.questions.filter(function (q) { return q.suggestion && !q.asked; }).length;
+    if (!n) return;
+    if (!confirm('Answer ' + n + ' question' + (n === 1 ? '' : 's') + ' with the green suggestion?\n\nSuggestions are only ever the safe choice: don\'t email, ask the person who was there, or join a duplicate card.')) return;
+    run('acceptSuggestions');
+  }
+  function teach(w) { run('teachWord', [w]); }
+
+  var TYPE = { optin: 'Badge says don\'t share', dnc: 'Do-not-email match', card: 'Same person?', optout: 'Opt-out note', customer: 'Existing customer?',
+    context: 'Needs context', words: 'Unknown words', assign: 'Note not placed', stopped: 'Draft stopped' };
+
+  function ctxTable(rows) {
+    return '<table class="ctx">' + (rows || []).map(function (c) { return '<tr><td class="l">' + esc(c.label) + '</td><td>' + esc(c.text) + '</td></tr>'; }).join('') + '</table>';
+  }
+
+  function draw(d) {
+    DATA = d;
+    if (d.message) say(d.message);
+    var qs = d.questions || [];
+    document.getElementById('h').textContent = 'Check first · ' + (d.show || 'this show') + ' · ' + qs.length + ' question' + (qs.length === 1 ? '' : 's');
+    var sugN = qs.filter(function (q) { return q.suggestion && !q.asked; }).length;
+    var aa = document.getElementById('acceptAll');
+    aa.disabled = !sugN; aa.textContent = 'Accept all suggestions (' + sugN + ')';
+    var html = '';
+    if (!qs.length) html += '<div class="done">✓ Nothing to check. Owen\'s and Nadia\'s lists are up to date.</div>';
+    else html += '<p class="intro">Each card shows everything about the person. Click an answer: it is saved (with your name and the date) and the lists update straight away. ' +
+      'The <b style="color:var(--accent)">green</b> button is the tool\'s suggestion. "Ask Owen / Nadia" puts the question on the top of their phone page.</p>';
+    qs.forEach(function (q, i) {
+      html += '<div class="card"><span class="tag">' + esc(TYPE[q.type] || q.type) + '</span>' +
+        (q.asked ? '<span class="tag asked">Asked ' + esc(q.asked.to) + ' ' + esc(q.asked.at) + ': waiting (you can still answer here)</span>' : '') +
+        '<h2>' + esc(q.title) + '</h2><div class="why">' + esc(q.why) + '</div>' + (q.now ? '<div class="now">' + esc(q.now) + '</div>' : '');
+      if (q.compare && q.compare.length) {
+        html += '<div class="cmp"><div><b>This card</b>' + ctxTable(q.context) + '</div>' +
+          q.compare.map(function (c) { return '<div><b>' + esc(c.label) + '</b>' + ctxTable(c.context) + '</div>'; }).join('') + '</div>';
+      } else html += ctxTable(q.context);
+      html += '<div class="opts">' + q.options.map(function (o) {
+        var isSug = q.suggestion === o.value && !q.asked;
+        return '<button class="' + (isSug ? 'sug' : '') + '" onclick="answer(' + i + ', \'' + esc(o.value).replace(/\\/g, '\\\\') + '\')">' + esc(o.label) + '</button>';
+      }).join('') + '</div>';
+      if (q.pick) {
+        html += '<div class="opts">Someone else: <select id="pick_' + i + '"><option value="">choose a person…</option>' +
+          q.pick.map(function (p) { return '<option value="' + esc(p.key) + '">' + esc(p.label) + '</option>'; }).join('') +
+          '</select><button onclick="answer(' + i + ', \'pick\')">Use this person</button></div>';
+      }
+      if (q.suggestion && !q.asked && q.guessWhy) html += '<div class="sugwhy">Suggested because: ' + esc(q.guessWhy) + '</div>';
+      html += '</div>';
+    });
+    var fyi = d.fyi || [];
+    if (fyi.length) {
+      html += '<details class="fyi"><summary>FYI: ' + fyi.length + ' word' + (fyi.length === 1 ? '' : 's') + ' the tool didn\'t know. Nobody is held because of them; nothing to do.</summary>' +
+        '<p class="intro">If a word is ordinary business shorthand, click the button and it won\'t be shown again (for every show).</p>' +
+        fyi.map(function (w) {
+          return '<div class="fyiw"><code>' + esc(w.word) + '</code><span class="now">' + w.uses.map(function (u) { return esc(u.name) + ': "' + esc(u.piece) + '"'; }).join(' · ') + '</span>' +
+            '<button onclick="teach(\'' + esc(w.word) + '\')">Ordinary business word</button></div>';
+        }).join('') + '</details>';
+    }
+    document.getElementById('main').innerHTML = html;
+  }
+  load();
+</script>
+</body>
+</html>

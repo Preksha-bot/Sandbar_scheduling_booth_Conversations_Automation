@@ -1,0 +1,420 @@
+Owen's list
+
+== 1. Asked for something (promises first) (6)
+- Desmond Hawkes, Fundy Shore Physiotherapy [hot · demo] → des@fundyshorephysio.example.ca
+  Subject: Fundy Shore demo for you and your managers
+    Hi Des,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned wanting cancellations filled from a waitlist. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you and your managers here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Malcolm Ogilvie, Tantramar Physiotherapy Group [hot · demo] → mogilvie@tantramarphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Tantramar demo
+    Hi Mac,
+    
+    Good to meet you at the Saint John Allied Health Forum.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Ruth Ellsworth, Ellsworth Physiotherapy [hot · demo] → ruth@ellsworthphysio.example.ca
+  flags: line taken from the short note wording: check it reads right
+  Subject: Ellsworth demo
+    Hi Ruth,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned receptionist quit, you're on the phones. A demo is the easiest way to see if we can help with that.
+    
+    Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Brianna Colpitts, Hammond River Physiotherapy [hot · trial] → brianna@hammondriverphysio.example.ca
+  Subject: Trial for Hammond River
+    Hi Brianna,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned wanting your front desk to try it before you commit.
+    
+    Here's the trial link so you can try it out: [TRIAL LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Leanne Quinlan, Kingshurst Massage Therapy [hot · pricing] → leanne@kingshurstmassage.example.ca
+  Subject: Pricing for Kingshurst Massage Therapy
+    Hi Leanne,
+    
+    Good to meet you at the Saint John Allied Health Forum. As promised, here's the pricing: it's $34 per practitioner per month, so the price for your 3 RMTs is $102 a month at list.
+    
+    You mentioned the double bookings.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Dana Kierstead, Kierstead Massage & Wellness [hot · call back] → dana@kiersteadmassage.example.ca
+  call: Owen to call the week of April 26
+  flags: line taken from the short note wording: check it reads right
+  Subject: Kierstead - I'll call the week of April 26
+    Hi Dana,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned adding rooms.
+    
+    As you asked, I'll give you a call the week of April 26.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== 2. Call tasks (3)
+- Clifford Brine, Brine Sport & Spine [warm · thank-you note] → cliff@brinesportspine.example.ca
+  call: Owen to call: big group (5 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Clifford,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned asking about no-show fee on card.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Kristen Vautour, Quispamsis Physio & Sport [warm · thank-you note] → kristen@qpsphysio.example.ca
+  call: Owen to call: big group (3 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Kristen,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned after hours booking.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Shelley Gorham, Rothesay Health Collective [warm · thank-you note] → sgorham@rothesayhealth.example.ca
+  call: Owen to call: big group (3 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Shelley,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned physios and RMTs fighting over rooms.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== 3. Real conversations (20)
+- Martin Trites, Hammond River Physiotherapy [warm · send info] → martin@hammondriverphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Hammond River - the one-pager
+    Hi Martin,
+    
+    Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    You mentioned wanting intake forms filled in before the first visit. If you want a proper look at that, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Megan Hatfield, Lancaster Physio [warm · send info] → megan@lancasterphysio.example.ca
+  flags: line taken from the short note wording: check it reads right
+  Subject: Lancaster - the one-pager
+    Hi Megan,
+    
+    Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    You mentioned reminders don't say which clinic. If you want a proper look at that, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Wanda Pugh, Pugh Massage Therapy [warm · send info] → info@pughmassage.example.ca
+  flags: card gives a shared mailbox; provisional: shown to both Owen and Nadia; no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Pugh - the one-pager
+    Hi Wanda,
+    
+    Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Clifford Brine, Brine Sport & Spine [warm · thank-you note] → cliff@brinesportspine.example.ca
+  call: Owen to call: big group (5 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Clifford,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned asking about no-show fee on card.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Kristen Vautour, Quispamsis Physio & Sport [warm · thank-you note] → kristen@qpsphysio.example.ca
+  call: Owen to call: big group (3 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Kristen,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned after hours booking.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Shelley Gorham, Rothesay Health Collective [warm · thank-you note] → sgorham@rothesayhealth.example.ca
+  call: Owen to call: big group (3 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Shelley,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned physios and RMTs fighting over rooms.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Paulette Doiron, Doiron Massage Therapy [warm · thank-you note] → paulette@doironmassage.example.ca
+  flags: line taken from the voice note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Paulette,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned your RMTs can't see each others schedules on their phones so they text each other all day.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Ahmad Rahimi, Rahimi Physiotherapy [warm · thank-you note] → ahmad@rahimiphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Ahmad,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned wanting cancellations filled from a waitlist.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Brent Ogden, Ogden Physiotherapy [warm · thank-you note] → brent@ogdenphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Brent,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned clients can't pick their physio online.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Yolanda Barrieau, Grand Bay Physiotherapy [warm · thank-you note] → yolanda@grandbayphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Yolanda,
+    
+    Good to meet you at the Saint John Allied Health Forum. You mentioned online forms useless on phones.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Kayleigh Sherwood, Simonds Street Physio [cold · send info] → kayleigh@simondsphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Simonds Street - the one-pager
+    Hi Kayleigh,
+    
+    Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Priya Varghese, Lakewood Physiotherapy [cold · send info] → pvarghese@lakewoodphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Lakewood - the one-pager
+    Hi Priya,
+    
+    Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Heidi Crandall, Crandall Kinesiology & Massage [cold · send info] → heidi@crandallkin.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Crandall Kinesiology - the one-pager
+    Hi Heidi,
+    
+    Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Arlene Kinney, Kinney Physiotherapy [cold · thank-you note] → akinney@kinneyphysio.example.ca
+  flags: card email typo?; no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Arlene,
+    
+    Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Joel Estabrooks, Estabrooks Physiotherapy [cold · thank-you note] → joel@estabrooksphysio.example.ca
+  flags: light detail
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Joel,
+    
+    Good to meet you at the Saint John Allied Health Forum. No rush at all, I know you're not ready to switch yet. Whenever you are, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Glenna Fowler, Fowler Massage Therapy [cold · thank-you note] → glenna@fowlermassage.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Glenna,
+    
+    Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Lloyd Mazerolle, Mazerolle Massage Therapy [cold · thank-you note] → lloyd@mazerollemassage.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Lloyd,
+    
+    Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Lowell Briggs, Briggs Physiotherapy [cold · thank-you note] → lowell@briggsphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Lowell,
+    
+    Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Sandra Wilson, Hampton Family Physio [cold · thank-you note] → swilson@hamptonfamilyphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Sandra,
+    
+    Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Stuart Gaskin, Gaskin Athletic Therapy [cold · thank-you note] → stuart@gaskinat.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Saint John Allied Health Forum
+    Hi Stuart,
+    
+    Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== Waiting (1)
+- Gerald Thorne, Portland Street Physio & Rehab [hot · pricing] → gthorne@portlandstphysio.example.ca
+  waiting on an answer: we can put the work safe nb claim number right on the booking theyve got a lot of work saf (the draft waits, never guesses)
+  flags: line taken from the voice note wording: check it reads right
+  Subject: Pricing for Portland Street Physio & Rehab
+    Hi Gerald,
+    
+    Good to meet you at the Saint John Allied Health Forum. As promised, here's the pricing: it's $34 per practitioner per month.
+    
+    You mentioned they've got a lot of work safe clients. Happy to walk you through how that would work.
+    
+    If it's easier to see it in action, you can book a demo with Nadia here: [BOOKING LINK]
+    
+    You asked about we can put the work safe nb claim number right on the booking theyve got a lot of work saf: [ANSWER NEEDED: Nadia or Owen]
+    
+    Owen
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".

@@ -1,0 +1,236 @@
+Nadia's list
+
+== 1. Asked for something (promises first) (1)
+- Hélène Arsenault, Physio Côte-Est [hot · call back] → helene@physiocoteest.example.ca
+  call: Nadia to call after Thanksgiving (in French)
+  Subject: Physio Côte-Est : je vous appelle après l'Action de grâce
+    Bonjour Hélène,
+    
+    Merci pour notre conversation au salon Allied Practice Expo.
+    
+    Comme convenu, je vous appellerai après l'Action de grâce, au sujet du renouvellement de votre contrat Clinivo en fin d'année.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. Pour ne plus recevoir nos courriels, écrivez à hello@[DOMAIN] avec « Unsubscribe ».
+
+== 2. Call tasks (2)
+- Vanessa Mercer, Evergreen Rehab Centre [warm · send info] → vanessa.mercer@evergreenhealth.example.com
+  call: Owen to call: big group (5 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Evergreen - the one-pager
+    Hi Vanessa,
+    
+    Good to meet you at the Allied Practice Expo. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    You mentioned losing about 8 no-shows a week. If you want a proper look at that, you can book a demo with me here: [BOOKING LINK]
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Alexis Burke, Fernhill Massage Therapy [warm · thank-you note] → aburke@fernhillmassage.example.ca
+  call: Owen to call: big group (5 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Alexis,
+    
+    Good to meet you at the Allied Practice Expo. You mentioned wanting clients to book cancellation slots online.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== 3. Real conversations (14)
+- Vanessa Mercer, Evergreen Rehab Centre [warm · send info] → vanessa.mercer@evergreenhealth.example.com
+  call: Owen to call: big group (5 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Evergreen - the one-pager
+    Hi Vanessa,
+    
+    Good to meet you at the Allied Practice Expo. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    You mentioned losing about 8 no-shows a week. If you want a proper look at that, you can book a demo with me here: [BOOKING LINK]
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Bruno Ahn, Lighthouse Therapeutic Massage [warm · send info] → bruno@lighthousemassage.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Lighthouse - the one-pager
+    Hi Bruno,
+    
+    Good to meet you at the Allied Practice Expo. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    You mentioned wanting intake forms filled in before the first visit. If you want a proper look at that, you can book a demo with me here: [BOOKING LINK]
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Alexis Burke, Fernhill Massage Therapy [warm · thank-you note] → aburke@fernhillmassage.example.ca
+  call: Owen to call: big group (5 locations), after the promises
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Alexis,
+    
+    Good to meet you at the Allied Practice Expo. You mentioned wanting clients to book cancellation slots online.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Curtis Sullivan, Stonebridge Physio [warm · thank-you note] → curtis@stonebridgephysio.example.com
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Curtis,
+    
+    Good to meet you at the Allied Practice Expo. You mentioned clients asking for evening slots.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Rachel Landry, Marigold Physiotherapy [warm · thank-you note] → rachel@marigoldphysio.example.com
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Rachel,
+    
+    Good to meet you at the Allied Practice Expo. You mentioned your front desk spending Monday mornings rebooking the weekend.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Nicole Arsenault, Summerside Physio [warm · thank-you note] → narsenault@summersidephysio.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Nicole,
+    
+    Good to meet you at the Allied Practice Expo. You mentioned wanting clients to book evening slots online.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Sophie Tremblay, Tremblay Massothérapie [warm · thank-you note] → sophie@tremblaymasso.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Merci de votre visite au salon
+    Bonjour Sophie,
+    
+    Merci pour notre conversation au salon Allied Practice Expo. Vous m'avez parlé des frais en plus pour les rappels par texto sur Pracshift.
+    
+    Si jamais vous voulez en parler, écrivez-moi.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. Pour ne plus recevoir nos courriels, écrivez à hello@[DOMAIN] avec « Unsubscribe ».
+
+- Ian Okafor, Ridgeway Physio & Rehab [cold · send info] → iokafor@ridgewayphysio.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Ridgeway - something for your owner
+    Hi Ian,
+    
+    Good to meet you at the Allied Practice Expo. Here's the one-pager to show your owner: [ONE-PAGER LINK]. Pricing is $34 per practitioner per month.
+    
+    Who's the best person to talk to, and when's a good time to give them a call?
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Louis Kim, Kingsway Massage Therapy [cold · send info] → louis@kingswaymassage.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Kingsway - the one-pager
+    Hi Louis,
+    
+    Good to meet you at the Allied Practice Expo. Here's the one-pager you asked for: [ONE-PAGER LINK]
+    
+    If you want a proper look, you can book a demo with me here: [BOOKING LINK]
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Elliot Grant, Carraway Rehab Centre [cold · thank-you note] → elliot@carrawayhealth.example.ca
+  flags: light detail
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Elliot,
+    
+    Good to meet you at the Allied Practice Expo. No rush at all, I know you're not ready to switch yet. Whenever you are, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Hazel Reyes, Summit Physio [cold · thank-you note] → hazel@summitphysio.example.ca
+  flags: light detail
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Hazel,
+    
+    Good to meet you at the Allied Practice Expo. No rush at all, I know you're not ready to switch yet. Whenever you are, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Kathleen Walsh, Driftwood Sports Physio [cold · thank-you note] → kathleen@driftwoodphysio.example.ca
+  flags: light detail
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Kathleen,
+    
+    Good to meet you at the Allied Practice Expo. Sounds like next year might be the right time to look; whenever you're ready, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Krista Levesque, Keystone Physio [cold · thank-you note] → klevesque@keystonephysio.example.ca
+  flags: light detail
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Krista,
+    
+    Good to meet you at the Allied Practice Expo. Sounds like next year might be the right time to look; whenever you're ready, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Colin MacIsaac, Glenhaven Massage Therapy [cold · thank-you note] → colin@glenhavenmassage.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Good to meet you at the Allied Practice Expo
+    Hi Colin,
+    
+    Good to meet you at the Allied Practice Expo. If you ever want a look at Sandbar, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".

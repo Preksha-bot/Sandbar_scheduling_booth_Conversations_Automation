@@ -1,0 +1,50 @@
+Day 30 (2027-05-13): 33 real conversations
+
+Demo booked: 3
+  - Malcolm Ogilvie, Tantramar Physiotherapy Group: demo booked 2027-04-23 (A025, exact email)
+  - Ruth Ellsworth, Ellsworth Physiotherapy: demo booked 2027-04-29 (A035, surname + clinic name); came on their own
+  - Lowell Briggs, Briggs Physiotherapy: demo booked 2027-05-04 (A038, exact email); came on their own
+
+Trial started: 1
+  - Priya Varghese, Lakewood Physiotherapy: trial started 2027-05-03 (A037, exact email)
+
+Wrote, nothing came of it: 17
+  - Desmond Hawkes, Fundy Shore Physiotherapy: first email 2027-04-19 (1 sent)
+  - Brianna Colpitts, Hammond River Physiotherapy: first email 2027-04-20 (1 sent)
+  - Gerald Thorne, Portland Street Physio & Rehab: first email 2027-04-22 (1 sent)
+  - Leanne Quinlan, Kingshurst Massage Therapy: first email 2027-04-21 (1 sent)
+  - Martin Trites, Hammond River Physiotherapy: first email 2027-04-22 (1 sent)
+  - Megan Hatfield, Lancaster Physio: first email 2027-04-22 (1 sent)
+  - Wanda Pugh, Pugh Massage Therapy: first email 2027-04-22 (1 sent)
+  - Clifford Brine, Brine Sport & Spine: first email 2027-04-27 (1 sent)
+  - Shelley Gorham, Rothesay Health Collective: first email 2027-04-27 (1 sent)
+  - Brent Ogden, Ogden Physiotherapy: first email 2027-04-22 (1 sent)
+  - Natasha Pelkey, Millidgeville Physiotherapy: first email 2027-04-22 (1 sent)
+  - Yolanda Barrieau, Grand Bay Physiotherapy: first email 2027-04-27 (1 sent)
+  - Heidi Crandall, Crandall Kinesiology & Massage: first email 2027-04-27 (1 sent)
+  - Gail Mersereau, Mersereau Massage: first email 2027-04-22 (1 sent); asked to be removed after, stays in view, no more drafts
+  - Tom Belyea, Westside Physiotherapy: first email 2027-04-27 (1 sent)
+  - Lisa Furlong, Maritime Mutual Benefits: first email 2027-04-22 (1 sent)
+  - Stuart Gaskin, Gaskin Athletic Therapy: first email 2027-04-27 (1 sent)
+
+Never wrote: 12
+  - Josée Cyr, Clinique Physio Madawaska: promised pricing but never sent
+  - Dana Kierstead, Kierstead Massage & Wellness: promised call back but never sent
+  - Kristen Vautour, Quispamsis Physio & Sport: never written to
+  - Paulette Doiron, Doiron Massage Therapy: never written to
+  - Ahmad Rahimi, Rahimi Physiotherapy: never written to
+  - Kayleigh Sherwood, Simonds Street Physio: never written to
+  - Arlene Kinney, Kinney Physiotherapy: the only email bounced (arlene@kinneyphyiso.example.ca)
+  - Joel Estabrooks, Estabrooks Physiotherapy: never written to
+  - Raymond Losier, Losier Physiotherapy: never written to
+  - Glenna Fowler, Fowler Massage Therapy: never written to
+  - Lloyd Mazerolle, Mazerolle Massage Therapy: never written to
+  - Sandra Wilson, Hampton Family Physio: never written to
+
+Not sorted yet: 3
+  - Desmond Hawkes: Owen wrote, no update (no outcome tapped)
+  - Brianna Colpitts: Owen wrote, no update (no outcome tapped)
+  - Leanne Quinlan: Owen wrote, no update (no outcome tapped)
+
+Cost $9000 · $272.73 per conversation · $2250 per demo or trial
+Assumption, labelled: a paying clinic is about $200 a month (about $2,400 a year). A $9,000 show pays back within a year with 4 paying clinics, or with 2 kept for two years. Paying clinics are counted at day 90 from Erin's invoices.

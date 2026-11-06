@@ -1,0 +1,290 @@
+{
+  "about": "Everything from the Saint John Allied Health Forum booth (Saint John, 2027-04-12 and 2027-04-13) other than the badge scans. Cards were typed up by Erin from the originals; voice notes are the phone's automatic transcripts of Owen's recordings; Owen's list is copied as he typed it.",
+  "cards": [
+    {
+      "card_id": "C01",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Martin Trites, PT",
+      "title": "Owner",
+      "clinic": "Hammond River Physiotherapy",
+      "email": "martin@hammondriverphysio.example.ca",
+      "phone": "506-555-0159",
+      "back_of_card": "2 sites - intake forms on phone? send info"
+    },
+    {
+      "card_id": "C02",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Ruth Ellsworth, PT",
+      "title": "Owner",
+      "clinic": "Ellsworth Physiotherapy",
+      "email": "ruth@ellsworthphysio.example.ca",
+      "phone": "506 555 0152",
+      "back_of_card": "DEMO!! receptionist quit, she's on the phones"
+    },
+    {
+      "card_id": "C03",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Dana Kierstead, RMT",
+      "title": "Owner",
+      "clinic": "Kierstead Massage & Wellness",
+      "email": "dana@kiersteadmassage.example.ca",
+      "phone": "(506) 555-0142",
+      "back_of_card": "call wk of Apr 26 once reno done (3 new rooms)"
+    },
+    {
+      "card_id": "C04",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Malcolm Ogilvie",
+      "title": "Director of Operations",
+      "clinic": "Tantramar Physiotherapy Group",
+      "email": "mogilvie@tantramarphysio.example.ca",
+      "phone": "506-555-0137 x4",
+      "back_of_card": "4 clinics. bkstd. demo"
+    },
+    {
+      "card_id": "C05",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Ahmad Rahimi, PT",
+      "title": "Owner",
+      "clinic": "Rahimi Physiotherapy",
+      "email": "ahmad@rahimiphysio.example.ca",
+      "phone": "506.555.0113",
+      "back_of_card": "bkstd - wants a waitlist"
+    },
+    {
+      "card_id": "C06",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "W. Pugh, RMT",
+      "title": "Owner",
+      "clinic": "Pugh Massage Therapy",
+      "email": "info@pughmassage.example.ca",
+      "phone": "506-555-0129",
+      "back_of_card": "2 spots (uptown + east side), paper, info pls"
+    },
+    {
+      "card_id": "C07",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "A. Kinney",
+      "title": "Clinic Manager",
+      "clinic": "Kinney Physiotherapy",
+      "email": "arlene@kinneyphyiso.example.ca",
+      "phone": "506-555-0146",
+      "back_of_card": "excel, 1 clinic"
+    },
+    {
+      "card_id": "C08",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Yolanda Barrieau",
+      "title": "Clinic Manager",
+      "clinic": "Grand Bay Physiotherapy",
+      "email": "yolanda@grandbayphysio.example.ca",
+      "phone": "506-555-0173",
+      "back_of_card": "clinivo - online forms useless on phones"
+    },
+    {
+      "card_id": "C09",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Heidi Crandall, BKin",
+      "title": "Owner, Kinesiologist",
+      "clinic": "Crandall Kinesiology & Massage",
+      "email": "heidi@crandallkin.example.ca",
+      "phone": "506-555-0108",
+      "back_of_card": "gcal, send 1 pager"
+    },
+    {
+      "card_id": "C10",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Brent Ogden, PT",
+      "title": "Clinic Owner",
+      "clinic": "Ogden Physiotherapy",
+      "email": "brent@ogdenphysio.example.ca",
+      "phone": "506-555-0141",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C11",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Rick Dunlop, PT",
+      "title": "Owner",
+      "clinic": "Dunlop Family Physio",
+      "email": "rick@dunlopfamilyphysio.example.ca",
+      "phone": "506-555-0197",
+      "back_of_card": "for the draw"
+    },
+    {
+      "card_id": "C12",
+      "typed_on": "2027-04-15",
+      "collected_by": "Owen",
+      "name": "Marcy Stackhouse",
+      "title": "Sales Representative",
+      "clinic": "Harbourline Medical Supply",
+      "email": "marcy@harbourlinemedical.example.com",
+      "phone": "902-555-0119",
+      "back_of_card": "lanyards + swag supplier, wants our order"
+    },
+    {
+      "card_id": "C13",
+      "typed_on": "2027-04-20",
+      "collected_by": "Nadia",
+      "name": "Josée Cyr, pht",
+      "title": "Physiothérapeute / Propriétaire",
+      "clinic": "Clinique Physio Madawaska",
+      "email": "josee.cyr@physiomadawaska.example.ca",
+      "phone": "506.555.0114",
+      "back_of_card": "2 cliniques (Edmundston + Grand-Sault) - Pracshift - veut une soumission écrite, en français, prix par thérapeute"
+    },
+    {
+      "card_id": "C14",
+      "typed_on": "2027-04-20",
+      "collected_by": "Nadia",
+      "name": "Ray Losier, PT",
+      "title": "Owner",
+      "clinic": "Losier Physiotherapy",
+      "email": "ray@losierphysio.example.ca",
+      "phone": "506-555-0123",
+      "back_of_card": "paper, 1 clinic, retiring in 2-3 yrs - selling?"
+    },
+    {
+      "card_id": "C15",
+      "typed_on": "2027-04-20",
+      "collected_by": "Nadia",
+      "name": "Brent Ogden, PT",
+      "title": "Clinic Owner",
+      "clinic": "Ogden Physiotherapy",
+      "email": "brent@ogdenphysio.example.ca",
+      "phone": "506-555-0141",
+      "back_of_card": "already talked to Owen - on Clinivo"
+    }
+  ],
+  "voice_notes": [
+    {
+      "note_id": "V01",
+      "recorded_at": "2027-04-12 09:19",
+      "length_seconds": 26,
+      "transcript": "okay saint john day one. des hawks from fundy shore physio, four clinics, saint john rothesay quispamsis and grand bay. they're on clinic vo and his big gripe is it can't run one wait list across the four, so a cancellation in rothesay never gets offered to somebody waiting in grand bay. wants a demo and he wants his clinic managers on it. really good one."
+    },
+    {
+      "note_id": "V02",
+      "recorded_at": "2027-04-12 09:40",
+      "length_seconds": 24,
+      "transcript": "gerald thorn, portland street physio, three sites, east side west side and grand bay, everything on spreadsheets. wants pricing for the three. and he asked if we can put the work safe NB claim number right on the booking, they've got a lot of work safe clients. I said I'd find out, I honestly don't know if we do that."
+    },
+    {
+      "note_id": "V03",
+      "recorded_at": "2027-04-12 10:14",
+      "length_seconds": 21,
+      "transcript": "leanne quinlin, kingshurst massage, uptown. three RMTs on one google calendar and they keep double booking the big room. she wants the price for three. and she was really clear, no newsletters, she unsubscribes from everything, just send her the number and that's it. so pricing only, nothing else."
+    },
+    {
+      "note_id": "V04",
+      "recorded_at": "2027-04-12 10:29",
+      "length_seconds": 19,
+      "transcript": "shavonne core me ay I think, physio in riverview, just her clinic, on practice shift. her clients can't cancel online, they have to phone and leave a message and half the time nobody gets it. nice chat, didn't ask for anything."
+    },
+    {
+      "note_id": "V05",
+      "recorded_at": "2027-04-12 10:39",
+      "length_seconds": 25,
+      "transcript": "kristen vow tour, quispamsis physio and sport, three clinics, quispamsis rothesay and hampton, all on a paper book still. she wants people to be able to book at night online because the phones only get answered nine to five. she's expecting in june, going off on mat leave and her sister's covering, so she's not shopping right now. don't bring the baby up obviously."
+    },
+    {
+      "note_id": "V06",
+      "recorded_at": "2027-04-12 10:46",
+      "length_seconds": 24,
+      "transcript": "hammond river physio, two clinics, quispamsis and hampton. the manager brianna wants a trial for her two front desk people before anybody else touches it. the owner martin was with her, separate guy, he asked about intake forms people fill in on their phone before they come in, send him something on that. they're on google calendar. so two people, trial for brianna, info for martin."
+    },
+    {
+      "note_id": "V07",
+      "recorded_at": "2027-04-12 11:39",
+      "length_seconds": 22,
+      "transcript": "mac oh gilvy, tantra mar physio group, sackville amherst moncton and dieppe so four. they're on books dead and books dead put the price per practitioner up in january and he's still steaming about it. he wants a demo and wants the owner on it, he's ops not the owner. got his card."
+    },
+    {
+      "note_id": "V08",
+      "recorded_at": "2027-04-12 12:37",
+      "length_seconds": 17,
+      "transcript": "lloyd from miramichi, drove down this morning in the snow, his daughter's in nursing at UNB saint john and we mostly talked about her. massage, just him, paper book. nothing to send really, lovely guy."
+    },
+    {
+      "note_id": "V09",
+      "recorded_at": "2027-04-12 13:16",
+      "length_seconds": 18,
+      "transcript": "paulette dwar on, doiron maybe, massage in dieppe and moncton, two spots, on pract shift. her RMTs can't see each other's schedules on their phones so they text each other all day. didn't ask for anything."
+    },
+    {
+      "note_id": "V10",
+      "recorded_at": "2027-04-12 13:46",
+      "length_seconds": 13,
+      "transcript": "kaylee at the front desk at simons street physio, uptown. paper book. she wants something she can show her boss, she's not the one who decides. one clinic."
+    },
+    {
+      "note_id": "V11",
+      "recorded_at": "2027-04-13 09:51",
+      "length_seconds": 18,
+      "transcript": "nadia had a long one in french this morning, josie seer, from edmundston, physio, two clinics, the other one's in grand falls, on pract shift. she wants a written quote, in french, price per therapist. nadia has her card and says she'll do that one herself."
+    },
+    {
+      "note_id": "V12",
+      "recorded_at": "2027-04-13 14:44",
+      "length_seconds": 12,
+      "transcript": "scanner battery's been dead since about half past one and the charger's in the car, so this afternoon's cards are in my jacket pocket. I'll give them to erin. long day."
+    }
+  ],
+  "owen_list": {
+    "written": "2027-04-13 20:50, at the airport",
+    "title": "SJ notes - airport",
+    "lines": [
+      {
+        "line_id": "L01",
+        "text": "Mac / Tantramar - 4 clinics - bkstd - DEMO w owner"
+      },
+      {
+        "line_id": "L02",
+        "text": "Des Fundy Shore - demo + his managers. the waitlist thing"
+      },
+      {
+        "line_id": "L03",
+        "text": "Rothesay Health - 3 sites - gcal - room fights"
+      },
+      {
+        "line_id": "L04",
+        "text": "Gerald Portland St - pricing x3 sites. find out the WSNB claim # thing first"
+      },
+      {
+        "line_id": "L05",
+        "text": "Leanne Kingshurst - quote only. NO newsletter!!"
+      },
+      {
+        "line_id": "L06",
+        "text": "Hammond River - trial for Brianna's front desk + Martin wants intake stuff"
+      },
+      {
+        "line_id": "L07",
+        "text": "Hampton RMT - paper. nice"
+      },
+      {
+        "line_id": "L08",
+        "text": "call Dana in Sussex when the reno's done"
+      },
+      {
+        "line_id": "L09",
+        "text": "quispamsis 3 clinic lady (baby in june) - after hrs booking"
+      },
+      {
+        "line_id": "L10",
+        "text": "Nadia's french one - written quote"
+      }
+    ]
+  }
+}

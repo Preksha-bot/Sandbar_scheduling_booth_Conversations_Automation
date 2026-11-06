@@ -1,0 +1,96 @@
+Day 30 (2026-10-15): 80 real conversations
+
+Demo booked: 7
+  - Steve Lau, Grandview Health Collective: demo booked 2026-09-28 (A032, exact email)
+  - Daniel Pothier, Atlantic Motion Physiotherapy: demo booked 2026-10-01 (A057, exact email)
+  - Jennifer MacIsaac, Bayview Physiotherapy & Wellness: demo booked 2026-10-01 (A056, clinic email domain + "owen"; 2 people at that clinic, the booking note names Jennifer MacIsaac)
+  - Marisol Vega, Lakeshore Physiotherapy: demo booked 2026-10-02 (A058, clinic email domain + "expo")
+  - Patrick Doucet, Doucet Physio: demo booked 2026-10-07 (A065, surname + clinic name); came on their own
+  - Trina Keating, Saltbox Physio & Rehab: demo booked 2026-10-08 (A066, exact email)
+  - Heather Bouchard, Whitecap Therapeutic Massage: demo booked 2026-10-13 (A070, clinic email domain + "booth"); came on their own
+
+Trial started: 3
+  - Gordon Pottie, Pottie Sports Physio: trial started 2026-10-02 (A059, clinic email domain + "met you")
+  - Farah Nazari, Westdale Massage: trial started 2026-10-05 (A063, clinic email domain + "expo"); came on their own
+  - Rajesh Menon, Menon Physiotherapy: trial started 2026-10-09 (A068, exact email)
+
+Wrote, nothing came of it: 24
+  - Mei Lin Zhou, Zhou Acupuncture & Massage: first email 2026-09-29 (1 sent)
+  - Derek Osei, Pinnacle Rehab Group: first email 2026-09-28 (1 sent)
+  - Ben Kowalczyk, Northline Physiotherapy: first email 2026-10-01 (1 sent)
+  - Sean Fitzgerald, Hillcrest Wellness Centre: first email 2026-09-29 (1 sent)
+  - Paige Sato, Dunmore Health Collective: first email 2026-09-29 (1 sent)
+  - Hugo Murphy, Silverleaf Physiotherapy: first email 2026-09-24 (1 sent)
+  - Natalie Chen, Elmwood Physiotherapy: first email 2026-09-29 (1 sent)
+  - Ian Okafor, Ridgeway Physio & Rehab: first email 2026-09-24 (1 sent)
+  - Kevin LeBlanc, Quarry Massage Clinic: first email 2026-09-29 (1 sent)
+  - Louis Kim, Kingsway Massage Therapy: first email 2026-09-24 (1 sent)
+  - Melanie Hachey, Riverbend Sports Physio: first email 2026-09-24 (1 sent)
+  - Tara Mendes, Maple Ridge Physio & Rehab: first email 2026-09-24 (1 sent)
+  - Bridget Ibrahim, Foxglove Sports Physio: first email 2026-09-29 (1 sent)
+  - Chantal Chisholm, Ironwood Physiotherapy: first email 2026-09-24 (1 sent)
+  - Dara Thibodeau, Cobalt Massage Therapy: first email 2026-09-29 (1 sent)
+  - Elliot Grant, Carraway Rehab Centre: first email 2026-09-24 (1 sent)
+  - Hannah Steeves, Meadowlark Physio: first email 2026-09-29 (1 sent)
+  - Monique Robichaud, Willow Sports Physio: first email 2026-09-29 (1 sent); asked to be removed after, stays in view, no more drafts
+  - Rebecca Morrison, Granite Massage Clinic: first email 2026-09-24 (1 sent)
+  - Jordan Gillis, Cedar Physio: first email 2026-09-24 (1 sent)
+  - Leah Pelletier, Pinecrest Massage Therapy: first email 2026-09-29 (1 sent)
+  - Victor Ward, Northshore Sports Physio: first email 2026-09-24 (2 sent)
+  - Warren Hebert, Clearwater Massage Therapy: first email 2026-09-24 (1 sent)
+  - Zoe Tobin, Parkdale Physio: first email 2026-09-24 (1 sent)
+
+Never wrote: 46
+  - Yvonne Clarke, Clarke Physiotherapy: promised demo but never sent
+  - Ravi Sandhu, Bayview Physiotherapy & Wellness: promised pricing but never sent
+  - Kiran Bhatt, Kinetic Edge Physio: promised pricing but never sent
+  - Tyler Brennan, Brennan & Ward Physiotherapy: promised pricing but never sent
+  - Amira Haddad, Still Waters Massage: promised pricing but never sent
+  - Shauna Kehoe, Seawall Massage Clinic: promised call back but never sent
+  - Hélène Arsenault, Physio Côte-Est: promised call back but never sent
+  - Rory Dumont, Juniper Therapeutic Massage: never written to
+  - Vanessa Mercer, Evergreen Rehab Centre: never written to
+  - Bruno Ahn, Lighthouse Therapeutic Massage: never written to
+  - Nathan Carter, Highfield Physiotherapy: never written to
+  - Alexis Burke, Fernhill Massage Therapy: never written to
+  - Deepa Penney, Larkspur Massage Clinic: never written to
+  - Gemma Ahmed, Ashgrove Therapeutic Massage: never written to
+  - Emeka Patel, Westbrook Health Collective: never written to
+  - Glen Hynes, Fairway Therapeutic Massage: never written to
+  - Grace Whitford, Whitford Massage Collective: never written to
+  - Neil Babineau, Lantern Massage Clinic: never written to
+  - Yasmin Fortin, Islandview Massage Clinic: never written to
+  - Curtis Sullivan, Stonebridge Physio: never written to
+  - Duncan Ferris, Ferris Physiotherapy: never written to
+  - Rachel Landry, Marigold Physiotherapy: never written to
+  - Elise Campbell, Glenview Massage Therapy: never written to
+  - Freya MacLean, Bellwood Health Collective: never written to
+  - Gabriel Singh, Birchwood Physio & Rehab: never written to
+  - Ines Kaur, Redcliff Sports Physio: never written to
+  - Nicole Arsenault, Summerside Physio: never written to
+  - Sophie Tremblay, Tremblay Massothérapie: never written to
+  - Usha Goguen, Brookside Physio & Rehab: never written to
+  - Aisha Novak, Bluewater Physio & Rehab: never written to
+  - Gareth Forsyth, Rockport Physio & Rehab: never written to
+  - Lorne Dobson, Oakview Physio & Rehab: never written to
+  - Caroline Power, Spruce Sports Physio: never written to
+  - Jasmine Beaton, Tamarack Physio & Rehab: never written to
+  - Peggy OBrien, Riverside Massage Therapy: never written to
+  - Andrea MacDonald, Wildrose Therapeutic Massage: never written to
+  - Dmitri Nguyen, Thornbury Physio: never written to
+  - Hazel Reyes, Summit Physio: never written to
+  - Irene Ross, Copperleaf Massage Therapy: never written to
+  - Kathleen Walsh, Driftwood Sports Physio: never written to
+  - Krista Levesque, Keystone Physio: never written to
+  - Liam Dunphy, Dunphy Massage Therapy: never written to
+  - Stacey Rossi, Coastline Sports Physio: never written to
+  - Colin MacIsaac, Glenhaven Massage Therapy: never written to
+  - Lucie Gaudet, Gaudet Massage & Wellness: never written to
+  - Vincent Roy, Orchard Physiotherapy: the only email bounced (vincent.roy@orcahrdphysio.example.com)
+
+Not sorted yet: 2
+  - Derek Osei: Owen wrote, no update (no outcome tapped)
+  - Ben Kowalczyk: Owen wrote, no update (no outcome tapped)
+
+Cost $9000 · $112.5 per conversation · $900 per demo or trial
+Assumption, labelled: a paying clinic is about $200 a month (about $2,400 a year). A $9,000 show pays back within a year with 4 paying clinics, or with 2 kept for two years. Paying clinics are counted at day 90 from Erin's invoices.

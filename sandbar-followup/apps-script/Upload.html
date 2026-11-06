@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<base target="_top">
+<style>
+  body { font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; color: #1d1d1b; margin: 0; padding: 4px 6px; }
+  ol { padding-left: 20px; margin: 6px 0 12px; }
+  li { margin-bottom: 4px; }
+  .muted { color: #6b6a65; font-size: 13px; }
+  button { font: inherit; padding: 8px 16px; border-radius: 6px; border: 0; background: #1f6f5c; color: #fff; cursor: pointer; }
+  button[disabled] { opacity: .5; cursor: default; }
+  #out { white-space: pre-wrap; background: #f4f3ef; border-radius: 6px; padding: 8px; margin-top: 10px; min-height: 20px; font-size: 13px; }
+  input[type=file] { margin: 8px 0 12px; }
+</style>
+</head>
+<body>
+  <div id="intro"></div>
+  <ol class="muted" id="which"></ol>
+  <input type="file" id="files" multiple accept=".csv,.json,.txt">
+  <div><button id="go" onclick="go()">Add these files</button> <span class="muted" id="state"></span></div>
+  <div id="out" class="muted">Nothing added yet. Adding a file again replaces what was there before, so it's safe to redo.</div>
+<script>
+  var MODE = <?= mode ?>;
+  var TEXT = {
+    show: {
+      intro: 'Choose the show&rsquo;s files from your computer. You can pick both at once (hold <b>Ctrl</b>, or <b>Cmd</b> on a Mac, and click each one).',
+      which: ['The badge export from the organizer (a <b>.csv</b> file, often called badge-scans)',
+              'The cards, voice notes and Owen&rsquo;s list (the <b>.json</b> file, often called booth-notes, or separate .csv files)',
+              'Nothing else. The bookings &amp; emails file is added later, at day 30.'],
+      next: 'Next: close this window, then Sandbar > Step 2 · Colour personal lines yellow.'
+    },
+    day30: {
+      intro: 'Choose the after-show bookings &amp; emails file (a <b>.csv</b>, often called after-show-activity).',
+      which: ['It lists the demo bookings, trial sign-ups and the emails that were sent.', 'It is only needed for day 30, not for the Thursday lists.'],
+      next: 'Next: close this window, then Sandbar > Day 30 · Count the results.'
+    },
+    day90: {
+      intro: 'Choose the invoice list (a <b>.csv</b> with columns clinic, name, email, first_invoice, monthly).',
+      which: ['One row per paying clinic.'],
+      next: 'Next: close this window, then Sandbar > Day 90 · Count paying clinics.'
+    }
+  }[MODE] || {};
+  document.getElementById('intro').innerHTML = TEXT.intro;
+  document.getElementById('which').innerHTML = TEXT.which.map(function (x) { return '<li>' + x + '</li>'; }).join('');
+  function go() {
+    var files = Array.prototype.slice.call(document.getElementById('files').files);
+    if (!files.length) { document.getElementById('out').textContent = 'Pick at least one file first.'; return; }
+    document.getElementById('go').disabled = true;
+    document.getElementById('state').textContent = 'Reading…';
+    Promise.all(files.map(function (f) {
+      return new Promise(function (ok, bad) { var r = new FileReader(); r.onload = function () { ok({ name: f.name, text: r.result }); }; r.onerror = bad; r.readAsText(f, 'UTF-8'); });
+    })).then(function (list) {
+      document.getElementById('state').textContent = 'Adding to the Sheet…';
+      google.script.run.withSuccessHandler(function (done) {
+        document.getElementById('go').disabled = false;
+        document.getElementById('state').textContent = 'Done.';
+        document.getElementById('out').textContent = done.join('\n') + '\n\n' + TEXT.next;
+      }).withFailureHandler(function (e) {
+        document.getElementById('go').disabled = false;
+        document.getElementById('state').textContent = '';
+        var msg = String(e && e.message || e);
+        document.getElementById('out').textContent = /PERMISSION_DENIED|reading from storage|authorization/i.test(msg)
+          ? 'Google blocked this window (' + msg + ').\n\nThis happens when the browser is signed in to more than one Google account. Either:\n' +
+            '• open the Sheet in a private/Incognito window signed in ONLY to the account that owns it, and try again; or\n' +
+            '• close this window and use the "(other way) · Add … from a Drive folder" item in the Sandbar menu.'
+          : 'Something went wrong: ' + msg;
+      }).importFiles(list, MODE);
+    });
+  }
+</script>
+</body>
+</html>

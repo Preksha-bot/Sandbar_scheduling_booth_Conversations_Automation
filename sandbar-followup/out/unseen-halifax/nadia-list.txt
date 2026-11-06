@@ -1,0 +1,69 @@
+Nadia's list
+
+== 1. Asked for something (promises first) (2)
+- Josée Saulnier, Clinique Physio Baie Sainte-Marie [hot · pricing] → josee@physiobaiestemarie.example.ca
+  Subject: Prix pour Clinique Physio Baie Sainte-Marie
+    Bonjour Josée,
+    
+    Merci pour notre conversation au salon Maritime Allied Health Expo. Comme promis, voici nos prix par écrit : c'est 34 $ par praticien par mois.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. Pour ne plus recevoir nos courriels, écrivez à hello@[DOMAIN] avec « Unsubscribe ».
+
+- Teodor Vasilescu, Northwest Arm Massage [hot · pricing] → teodor@northwestarmmassage.example.ca
+  flags: no detail: nothing specific written down, line skipped (Owen to add one if he remembers)
+  Subject: Pricing for Northwest Arm Massage
+    Hi Teodor,
+    
+    Good to meet you at the Maritime Allied Health Expo. As promised, here's the pricing: it's $34 per practitioner per month, so the price for your 5 RMTs is $170 a month at list.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+== 3. Real conversations (3)
+- Marcy Dauphinee, Spryfield Physio [warm · send info] → reception@spryfieldphysio.example.ca
+  flags: card gives a shared mailbox; provisional: shown to both Owen and Nadia
+  Subject: Spryfield - something for your owner
+    Hi Marcy,
+    
+    Good to meet you at the Maritime Allied Health Expo. Here's the one-pager to show your owner: [ONE-PAGER LINK]. Pricing is $34 per practitioner per month.
+    
+    You mentioned the Monday no-shows.
+    
+    Who's the best person to talk to, and when's a good time to give them a call?
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Leo Cormier, Riverview Sport & Spine [warm · thank-you note] → lcormier@riverviewsportspine.example.ca
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Leo,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned the Pracshift outage in October that cost you bookings.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".
+
+- Sadie Langley, Avon River Physiotherapy [warm · thank-you note] → sadie@avonriverphysio.example.ca
+  flags: provisional: shown to both Owen and Nadia
+  Subject: Good to meet you at the Maritime Allied Health Expo
+    Hi Sadie,
+    
+    Good to meet you at the Maritime Allied Health Expo. You mentioned Clinivo charging for each extra login.
+    
+    If you ever want to talk it through, just get in touch.
+    
+    Nadia
+    
+    --
+    Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with "Unsubscribe".

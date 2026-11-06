@@ -1,0 +1,57 @@
+Day 30 (2027-03-11): 41 real conversations
+
+Demo booked: 4
+  - Kate Doyle, Rideau Valley Physiotherapy: demo booked 2027-02-16 (A004, exact email)
+  - Leanne Fraser, Mississippi Mills Physiotherapy: demo booked 2027-02-22 (A031, clinic email domain + "owen"; 2 people at that clinic, the booking note names Leanne Fraser)
+  - Nadine Proulx, Barrhaven Massage & Wellness: demo booked 2027-02-20 (A030, exact email)
+  - Wendy Archambault, Orleans Family Physio: demo booked 2027-02-26 (A036, exact email)
+
+Trial started: 2
+  - Priya Natarajan, Kanata Therapeutic Massage: trial started 2027-02-18 (A027, exact email)
+  - Andrew Sinclair, Sinclair Physiotherapy: trial started 2027-02-23 (A032, surname + clinic name); came on their own
+
+Wrote, nothing came of it: 14
+  - Sunil Varma, Capital Region Rehab: first email 2027-02-17 (1 sent)
+  - Hana Kovac, Kovac Chiropractic & Massage: first email 2027-02-16 (1 sent)
+  - Ingrid Solberg, Seaway Physio & Wellness: first email 2027-02-25 (1 sent)
+  - Fergus Lindsay, Madawaska Physio & Rehab: first email 2027-02-16 (1 sent)
+  - Marcus Bell, Cataraqui Physiotherapy: first email 2027-02-19 (1 sent)
+  - Brent Holloway, Brockville Rehab Centre: first email 2027-02-16 (1 sent)
+  - Dana Lindgren, Kemptville Health Collective: first email 2027-02-16 (1 sent)
+  - Simone Achterberg, Westboro Massage Collective: first email 2027-02-16 (1 sent)
+  - Tanya Rousseau, Rousseau Massage Therapy: first email 2027-02-16 (1 sent)
+  - Jessica Ouellette, Vanier Community Physio: first email 2027-02-16 (1 sent)
+  - Greg Halvorsen, Cumberland Physio: first email 2027-02-16 (1 sent)
+  - Holly Matheson, Manotick Massage Therapy: first email 2027-02-16 (1 sent); asked to be removed after, stays in view, no more drafts
+  - Monica Tran, Merivale Physiotherapy: first email 2027-02-16 (1 sent)
+  - Fatima Al-Sayed, Aylmer Wellness Massage: first email 2027-02-25 (1 sent)
+
+Never wrote: 20
+  - Graham Tessier, Upper Valley Physiotherapy: promised pricing but never sent
+  - Gwen Atkins, Pembroke Wellness: promised pricing but never sent
+  - Mohammed Rahimi, Glebe Sports Physio: promised pricing but never sent
+  - Isabelle Gagnon-Paquette, Clinique Physio Outaouais: promised call back but never sent
+  - Joanne Pilon, Mississippi Mills Physiotherapy: never written to
+  - Elaine Burgess, Smiths Falls Physiotherapy: never written to
+  - Lorraine Vachon, Tenth Line Massage Therapy: never written to
+  - Paul Haraldsen, Stittsville Sports Physio: never written to
+  - Carl Jessup, Arnprior Physiotherapy: never written to
+  - Rohan Dutta, Hintonburg Physiotherapy: never written to
+  - Siobhan Kearney, Kearney Massage Therapy: never written to
+  - Teresa Muir, Bank Street Physiotherapy: never written to
+  - Angela Rinaldi, Alta Vista Massage Therapy: never written to
+  - Kyle Brodeur, Brodeur Physiotherapy: the only email bounced (kyle@brodeurphyiso.example.ca)
+  - Ethan Gauthier, March Road Physiotherapy: never written to
+  - Jeff Strand, Strand Physiotherapy: never written to
+  - Sandra Boateng, Boateng Massage Therapy: never written to
+  - Douglas Pattison, Bonnechere Massage Therapy: never written to
+  - Megan Stuart, Pine Hill Physio: never written to
+  - Raymond Chu, Gloucester Massage Therapy: never written to
+
+Not sorted yet: 3
+  - Sunil Varma: Owen wrote, no update (no outcome tapped)
+  - Marcus Bell: Owen wrote, no update (no outcome tapped)
+  - Colleen Ashworth: still in review: badge not opted in to sharing, no card, nothing asked (strictest reading until Erin okays the wording)
+
+Cost $9000 · $219.51 per conversation · $1500 per demo or trial
+Assumption, labelled: a paying clinic is about $200 a month (about $2,400 a year). A $9,000 show pays back within a year with 4 paying clinics, or with 2 kept for two years. Paying clinics are counted at day 90 from Erin's invoices.

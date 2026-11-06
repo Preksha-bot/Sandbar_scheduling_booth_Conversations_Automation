@@ -1,0 +1,339 @@
+key,sources,name,clinic,city,email,emailWhy,consent,consentWhy,priority,priorityWhy,nextStep,owner,ownerWhy,status,section,detail,detailFrom,held,flags,tasks,matchWhy,subject,body,mailto
+S002,S002 V01 L02,Desmond Hawkes,Fundy Shore Physiotherapy,Saint John,des@fundyshorephysio.example.ca,badge email (no card),may email,badge opted in to sharing,hot,asked for demo (S002),demo,Owen,"Owen's scan, card, voice note or list",to send,1. Asked for something,wanting cancellations filled from a waitlist,L02 (fixed phrasing),,,,"S002: badge scan; V01: voice note (des, hawks, fundy, shore, city); L02: Owen's list (des, fundy, shore)",Fundy Shore demo for you and your managers,"Hi Des,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned wanting cancellations filled from a waitlist. A demo is the easiest way to see if we can help with that.
+
+Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you and your managers here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:des%40fundyshorephysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Fundy%20Shore%20demo%20for%20you%20and%20your%20managers&body=Hi%20Des%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20wanting%20cancellations%20filled%20from%20a%20waitlist.%20A%20demo%20is%20the%20easiest%20way%20to%20see%20if%20we%20can%20help%20with%20that.%0D%0A%0D%0ANadia%20runs%20demos%20Tuesday%20to%20Thursday%20afternoons%3B%20pick%20whatever%20time%20suits%20you%20and%20your%20managers%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S032,S032 S077 C04 V07 L01,Malcolm Ogilvie,Tantramar Physiotherapy Group,Sackville,mogilvie@tantramarphysio.example.ca,"card email (rules page: card by default), C04; badge has malcolm.ogilvie@tantramarphysio.example.ca",may email,handed over a card,hot,asked for demo (C04),demo,Owen,"Owen's scan, card, voice note or list",to send,1. Asked for something,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,"S032: badge scan; S077: scanned again (same badge email as S032); C04: card (same phone and surname); V07: voice note (mac, tantramar, city); L01: Owen's list (mac, tantramar)",Tantramar demo,"Hi Mac,
+
+Good to meet you at the Saint John Allied Health Forum.
+
+Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:mogilvie%40tantramarphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Tantramar%20demo&body=Hi%20Mac%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%0D%0A%0D%0ANadia%20runs%20demos%20Tuesday%20to%20Thursday%20afternoons%3B%20pick%20whatever%20time%20suits%20you%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S060,S060 V03 V07 V11,Bev Price,Kingswood Physio,Sydney,bev.price@kingswoodphysio.example.ca,badge email (no card),never,"asked not to be emailed at the booth: V03: ""she wants the price for three. and she was really clear, no newsletters, she uns""",hot,asked for demo (V07),demo,Nadia,conversation in French,no email,,"needing the pricing in writing, in French, priced per practitioner",V11 (fixed phrasing),,,,S060: badge scan; V03: voice note (price); V07: voice note (price); V11: voice note (price),,,
+S072,S072 C02,Ruth Ellsworth,Ellsworth Physiotherapy,Saint John,ruth@ellsworthphysio.example.ca,"card email (rules page: card by default), C02; badge has rellsworth@ellsworthphysio.example.ca",may email,handed over a card,hot,asked for demo (C02),demo,Owen,"Owen's scan, card, voice note or list",to send,1. Asked for something,"receptionist quit, you're on the phones",C02 (short note wording),,line taken from the short note wording: check it reads right,,S072: badge scan; C02: card (same phone and surname),Ellsworth demo,"Hi Ruth,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned receptionist quit, you're on the phones. A demo is the easiest way to see if we can help with that.
+
+Nadia runs demos Tuesday to Thursday afternoons; pick whatever time suits you here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:ruth%40ellsworthphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Ellsworth%20demo&body=Hi%20Ruth%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20receptionist%20quit%2C%20you're%20on%20the%20phones.%20A%20demo%20is%20the%20easiest%20way%20to%20see%20if%20we%20can%20help%20with%20that.%0D%0A%0D%0ANadia%20runs%20demos%20Tuesday%20to%20Thursday%20afternoons%3B%20pick%20whatever%20time%20suits%20you%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S022,S022 V06 L06,Brianna Colpitts,Hammond River Physiotherapy,Quispamsis,brianna@hammondriverphysio.example.ca,badge email (no card),may email,badge opted in to sharing,hot,asked for trial (S022),trial,Owen,"Owen's scan, card, voice note or list",to send,1. Asked for something,wanting your front desk to try it before you commit,S022 (fixed phrasing),,,,"S022: badge scan; V06: voice note (brianna, hammond, river, city); L06: Owen's list (briannas, hammond, river)",Trial for Hammond River,"Hi Brianna,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned wanting your front desk to try it before you commit.
+
+Here's the trial link so you can try it out: [TRIAL LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:brianna%40hammondriverphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Trial%20for%20Hammond%20River&body=Hi%20Brianna%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20wanting%20your%20front%20desk%20to%20try%20it%20before%20you%20commit.%0D%0A%0D%0AHere's%20the%20trial%20link%20so%20you%20can%20try%20it%20out%3A%20%5BTRIAL%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S007,S007 V02 L04,Gerald Thorne,Portland Street Physio & Rehab,Saint John,gthorne@portlandstphysio.example.ca,badge email (no card),may email,badge opted in to sharing,hot,asked for pricing (S007),pricing,Owen,"Owen's scan, card, voice note or list",waiting on answer,Waiting (not ready to send),they've got a lot of work safe clients,V02 (voice note wording),"waiting on an answer: we can put the work safe nb claim number right on the booking theyve got a lot of work saf (the draft waits, never guesses)",line taken from the voice note wording: check it reads right,,"S007: badge scan; V02: voice note (gerald, thorn, portland, street); L04: Owen's list (gerald, portland)",Pricing for Portland Street Physio & Rehab,"Hi Gerald,
+
+Good to meet you at the Saint John Allied Health Forum. As promised, here's the pricing: it's $34 per practitioner per month.
+
+You mentioned they've got a lot of work safe clients. Happy to walk you through how that would work.
+
+If it's easier to see it in action, you can book a demo with Nadia here: [BOOKING LINK]
+
+You asked about we can put the work safe nb claim number right on the booking theyve got a lot of work saf: [ANSWER NEEDED: Nadia or Owen]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:gthorne%40portlandstphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Pricing%20for%20Portland%20Street%20Physio%20%26%20Rehab&body=Hi%20Gerald%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20As%20promised%2C%20here's%20the%20pricing%3A%20it's%20%2434%20per%20practitioner%20per%20month.%0D%0A%0D%0AYou%20mentioned%20they've%20got%20a%20lot%20of%20work%20safe%20clients.%20Happy%20to%20walk%20you%20through%20how%20that%20would%20work.%0D%0A%0D%0AIf%20it's%20easier%20to%20see%20it%20in%20action%2C%20you%20can%20book%20a%20demo%20with%20Nadia%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AYou%20asked%20about%20we%20can%20put%20the%20work%20safe%20nb%20claim%20number%20right%20on%20the%20booking%20theyve%20got%20a%20lot%20of%20work%20saf%3A%20%5BANSWER%20NEEDED%3A%20Nadia%20or%20Owen%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S068,S068 C13 V11,Josée Cyr,Clinique Physio Madawaska,Edmundston,josee.cyr@physiomadawaska.example.ca,"card email (rules page: card by default), C13; badge has josee@physiomadawaska.example.ca",may email,handed over a card,hot,asked for pricing (C13),pricing,Nadia,voice note says it was Nadia's conversation,to send,1. Asked for something,"needing the pricing in writing, in French, priced per practitioner",C13 (fixed phrasing),,,,"S068: badge scan; C13: card (same phone and surname); V11: voice note (josie, city)",Prix pour Clinique Physio Madawaska,"Bonjour Josée,
+
+Merci pour notre conversation au salon Saint John Allied Health Forum. Comme promis, voici nos prix par écrit : c'est 34 $ par praticien par mois.
+
+Nadia
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. Pour ne plus recevoir nos courriels, écrivez à hello@[DOMAIN] avec « Unsubscribe ».",mailto:josee.cyr%40physiomadawaska.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Prix%20pour%20Clinique%20Physio%20Madawaska&body=Bonjour%20Jos%C3%A9e%2C%0D%0A%0D%0AMerci%20pour%20notre%20conversation%20au%20salon%20Saint%20John%20Allied%20Health%20Forum.%20Comme%20promis%2C%20voici%20nos%20prix%20par%20%C3%A9crit%20%3A%20c'est%2034%20%24%20par%20praticien%20par%20mois.%0D%0A%0D%0ANadia%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20Pour%20ne%20plus%20recevoir%20nos%20courriels%2C%20%C3%A9crivez%20%C3%A0%20hello%40%5BDOMAIN%5D%20avec%20%C2%AB%20Unsubscribe%20%C2%BB.
+S016,S016 V03 L05,Leanne Quinlan,Kingshurst Massage Therapy,Saint John,leanne@kingshurstmassage.example.ca,badge email (no card),personal reply only,"said no lists: one email with only what they asked for, no reminder, no newsletter",hot,asked for pricing (S016),pricing,Owen,"Owen's scan, card, voice note or list",to send,1. Asked for something,the double bookings,V03 (fixed phrasing),,,,"S016: badge scan; V03: voice note (leanne, quinlin, kingshurst); L05: Owen's list (leanne, kingshurst)",Pricing for Kingshurst Massage Therapy,"Hi Leanne,
+
+Good to meet you at the Saint John Allied Health Forum. As promised, here's the pricing: it's $34 per practitioner per month, so the price for your 3 RMTs is $102 a month at list.
+
+You mentioned the double bookings.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:leanne%40kingshurstmassage.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Pricing%20for%20Kingshurst%20Massage%20Therapy&body=Hi%20Leanne%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20As%20promised%2C%20here's%20the%20pricing%3A%20it's%20%2434%20per%20practitioner%20per%20month%2C%20so%20the%20price%20for%20your%203%20RMTs%20is%20%24102%20a%20month%20at%20list.%0D%0A%0D%0AYou%20mentioned%20the%20double%20bookings.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S026,S026 C03 L08,Dana Kierstead,Kierstead Massage & Wellness,Sussex,dana@kiersteadmassage.example.ca,"card email (rules page: card by default), C03",may email,handed over a card,hot,asked for call back (C03),call back,Owen,"Owen's scan, card, voice note or list",to send,1. Asked for something,adding rooms,S026 (short note wording),,line taken from the short note wording: check it reads right,Owen to call the week of April 26,"S026: badge scan; C03: card (same email); L08: Owen's list (dana, city)",Kierstead - I'll call the week of April 26,"Hi Dana,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned adding rooms.
+
+As you asked, I'll give you a call the week of April 26.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:dana%40kiersteadmassage.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Kierstead%20-%20I'll%20call%20the%20week%20of%20April%2026&body=Hi%20Dana%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20adding%20rooms.%0D%0A%0D%0AAs%20you%20asked%2C%20I'll%20give%20you%20a%20call%20the%20week%20of%20April%2026.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S023,S023 C01 V06 L06,Martin Trites,Hammond River Physiotherapy,Quispamsis,martin@hammondriverphysio.example.ca,"card email (rules page: card by default), C01; badge has mtrites@hammondriverphysio.example.ca",may email,handed over a card,warm,"warm by locations only (2, C01): Owen's view",send info,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,wanting intake forms filled in before the first visit,C01 (fixed phrasing),,provisional: shown to both Owen and Nadia,,"S023: badge scan; C01: card (same phone and surname); V06: voice note (martin, hammond, river, city); L06: Owen's list (martin, hammond, river)",Hammond River - the one-pager,"Hi Martin,
+
+Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+
+You mentioned wanting intake forms filled in before the first visit. If you want a proper look at that, you can book a demo with Nadia here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:martin%40hammondriverphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Hammond%20River%20-%20the%20one-pager&body=Hi%20Martin%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20Here's%20the%20one-pager%20you%20asked%20for%3A%20%5BONE-PAGER%20LINK%5D%0D%0A%0D%0AYou%20mentioned%20wanting%20intake%20forms%20filled%20in%20before%20the%20first%20visit.%20If%20you%20want%20a%20proper%20look%20at%20that%2C%20you%20can%20book%20a%20demo%20with%20Nadia%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S012,S012 S066,Megan Hatfield,Lancaster Physio,Saint John,megan@lancasterphysio.example.ca,badge email (no card),may email,badge opted in to sharing,warm,warm by both: 2 locations and on Bookstead,send info,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,reminders don't say which clinic,S012 (short note wording),,line taken from the short note wording: check it reads right,,S012: badge scan; S066: scanned again (same badge email as S012),Lancaster - the one-pager,"Hi Megan,
+
+Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+
+You mentioned reminders don't say which clinic. If you want a proper look at that, you can book a demo with Nadia here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:megan%40lancasterphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Lancaster%20-%20the%20one-pager&body=Hi%20Megan%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20Here's%20the%20one-pager%20you%20asked%20for%3A%20%5BONE-PAGER%20LINK%5D%0D%0A%0D%0AYou%20mentioned%20reminders%20don't%20say%20which%20clinic.%20If%20you%20want%20a%20proper%20look%20at%20that%2C%20you%20can%20book%20a%20demo%20with%20Nadia%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S052,S052 C06,Wanda Pugh,Pugh Massage Therapy,Saint John,info@pughmassage.example.ca,"card email (rules page: card by default), C06; badge has wanda@pughmassage.example.ca",may email,handed over a card,warm,"warm by locations only (2, C06): Owen's view",send info,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"card gives a shared mailbox; provisional: shown to both Owen and Nadia; no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,S052: badge scan; C06: card (same phone and surname),Pugh - the one-pager,"Hi Wanda,
+
+Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+
+If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:info%40pughmassage.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Pugh%20-%20the%20one-pager&body=Hi%20Wanda%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20Here's%20the%20one-pager%20you%20asked%20for%3A%20%5BONE-PAGER%20LINK%5D%0D%0A%0D%0AIf%20you%20want%20a%20proper%20look%2C%20you%20can%20book%20a%20demo%20with%20Nadia%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S046,S046,Frank Leger,Acadie Rehab Group,Moncton,fleger@acadierehab.example.ca,badge email (no card),never,"not a prospect: note says ""draw"" (never email, however big)",warm,"warm by locations only (6, S046): Owen's view",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,2. Call tasks,,,,provisional: shown to both Owen and Nadia,Owen to call: big group (6 locations) but never email,S046: badge scan,,,
+S004,S004 V05,Clifford Brine,Brine Sport & Spine,Truro,cliff@brinesportspine.example.ca,badge email (no card),may email,badge opted in to sharing,warm,"warm by locations only (5, S004): Owen's view",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,asking about no-show fee on card,S004 (short note wording),,provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right,"Owen to call: big group (5 locations), after the promises","S004: badge scan; V05: voice note (bring, sport)",Good to meet you at the Saint John Allied Health Forum,"Hi Clifford,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned asking about no-show fee on card.
+
+If you ever want to talk it through, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:cliff%40brinesportspine.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Clifford%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20asking%20about%20no-show%20fee%20on%20card.%0D%0A%0D%0AIf%20you%20ever%20want%20to%20talk%20it%20through%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S020,S020 V05 L09,Kristen Vautour,Quispamsis Physio & Sport,Quispamsis,kristen@qpsphysio.example.ca,badge email (no card),may email,badge opted in to sharing,warm,"warm by locations only (3, L09): Owen's view",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,after hours booking,L09 (short note wording),,provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right,"Owen to call: big group (3 locations), after the promises","S020: badge scan; V05: voice note (kristen, quispamsis, sport, city); L09: Owen's list (quispamsis, city)",Good to meet you at the Saint John Allied Health Forum,"Hi Kristen,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned after hours booking.
+
+If you ever want to talk it through, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:kristen%40qpsphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Kristen%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20after%20hours%20booking.%0D%0A%0D%0AIf%20you%20ever%20want%20to%20talk%20it%20through%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S013,S013 L03,Shelley Gorham,Rothesay Health Collective,Rothesay,sgorham@rothesayhealth.example.ca,badge email (no card),may email,badge opted in to sharing,warm,"warm by locations only (3, S013): Owen's view",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,physios and RMTs fighting over rooms,S013 (short note wording),,provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right,"Owen to call: big group (3 locations), after the promises","S013: badge scan; L03: Owen's list (rothesay, city)",Good to meet you at the Saint John Allied Health Forum,"Hi Shelley,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned physios and RMTs fighting over rooms.
+
+If you ever want to talk it through, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:sgorham%40rothesayhealth.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Shelley%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20physios%20and%20RMTs%20fighting%20over%20rooms.%0D%0A%0D%0AIf%20you%20ever%20want%20to%20talk%20it%20through%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S045,S045 V09,Paulette Doiron,Doiron Massage Therapy,Dieppe,paulette@doironmassage.example.ca,badge email (no card),may email,badge opted in to sharing,warm,warm by both: 2 locations and on Pracshift,thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,your RMTs can't see each others schedules on their phones so they text each other all day,V09 (voice note wording),,line taken from the voice note wording: check it reads right,,"S045: badge scan; V09: voice note (paulette, doiron, city)",Good to meet you at the Saint John Allied Health Forum,"Hi Paulette,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned your RMTs can't see each others schedules on their phones so they text each other all day.
+
+If you ever want to talk it through, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:paulette%40doironmassage.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Paulette%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20your%20RMTs%20can't%20see%20each%20others%20schedules%20on%20their%20phones%20so%20they%20text%20each%20other%20all%20day.%0D%0A%0D%0AIf%20you%20ever%20want%20to%20talk%20it%20through%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S030,S030 C05,Ahmad Rahimi,Rahimi Physiotherapy,Fredericton,ahmad@rahimiphysio.example.ca,"card email (rules page: card by default), C05",may email,handed over a card,warm,warm by software only (on Bookstead): Nadia's view,thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,wanting cancellations filled from a waitlist,C05 (fixed phrasing),,provisional: shown to both Owen and Nadia,,S030: badge scan; C05: card (same email),Good to meet you at the Saint John Allied Health Forum,"Hi Ahmad,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned wanting cancellations filled from a waitlist.
+
+If you ever want to talk it through, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:ahmad%40rahimiphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Ahmad%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20wanting%20cancellations%20filled%20from%20a%20waitlist.%0D%0A%0D%0AIf%20you%20ever%20want%20to%20talk%20it%20through%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S054,S054 C10 C15,Brent Ogden,Ogden Physiotherapy,Moncton,brent@ogdenphysio.example.ca,"card email (rules page: card by default), C10",may email,handed over a card,warm,warm by software only (on Clinivo): Nadia's view,thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,clients can't pick their physio online,S054 (short note wording),,provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right,,S054: badge scan; C10: card (same email); C15: card (same email),Good to meet you at the Saint John Allied Health Forum,"Hi Brent,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned clients can't pick their physio online.
+
+If you ever want to talk it through, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:brent%40ogdenphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Brent%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20clients%20can't%20pick%20their%20physio%20online.%0D%0A%0D%0AIf%20you%20ever%20want%20to%20talk%20it%20through%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S017,S017,Jared Seely,Pracshift,Toronto,jared.seely@pracshift.example.com,badge email (no card),never,"not a prospect: works for a competitor (Pracshift) (never email, however big)",warm,warm by software only (on Pracshift): Nadia's view,thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,,,,provisional: shown to both Owen and Nadia,,S017: badge scan,,,
+S029,S029,Natasha Pelkey,Millidgeville Physiotherapy,Saint John,natasha@millidgevillephysio.example.ca,badge email (no card),check first,"badge not opted in to sharing, no card, nothing asked (strictest reading until Erin okays the wording)",warm,warm by software only (on Clinivo): Nadia's view,thank-you note,Nadia,only Nadia's scan notes or card,check first,Check first,late cancellations hurting you,S029 (short note wording),,provisional: shown to both Owen and Nadia,,S029: badge scan,,,
+C08,C08,Yolanda Barrieau,Grand Bay Physiotherapy,,yolanda@grandbayphysio.example.ca,"card email (rules page: card by default), C08",may email,handed over a card,warm,warm by software only (on Clinivo): Nadia's view,thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,online forms useless on phones,C08 (short note wording),,provisional: shown to both Owen and Nadia; line taken from the short note wording: check it reads right,,"C08: card, no badge scan found",Good to meet you at the Saint John Allied Health Forum,"Hi Yolanda,
+
+Good to meet you at the Saint John Allied Health Forum. You mentioned online forms useless on phones.
+
+If you ever want to talk it through, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:yolanda%40grandbayphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Yolanda%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20You%20mentioned%20online%20forms%20useless%20on%20phones.%0D%0A%0D%0AIf%20you%20ever%20want%20to%20talk%20it%20through%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S049,S049 V10,Kayleigh Sherwood,Simonds Street Physio,Saint John,kayleigh@simondsphysio.example.ca,badge email (no card),may email,badge opted in to sharing,cold,"one location, on paper book, nothing asked",send info,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,"S049: badge scan; V10: voice note (kaylee, simons, street)",Simonds Street - the one-pager,"Hi Kayleigh,
+
+Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+
+If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:kayleigh%40simondsphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Simonds%20Street%20-%20the%20one-pager&body=Hi%20Kayleigh%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20Here's%20the%20one-pager%20you%20asked%20for%3A%20%5BONE-PAGER%20LINK%5D%0D%0A%0D%0AIf%20you%20want%20a%20proper%20look%2C%20you%20can%20book%20a%20demo%20with%20Nadia%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S058,S058,Priya Varghese,Lakewood Physiotherapy,Saint John,pvarghese@lakewoodphysio.example.ca,badge email (no card),may email,badge opted in to sharing,cold,"one location, on spreadsheet, nothing asked",send info,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,S058: badge scan,Lakewood - the one-pager,"Hi Priya,
+
+Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+
+If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:pvarghese%40lakewoodphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Lakewood%20-%20the%20one-pager&body=Hi%20Priya%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20Here's%20the%20one-pager%20you%20asked%20for%3A%20%5BONE-PAGER%20LINK%5D%0D%0A%0D%0AIf%20you%20want%20a%20proper%20look%2C%20you%20can%20book%20a%20demo%20with%20Nadia%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+C09,C09,Heidi Crandall,Crandall Kinesiology & Massage,,heidi@crandallkin.example.ca,"card email (rules page: card by default), C09",may email,handed over a card,cold,"one location (no count written), on Google Calendar, nothing asked",send info,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,"C09: card, no badge scan found",Crandall Kinesiology - the one-pager,"Hi Heidi,
+
+Good to meet you at the Saint John Allied Health Forum. Here's the one-pager you asked for: [ONE-PAGER LINK]
+
+If you want a proper look, you can book a demo with Nadia here: [BOOKING LINK]
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:heidi%40crandallkin.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Crandall%20Kinesiology%20-%20the%20one-pager&body=Hi%20Heidi%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20Here's%20the%20one-pager%20you%20asked%20for%3A%20%5BONE-PAGER%20LINK%5D%0D%0A%0D%0AIf%20you%20want%20a%20proper%20look%2C%20you%20can%20book%20a%20demo%20with%20Nadia%20here%3A%20%5BBOOKING%20LINK%5D%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S064,S064 C07,Arlene Kinney,Kinney Physiotherapy,Saint John,akinney@kinneyphysio.example.ca,badge email: card email arlene@kinneyphyiso.example.ca looks mistyped (domain differs from badge by a letter or two),may email,handed over a card,cold,"one location, on spreadsheet, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"card email typo?; no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,S064: badge scan; C07: card (same phone and surname),Good to meet you at the Saint John Allied Health Forum,"Hi Arlene,
+
+Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:akinney%40kinneyphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Arlene%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20If%20you%20ever%20want%20a%20look%20at%20Sandbar%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S009,S009,Gail Mersereau,Mersereau Massage,St. Stephen,gail@mersereaumassage.example.ca,badge email (no card),never,"on the do-not-email list: asked to be removed (2027-04-23, A022 hello@ inbox)",cold,"one location, on paper book, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,,,,,,S009: badge scan,,,
+S035,S035 S071,Joel Estabrooks,Estabrooks Physiotherapy,Grand Falls,joel@estabrooksphysio.example.ca,badge email (no card),may email,badge opted in to sharing,cold,"one location, on Google Calendar, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,you're not ready to switch yet,S035 (light detail),,light detail,,S035: badge scan; S071: scanned again (same badge email as S035),Good to meet you at the Saint John Allied Health Forum,"Hi Joel,
+
+Good to meet you at the Saint John Allied Health Forum. No rush at all, I know you're not ready to switch yet. Whenever you are, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:joel%40estabrooksphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Joel%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20No%20rush%20at%20all%2C%20I%20know%20you're%20not%20ready%20to%20switch%20yet.%20Whenever%20you%20are%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S074,S074 C14,Raymond Losier,Losier Physiotherapy,Woodstock,ray@losierphysio.example.ca,"card email (rules page: card by default), C14",may email,handed over a card,cold,"one location, on paper book, nothing asked",thank-you note,Nadia,only Nadia's scan notes or card,to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,S074: badge scan; C14: card (same email),Good to meet you at the Saint John Allied Health Forum,"Hi Raymond,
+
+Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+
+Nadia
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:ray%40losierphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Raymond%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20If%20you%20ever%20want%20a%20look%20at%20Sandbar%2C%20just%20get%20in%20touch.%0D%0A%0D%0ANadia%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S039,S039,Tom Belyea,Westside Physiotherapy,Saint John,tom.belyea@westsidephysio.example.ca,badge email (no card),check first,"badge not opted in to sharing, no card, nothing asked (strictest reading until Erin okays the wording)",cold,"one location, on spreadsheet, nothing asked",thank-you note,Nadia,only Nadia's scan notes or card,check first,Check first,,,,,,S039: badge scan,,,
+S086,S086,Abigail Poirier,Tidal River University,Moncton,abigail.poirier@tidalriveru.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S086: badge scan,,,
+S073,S073,Aidan McKay,Moncton Movement Clinic,Moncton,aidan.mckay@monctonmovement.example.ca,badge email (no card),never,"not a prospect: note says ""draw"" (never email, however big)",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,,,,,,S073: badge scan,,,
+S003,S003,Ainsley Fanjoy,Fundy Coast College,Saint John,ainsley.fanjoy@fundycoastcollege.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S003: badge scan,,,
+S008,S008,Amélie Savoie,Physio Péninsule,Tracadie,amelie@physiopeninsule.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S008: badge scan,,,
+S031,S031,Brent Colwell,Harbour Passage Physio,Saint John,bcolwell@harbourpassagephysio.example.ca,badge email (no card),never,"not a prospect: note says ""didnt chat"" (never email, however big)",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,,,,,,S031: badge scan,,,
+S010,S010,Brody Kelly,Tidal River University,Fredericton,brody.kelly@tidalriveru.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S010: badge scan,,,
+S043,S043,Brooke Ryan,Saint John Allied Health Forum,Saint John,brooke.ryan@sjahforum.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S043: badge scan,,,
+S082,S082,Carla Jonah,Harbourview Rehab,Halifax,carla@harbourviewrehab.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S082: badge scan,,,
+S014,S014,Cheryl Wetmore,Wetmore Physio,Quispamsis,cheryl@wetmorephysio.example.ca,badge email (no card),never,"on the do-not-email list: asked to be removed (2027-04-23, A023 hello@ inbox)",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,,,,,,S014: badge scan,,,
+S070,S070,Corey Dunlop,Island Spine & Sport,Summerside,corey@islandspine.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S070: badge scan,,,
+S005,S005,Danielle Bourque,Seabright Massage,Moncton,danielle@seabrightmassage.example.com,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S005: badge scan,,,
+S079,S079,Darlene Moore,Maritime Mutual Benefits,Saint John,darlene.moore@maritimemutual.example.com,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S079: badge scan,,,
+S040,S040,Darren Wry,Wry Massage Therapy,Hampton,darren@wrymassage.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S040: badge scan,,,
+S087,S087,Derrick Smith,Valley Physio Sussex,Sussex,dsmith@valleyphysiosussex.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S087: badge scan,,,
+S025,S025,Ella Crossman,Tidal River University,Saint John,ella.crossman@tidalriveru.example.ca,badge email (no card),never,"not a prospect: note says ""student"" (never email, however big)",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,doing a project on clinic software,S025 (short note wording),,,,S025: badge scan,,,
+S091,S091,Eric Seaman,Seaman Physiotherapy,Saint John,eric@seamanphysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S091: badge scan,,,
+S056,S056,Fraser Crawford,Crawford Physio & Pilates,Fredericton,fraser@crawfordphysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S056: badge scan,,,
+S063,S063,Gavin Ellis,Uptown Physio SJ,Saint John,gavin@uptownphysiosj.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S063: badge scan,,,
+S090,S090,Gisèle Michaud,Physio Grand-Sault,Grand Falls,gisele@physiograndsault.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S090: badge scan,,,
+S036,S036,Glenna Fowler,Fowler Massage Therapy,Hampton,glenna@fowlermassage.example.ca,badge email (no card),may email,badge opted in to sharing,cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,S036: badge scan,Good to meet you at the Saint John Allied Health Forum,"Hi Glenna,
+
+Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:glenna%40fowlermassage.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Glenna%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20If%20you%20ever%20want%20a%20look%20at%20Sandbar%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S021,S021,Graham Northrup,Kennebec Rehab,Hampton,gnorthrup@kennebecrehab.example.com,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S021: badge scan,,,
+S015,S015,Hector Allain,Shediac Bay Physio,Shediac,hallain@shediacbayphysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S015: badge scan,,,
+S047,S047,Holly Brewer,Brewer Physio,Amherst,holly@brewerphysio.example.com,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S047: badge scan,,,
+S081,S081,Hugh Seaman,Fredericton Physio Centre,Fredericton,hseaman@frederictonphysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S081: badge scan,,,
+S057,S057,Jeannine Bastarache,Massothérapie Bastarache,Bouctouche,jeannine@massobastarache.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S057: badge scan,,,
+S001,S001,Jocelyn Hayward,Kingsbrae Physio,St. Andrews,jhayward@kingsbraephysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S001: badge scan,,,
+S078,S078,Jonah Wetmore,Tidal River University,Saint John,jonah.wetmore@tidalriveru.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S078: badge scan,,,
+S038,S038,Katie Morehouse,Fundy Coast College,Rothesay,katie.morehouse@fundycoastcollege.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S038: badge scan,,,
+S089,S089,Keegan Kelly,Lighthouse Massage SJ,Saint John,keegan@lighthousemassagesj.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S089: badge scan,,,
+S080,S080,Kelsey Ouellette,Ouellette Massage,Edmundston,kelsey@ouellettemassage.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S080: badge scan,,,
+S006,S006,Kyle McGraw,Tidewater Orthotics,Dartmouth,kmcgraw@tidewaterorthotics.example.com,badge email (no card),never,"not a prospect: note says ""exhibitor"" (never email, however big)",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,,,,,,S006: badge scan,,,
+S028,S028,Lisa Furlong,Maritime Mutual Benefits,Moncton,lisa.furlong@maritimemutual.example.com,badge email (no card),check first,"title ""account manager"" doesn't look like a clinic buyer",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",check first,Check first,,,,,,S028: badge scan,,,
+S041,S041 V08,Lloyd Mazerolle,Mazerolle Massage Therapy,Miramichi,lloyd@mazerollemassage.example.ca,badge email (no card),may email,badge opted in to sharing,cold,"one location (no count written), on paper book, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,"S041: badge scan; V08: voice note (lloyd, city)",Good to meet you at the Saint John Allied Health Forum,"Hi Lloyd,
+
+Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:lloyd%40mazerollemassage.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Lloyd%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20If%20you%20ever%20want%20a%20look%20at%20Sandbar%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S050,S050 V08,Lowell Briggs,Briggs Physiotherapy,Saint John,lowell@briggsphysio.example.ca,badge email (no card),may email,badge opted in to sharing,cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,"S050: badge scan; V08: voice note (lovely, city)",Good to meet you at the Saint John Allied Health Forum,"Hi Lowell,
+
+Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:lowell%40briggsphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Lowell%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20If%20you%20ever%20want%20a%20look%20at%20Sandbar%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S084,S084,Lucas Richard,Physio Memramcook,Memramcook,lucas@physiomemramcook.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S084: badge scan,,,
+S033,S033,Marc Cormier,Codiac Physio,Moncton,marc.cormier@codiacphysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S033: badge scan,,,
+S055,S055 C12,Marcy Stackhouse,Harbourline Medical Supply,Halifax,marcy@harbourlinemedical.example.com,"card email (rules page: card by default), C12",never,"not a prospect: note says ""swag"" (never email, however big)",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,,,,,,S055: badge scan; C12: card (same email),,,
+S065,S065,Maya Lutes,Fundy Coast College,Sussex,maya.lutes@fundycoastcollege.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S065: badge scan,,,
+S011,S011,Meghan Doucette,Tidal River University,Halifax,meghan.doucette@tidalriveru.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S011: badge scan,,,
+S069,S069,Mira Daigle,Clinivo,Toronto,mira.daigle@clinivo.example.com,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S069: badge scan,,,
+S088,S088,Monica Lirette,Bridge Street Physio,Saint John,monica@bridgestreetphysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S088: badge scan,,,
+S027,S027,Neville Horsman,Bayside Sports Medicine,Halifax,nhorsman@baysidesportsmed.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S027: badge scan,,,
+S059,S059,Noah Seely,Tidal River University,Saint John,noah.seely@tidalriveru.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S059: badge scan,,,
+S024,S024,Odette Maillet,Maillet Massothérapie,Dieppe,odette@mailletmasso.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S024: badge scan,,,
+S076,S076,Patricia Hayes,Fundy Trail Physio,St. Martins,phayes@fundytrailphysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S076: badge scan,,,
+S044,S044,Philippe Gionet,Physio Chaleur,Bathurst,pgionet@physiochaleur.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S044: badge scan,,,
+S083,S083 V05,Piper Mcgraw,Fundy Coast College,Quispamsis,piper.mcgraw@fundycoastcollege.example.ca,badge email (no card),never,"not a prospect: title says ""student"" (never email, however big)",cold,"one location (no count written), on paper book, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,you want people to be able to book at night online because the phones only get answered nine to five,V05 (voice note wording),,,,"S083: badge scan; V05: voice note (paper, city)",,,
+S048,S048,Remi Chiasson,Fundy Coast College,Moncton,remi.chiasson@fundycoastcollege.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S048: badge scan,,,
+S061,S061,Rhys Fairweather,Riverside Rehab Fredericton,Fredericton,ofairweather@riversiderehabfton.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S061: badge scan,,,
+C11,C11,Rick Dunlop,Dunlop Family Physio,,rick@dunlopfamilyphysio.example.ca,"card email (rules page: card by default), C11",never,"not a prospect: note says ""draw"" (never email, however big)",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",no email,,,,,,,"C11: card, no badge scan found",,,
+S051,S051,Rosalie Haché,Haché Massage,Caraquet,rosalie@hachemassage.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S051: badge scan,,,
+S018,S018,Rowan Belding,Fundy Coast College,Saint John,rowan.belding@fundycoastcollege.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S018: badge scan,,,
+S062,S062 L07,Sandra Wilson,Hampton Family Physio,Hampton,swilson@hamptonfamilyphysio.example.ca,badge email (no card),may email,badge opted in to sharing,cold,"one location (no count written), on paper book, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,"S062: badge scan; L07: Owen's list (hampton, city)",Good to meet you at the Saint John Allied Health Forum,"Hi Sandra,
+
+Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:swilson%40hamptonfamilyphysio.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Sandra%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20If%20you%20ever%20want%20a%20look%20at%20Sandbar%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S075,S075,Sienna Roussel,Fundy Coast College,Saint John,sienna.roussel@fundycoastcollege.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S075: badge scan,,,
+S019,S019,Siobhan Cormier,Cormier Physiotherapy,Riverview,siobhan@cormierphysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S019: badge scan,,,
+S042,S042,Stuart Gaskin,Gaskin Athletic Therapy,Charlottetown,stuart@gaskinat.example.ca,badge email (no card),may email,badge opted in to sharing,cold,"one location (no count written), on spreadsheet, nothing asked",thank-you note,Owen,"Owen's scan, card, voice note or list",to send,3. Real conversations,,,,"no detail: nothing specific written down, line skipped (Owen to add one if he remembers)",,S042: badge scan,Good to meet you at the Saint John Allied Health Forum,"Hi Stuart,
+
+Good to meet you at the Saint John Allied Health Forum. If you ever want a look at Sandbar, just get in touch.
+
+Owen
+
+--
+Sandbar Scheduling, [MAILING ADDRESS]. To stop emails from us, email hello@[DOMAIN] with ""Unsubscribe"".",mailto:stuart%40gaskinat.example.ca?bcc=hello%40%5BDOMAIN%5D&subject=Good%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum&body=Hi%20Stuart%2C%0D%0A%0D%0AGood%20to%20meet%20you%20at%20the%20Saint%20John%20Allied%20Health%20Forum.%20If%20you%20ever%20want%20a%20look%20at%20Sandbar%2C%20just%20get%20in%20touch.%0D%0A%0D%0AOwen%0D%0A%0D%0A--%0D%0ASandbar%20Scheduling%2C%20%5BMAILING%20ADDRESS%5D.%20To%20stop%20emails%20from%20us%2C%20email%20hello%40%5BDOMAIN%5D%20with%20%22Unsubscribe%22.
+S085,S085,Tanya Rice,Rice Therapeutic Massage,St. John's,tanya@ricemassage.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S085: badge scan,,,
+S067,S067,Terrence Murray,Bay Shore Massage,Yarmouth,terrence@bayshoremassage.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S067: badge scan,,,
+S037,S037,Tyson Duplisea,Fundy Coast College,Saint John,tyson.duplisea@fundycoastcollege.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S037: badge scan,,,
+S053,S053,Wallace Stackhouse,Grand Lake Physio,Minto,cstackhouse@grandlakephysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S053: badge scan,,,
+S034,S034,Wendy Kilpatrick,Oromocto Physiotherapy,Oromocto,frontdesk@oromoctophysio.example.ca,badge email (no card),drive-by,"bare badge scan: no star, note, card, voice note or list line",cold,"one location (no count written), system not written, nothing asked",thank-you note,Owen,no one claimed: Owen by default; Nadia can claim (R80),drive-by,,,,,,,S034: badge scan,,,

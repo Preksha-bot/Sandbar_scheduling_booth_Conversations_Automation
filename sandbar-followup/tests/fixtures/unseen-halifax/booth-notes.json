@@ -1,0 +1,301 @@
+{
+  "about": "Everything from the Maritime Allied Health Expo booth (Halifax, 2026-11-23 and 2026-11-24) other than the badge scans. Cards were typed up by Erin from the originals; voice notes are the phone's automatic transcripts of Owen's recordings; Owen's list is copied as he typed it.",
+  "cards": [
+    {
+      "card_id": "C01",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "William J. Fraser, PT, MScPT",
+      "title": "Clinic Director",
+      "clinic": "Eastern Passage Physiotherapy",
+      "email": "wfraser@easternpassagephysio.example.ca",
+      "phone": "902 555 0241",
+      "back_of_card": "walkthru for him + his 2 PTs. clinivo up for renewal feb"
+    },
+    {
+      "card_id": "C02",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Lorraine Pyke",
+      "title": "Clinic Manager",
+      "clinic": "Mahone Bay Massage & Wellness",
+      "email": "lorraine@mahonebaymasage.example.ca",
+      "phone": "(902) 555-0216",
+      "back_of_card": "2 sites. wants couples rooms booked as one appt"
+    },
+    {
+      "card_id": "C03",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Des Okoye, PT",
+      "title": "Owner",
+      "clinic": "Sackville Sports Physio",
+      "email": "des@sackvillesportsphysio.example.ca",
+      "phone": "902-555-0229",
+      "back_of_card": "on PS. wants online booking to shut off 2 hrs before"
+    },
+    {
+      "card_id": "C04",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Rosalie Chiasson, RMT",
+      "title": "Owner",
+      "clinic": "Tidal Touch Massage",
+      "email": "rosalie@tidaltouchmassage.example.ca",
+      "phone": "902-555-0289",
+      "back_of_card": "test drive - 3 RMTs. bkstd too pricey for 3"
+    },
+    {
+      "card_id": "C05",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Darlene Hiltz",
+      "title": "Office Manager",
+      "clinic": "Musquodoboit Valley Physio",
+      "email": "darlene@mvphysio.example.ca",
+      "phone": "902 555 0297",
+      "back_of_card": "gcal. lovely lady - 3 grandkids in Calgary"
+    },
+    {
+      "card_id": "C06",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Kenji Tanaka, PT",
+      "title": "Owner",
+      "clinic": "Dartmouth Crossing Physio",
+      "email": "kenji@dartmouthcrossingphysio.example.ca",
+      "phone": "(902) 555-0246",
+      "back_of_card": "2 clinics on one spreadsheet"
+    },
+    {
+      "card_id": "C07",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Malcolm Dingwell",
+      "title": "Director of Operations",
+      "clinic": "Celtic Shores Rehab Group",
+      "email": "malcolm.dingwell@celticshoresrehab.example.ca",
+      "phone": "902-555-0244 x101",
+      "back_of_card": "7 sites, each on its own google cal. 1 pager for the board (jan)"
+    },
+    {
+      "card_id": "C08",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Petra Zwicker",
+      "title": "Clinic Manager",
+      "clinic": "Kinburn Physiotherapy",
+      "email": "petra@kinburnphysio.example.ca",
+      "phone": "902-555-0214",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C09",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Alasdair Gunn, MScPT",
+      "title": "Owner",
+      "clinic": "Gunn Sport Physio",
+      "email": "alasdair@gunnsportphysio.example.ca",
+      "phone": "902.555.0253",
+      "back_of_card": "big curler!"
+    },
+    {
+      "card_id": "C10",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Rhoda Pike",
+      "title": "Partnerships Manager",
+      "clinic": "Ardent Laser Therapy",
+      "email": "rhoda.pike@ardentlaser.example.com",
+      "phone": "506-555-0247",
+      "back_of_card": "referral partnership? call her"
+    },
+    {
+      "card_id": "C11",
+      "typed_on": "2026-12-01",
+      "collected_by": "Nadia",
+      "name": "Josée Saulnier, pht",
+      "title": "Physiothérapeute / Propriétaire",
+      "clinic": "Clinique Physio Baie Sainte-Marie",
+      "email": "josee@physiobaiestemarie.example.ca",
+      "phone": "902.555.0264",
+      "back_of_card": "Clinivo - 2 cliniques (Meteghan et Yarmouth). Veut les prix par praticien, par écrit, en français."
+    },
+    {
+      "card_id": "C12",
+      "typed_on": "2026-12-01",
+      "collected_by": "Nadia",
+      "name": "Leo Cormier",
+      "title": "Practice Manager",
+      "clinic": "Riverview Sport & Spine",
+      "email": "lcormier@riverviewsportspine.example.ca",
+      "phone": "506-555-0218",
+      "back_of_card": "2 sites, pracshift. outage in oct cost them a whole day of bookings"
+    },
+    {
+      "card_id": "C13",
+      "typed_on": "2026-12-01",
+      "collected_by": "Nadia",
+      "name": "Sadie Langley",
+      "title": "Clinic Manager",
+      "clinic": "Avon River Physiotherapy",
+      "email": "sadie@avonriverphysio.example.ca",
+      "phone": "902-555-0225",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C14",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Hamid Noori, RMT",
+      "title": "Owner",
+      "clinic": "Eastern Shore Massage",
+      "email": "hamid@easternshoremassage.example.ca",
+      "phone": "(902) 555-0248",
+      "back_of_card": "test drive in Feb"
+    },
+    {
+      "card_id": "C15",
+      "typed_on": "2026-11-26",
+      "collected_by": "Owen",
+      "name": "Callum Rideout, PT",
+      "title": "Owner",
+      "clinic": "Tantallon Physio & Rehab",
+      "email": "callum@tantallonphysio.example.ca",
+      "phone": "902 555 0238",
+      "back_of_card": "WCB?? - find out"
+    },
+    {
+      "card_id": "C16",
+      "typed_on": "2026-12-01",
+      "collected_by": "Nadia",
+      "name": "M. Dauphinee",
+      "title": "Front Desk Lead",
+      "clinic": "Spryfield Physio",
+      "email": "reception@spryfieldphysio.example.ca",
+      "phone": "902-555-0237",
+      "back_of_card": "owner = Dr. Keith Barkhouse"
+    }
+  ],
+  "voice_notes": [
+    {
+      "note_id": "V01",
+      "recorded_at": "2026-11-23 09:20",
+      "length_seconds": 31,
+      "transcript": "okay first proper one. priya dillon, anchorage physio and rehab in bedford, four clinics, and tom, tom keddy, he runs the front desks for her. they're on book stand and the contract's up in march. priya wants a quote, per practitioner, they've got twenty two. tom wants to test drive the online booking at the bedford desk before anybody signs anything. so two different asks, two different people. she's running boston in april, wouldn't stop talking about it."
+    },
+    {
+      "note_id": "V02",
+      "recorded_at": "2026-11-23 10:20",
+      "length_seconds": 19,
+      "transcript": "imogen krause, bluefin physio, dartmouth, two clinics, on clinic vo. her front desk spends an hour every morning on reminder calls. she wants a walk through. and she said very clearly no newsletters, no mailers, nothing, she gets forty emails a day. so just the demo, nothing else."
+    },
+    {
+      "note_id": "V03",
+      "recorded_at": "2026-11-23 10:58",
+      "length_seconds": 24,
+      "transcript": "callum ride out, tantallon physio, one clinic, on book stand. wants a demo. but the first thing he asked was can we fill in the WCB claim forms for his injured worker patients, and honestly I don't know, I said I'd find out. so nobody promise him that until we know."
+    },
+    {
+      "note_id": "V04",
+      "recorded_at": "2026-11-23 11:10",
+      "length_seconds": 22,
+      "transcript": "the chiro from yarmouth, nate, sir ette I think, harbour light chiropractic, the guy with the old film camera round his neck. two clinics, yarmouth and digby, on practice shift and it can't show both clinics in one calendar. wants a walk through with his associate."
+    },
+    {
+      "note_id": "V05",
+      "recorded_at": "2026-11-23 11:52",
+      "length_seconds": 17,
+      "transcript": "kwame, clayton park physio, three clinics, book stand. their online booking keeps showing slots that are already gone and patients turn up for nothing. he wants to see a demo. good one."
+    },
+    {
+      "note_id": "V06",
+      "recorded_at": "2026-11-23 12:08",
+      "length_seconds": 18,
+      "transcript": "bernadette from kentville, massage, one clinic, paper book and she's happy with it. she's already getting our newsletter from that webinar thing and she asked to be taken off it, too many emails. fair enough. so nothing to her."
+    },
+    {
+      "note_id": "V07",
+      "recorded_at": "2026-11-23 15:36",
+      "length_seconds": 21,
+      "transcript": "note to self. a lot of people today asking about taking deposits for no shows, we should really have a one pager on that. and we need more coffee pods, and the banner's leaning again. okay."
+    },
+    {
+      "note_id": "V08",
+      "recorded_at": "2026-11-24 09:20",
+      "length_seconds": 18,
+      "transcript": "alasdair gun, new glasgow, sport physio, one clinic, on clinic evo. we talked curling for ten minutes. his actual gripe is clients can't rebook from the clinivo reminder text, they have to phone in. didn't ask for anything."
+    },
+    {
+      "note_id": "V09",
+      "recorded_at": "2026-11-24 09:27",
+      "length_seconds": 20,
+      "transcript": "tamsin, herring cove physio, one clinic, google calendar. she's just back from a hip replacement so she's only in two days a week and her associate runs things. wants a brochure she can leave for the associate. that's it."
+    },
+    {
+      "note_id": "V10",
+      "recorded_at": "2026-11-24 10:08",
+      "length_seconds": 17,
+      "transcript": "hamid, eastern shore massage, musquodoboit harbour, paper book. his wife's expecting twins in january so nothing till february, then he wants a test drive for himself and his two RMTs."
+    },
+    {
+      "note_id": "V11",
+      "recorded_at": "2026-11-24 13:30",
+      "length_seconds": 19,
+      "transcript": "scanner's dead, using cards. rosie from pictou, tidal touch massage, three RMTs, on book stand and she thinks it's too pricey for three people. wants to test drive it. got her card."
+    },
+    {
+      "note_id": "V12",
+      "recorded_at": "2026-11-24 15:10",
+      "length_seconds": 20,
+      "transcript": "nadia had a french one this morning, josie or josée something, saw nyay, physio from meteghan, two clinics, on clinivo. wants prices in writing, in french. nadia's got the card and she's writing to her herself."
+    }
+  ],
+  "owen_list": {
+    "written": "2026-11-24 21:05, hotel in Halifax",
+    "title": "halifax - people",
+    "lines": [
+      {
+        "line_id": "L01",
+        "text": "Bill F - Eastern Passage - walkthru w his PTs. CV renewal Feb"
+      },
+      {
+        "line_id": "L02",
+        "text": "Anchorage - Priya QUOTE / Tom test drive. 4 doors!!"
+      },
+      {
+        "line_id": "L03",
+        "text": "Malcolm - Celtic Shores - 7 SITES - board pack for jan. BIG ONE"
+      },
+      {
+        "line_id": "L04",
+        "text": "the chiro with the film camera - walkthru + associate"
+      },
+      {
+        "line_id": "L05",
+        "text": "Imogen Bluefin - walkthru. NO mailers!!"
+      },
+      {
+        "line_id": "L06",
+        "text": "Callum - WCB question - find out first"
+      },
+      {
+        "line_id": "L07",
+        "text": "deposits one pager - lots asked!!"
+      },
+      {
+        "line_id": "L08",
+        "text": "Rosie (Pictou) - test drive"
+      },
+      {
+        "line_id": "L09",
+        "text": "Rob - antigonish physio - paper - price for his 3 PTs"
+      },
+      {
+        "line_id": "L10",
+        "text": "the twins guy - test drive in feb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "about": "Everything from the Ottawa Valley Rehab & Wellness Expo booth (Ottawa, 2027-02-08 and 2027-02-09) other than the badge scans. Owen's cards were typed up by Erin on 2027-02-11; Nadia's cards were typed up by Erin on 2027-02-25 when Nadia handed them over. Voice notes are the phone's automatic transcripts of Owen's recordings; Owen's list is copied as he typed it.",
+  "cards": [
+    {
+      "card_id": "C01",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Kathryn Doyle, PT",
+      "title": "Clinic Director",
+      "clinic": "Rideau Valley Physiotherapy",
+      "email": "kathryn@rideauvalleyphysio.example.ca",
+      "phone": "613-555-0142 x1",
+      "back_of_card": "demo - bring her 2 leads. clinivo"
+    },
+    {
+      "card_id": "C02",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Leanne Fraser, PT",
+      "title": "Owner",
+      "clinic": "Mississippi Mills Physiotherapy",
+      "email": "leanne@mmphysio.example.ca",
+      "phone": "613-555-0163",
+      "back_of_card": "DEMO. paper x2"
+    },
+    {
+      "card_id": "C03",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Mo Rahimi, PT",
+      "title": "Owner",
+      "clinic": "Glebe Sports Physio",
+      "email": "mo@glebesportsphysio.example.ca",
+      "phone": "613-555-0186",
+      "back_of_card": "$$ in writing"
+    },
+    {
+      "card_id": "C04",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Graham Tessier, PT",
+      "title": "Owner",
+      "clinic": "Upper Valley Physiotherapy",
+      "email": "graham@uppervalleyphysio.example.ca",
+      "phone": "613 555 0132",
+      "back_of_card": "2 sites Pem + Petawawa. gcal. $$"
+    },
+    {
+      "card_id": "C05",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Fergus Lindsay",
+      "title": "Regional Manager",
+      "clinic": "Madawaska Physio & Rehab",
+      "email": "fergus.lindsay@madawaskaphysio.example.ca",
+      "phone": "613 555 0153",
+      "back_of_card": "bookstead, 3 sites. contract up in fall"
+    },
+    {
+      "card_id": "C06",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Brent Holloway",
+      "title": "Owner",
+      "clinic": "Brockville Rehab Centre",
+      "email": "brent@brockvillerehab.example.ca",
+      "phone": "613-555-0157 ext 2",
+      "back_of_card": "xl. 2 sites"
+    },
+    {
+      "card_id": "C07",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Kyle Brodeur, PT",
+      "title": "Owner",
+      "clinic": "Brodeur Physiotherapy",
+      "email": "kyle@brodeurphyiso.example.ca",
+      "phone": "613-555-0105",
+      "back_of_card": "xl, send one pager"
+    },
+    {
+      "card_id": "C08",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Rohan Dutta",
+      "title": "Physiotherapist / Owner",
+      "clinic": "Hintonburg Physiotherapy",
+      "email": "rohan@hintonburgphysio.example.com",
+      "phone": "343.555.0126",
+      "back_of_card": "bookstead, deposits for new pts"
+    },
+    {
+      "card_id": "C09",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Angela Rinaldi",
+      "title": "Office Manager",
+      "clinic": "Alta Vista Massage Therapy",
+      "email": "arinaldi@altavistamassage.example.ca",
+      "phone": "(613) 555-0133",
+      "back_of_card": "paper. one-pager for owner"
+    },
+    {
+      "card_id": "C10",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Andrew Sinclair, MScPT",
+      "title": "Owner",
+      "clinic": "Sinclair Physiotherapy",
+      "email": "andrew@sinclairphysio.example.ca",
+      "phone": "613.555.0146",
+      "back_of_card": "gcal - wants online booking eventually"
+    },
+    {
+      "card_id": "C11",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Marcus Bell, PT",
+      "title": "Owner",
+      "clinic": "Cataraqui Physiotherapy",
+      "email": "marcus@cataraquiphysio.example.ca",
+      "phone": "613-555-0181",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C12",
+      "typed_on": "2027-02-11",
+      "collected_by": "Owen",
+      "name": "Lorraine Vachon, RMT",
+      "title": "Owner",
+      "clinic": "Tenth Line Massage Therapy",
+      "email": "lorraine@tenthlinemassage.example.ca",
+      "phone": "613-555-0138",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C13",
+      "typed_on": "2027-02-25",
+      "collected_by": "Nadia",
+      "name": "Priya Natarajan, RMT",
+      "title": "Owner",
+      "clinic": "Kanata Therapeutic Massage",
+      "email": "priya@kanatamassage.example.ca",
+      "phone": "343-555-0108",
+      "back_of_card": "trial pls - 4 rmts, gcal"
+    },
+    {
+      "card_id": "C14",
+      "typed_on": "2027-02-25",
+      "collected_by": "Nadia",
+      "name": "Isabelle Gagnon-Paquette, pht",
+      "title": "Physiothérapeute / Copropriétaire",
+      "clinic": "Clinique Physio Outaouais",
+      "email": "isabelle@physiooutaouais.example.ca",
+      "phone": "819-555-0147",
+      "back_of_card": "Pracshift - 2 cliniques - contrat jusqu'en juin - rappeler sem. du 22 fév."
+    },
+    {
+      "card_id": "C15",
+      "typed_on": "2027-02-25",
+      "collected_by": "Nadia",
+      "name": "Ingrid Solberg",
+      "title": "Clinic Manager",
+      "clinic": "Seaway Physio & Wellness",
+      "email": "ingrid@seawayphysio.example.ca",
+      "phone": "613-555-0195",
+      "back_of_card": "brochure for owner (Dr. Mehta). pracshift"
+    },
+    {
+      "card_id": "C16",
+      "typed_on": "2027-02-25",
+      "collected_by": "Nadia",
+      "name": "Fatima Al-Sayed, RMT",
+      "title": "RMT",
+      "clinic": "Aylmer Wellness Massage",
+      "email": "fatima@aylmerwellness.example.ca",
+      "phone": "819.555.0161",
+      "back_of_card": "xl - not ready, maybe fall"
+    },
+    {
+      "card_id": "C17",
+      "typed_on": "2027-02-25",
+      "collected_by": "Nadia",
+      "name": "Raymond Chu, RMT",
+      "title": "Owner",
+      "clinic": "Gloucester Massage Therapy",
+      "email": "raymond@gloucestermassage.example.ca",
+      "phone": "613-555-0176",
+      "back_of_card": "no badge - paper book, 2 RMTs"
+    },
+    {
+      "card_id": "C18",
+      "typed_on": "2027-02-25",
+      "collected_by": "Nadia",
+      "name": "Teresa Muir",
+      "title": "Front Desk Lead",
+      "clinic": "Bank Street Physiotherapy",
+      "email": "frontdesk@bankstreetphysio.example.ca",
+      "phone": "613-555-0112",
+      "back_of_card": "owner decides. clinivo. waitlist?"
+    },
+    {
+      "card_id": "C19",
+      "typed_on": "2027-02-25",
+      "collected_by": "Nadia",
+      "name": "Dana Lindgren",
+      "title": "Clinic Manager",
+      "clinic": "Kemptville Health Collective",
+      "email": "dlindgren@kemptvillehealth.example.ca",
+      "phone": "613 555 0177",
+      "back_of_card": "sat double bookings!!"
+    },
+    {
+      "card_id": "C20",
+      "typed_on": "2027-02-25",
+      "collected_by": "Nadia",
+      "name": "W. Archambault",
+      "title": "Practice Manager",
+      "clinic": "Orleans Family Physio",
+      "email": "office@orleansfamilyphysio.example.ca",
+      "phone": "613-555-0118",
+      "back_of_card": "bookstead +30%"
+    }
+  ],
+  "voice_notes": [
+    {
+      "note_id": "V01",
+      "recorded_at": "2027-02-08 09:21",
+      "length_seconds": 26,
+      "transcript": "first one. kate doyle, rideau valley physio, three clinics here in ottawa, on clean evo. what drives her nuts is clients can't pick which physio they want when they book online. wants a demo with her two clinic leads. she's off on mat leave in june so she wants it sorted before then, keep that between us. hot."
+    },
+    {
+      "note_id": "V02",
+      "recorded_at": "2027-02-08 10:19",
+      "length_seconds": 24,
+      "transcript": "mississippi mills physio, almonte and carleton place, leanne fraser's the owner, both clinics on paper books, she wants a demo. her front desk lead joanne was with her, joanne wants something she can read on how the reminders work, the front desk side of it. so two of them, same clinic."
+    },
+    {
+      "note_id": "V03",
+      "recorded_at": "2027-02-08 11:04",
+      "length_seconds": 19,
+      "transcript": "shavonne carney I think, from perth, massage, her and two other RMTs, one place. they're on clean evo. the thing that bugs her is clients phone in to move appointments instead of doing it online. nice. didn't ask for anything."
+    },
+    {
+      "note_id": "V04",
+      "recorded_at": "2027-02-08 12:24",
+      "length_seconds": 25,
+      "transcript": "lorraine vashon, massage, two clinics, orleans and rockland, all paper. her front desk person quit in january so she's answering the phones between clients. she's going through a divorce, rough year, obviously don't say anything about that. didn't ask for anything, nice lady."
+    },
+    {
+      "note_id": "V05",
+      "recorded_at": "2027-02-08 13:14",
+      "length_seconds": 21,
+      "transcript": "paul from stittsville sports physio, one clinic, he's on pract shift and he's sick of all the marketing emails they send him. said straight out do not put me on a newsletter, if you've got something real just write me yourself. nothing asked. so no list for paul."
+    },
+    {
+      "note_id": "V06",
+      "recorded_at": "2027-02-08 14:26",
+      "length_seconds": 27,
+      "transcript": "no badge on this one, left it at the hotel. graham tessie or tessier, physio, pembroke and petawawa, two clinics, google calendar. petawawa's mostly military families and they cancel on short notice all the time. he wants pricing. his wife just had twins so he's running on fumes, ha. got his card."
+    },
+    {
+      "note_id": "V07",
+      "recorded_at": "2027-02-08 15:02",
+      "length_seconds": 18,
+      "transcript": "nadia had a french one, isabel gagne something, physio out of gatineau, two clinics, on pract shift till june. wants a call the week of the twenty second. nadia's got her card so that one's nadia's."
+    },
+    {
+      "note_id": "V08",
+      "recorded_at": "2027-02-08 15:17",
+      "length_seconds": 15,
+      "transcript": "ethan go-tier, kanata, physio, one clinic, paper book. he's training for a hundred k trail race so we mostly talked about that. nothing really, nice guy."
+    },
+    {
+      "note_id": "V09",
+      "recorded_at": "2027-02-09 09:27",
+      "length_seconds": 22,
+      "transcript": "day two. sunil varma, capital region rehab, four sites, every site keeps its own spreadsheet and head office can't see the whole week. he's ops not the owner. wants a demo for his ops team. big one."
+    },
+    {
+      "note_id": "V10",
+      "recorded_at": "2027-02-09 10:04",
+      "length_seconds": 20,
+      "transcript": "doctor kovacs, hana, orleans, chiro and massage, one clinic on clean evo. wants a demo but first she asked if we can put the WSIB claim number on the booking. I said I'd find out. need to ask sam before anyone writes to her."
+    },
+    {
+      "note_id": "V11",
+      "recorded_at": "2027-02-09 10:58",
+      "length_seconds": 16,
+      "transcript": "marcus bell, cataraqui physio, kingston, three clinics, all on paper books, all three. drove up for the show. not asking for anything yet but that's a big one."
+    },
+    {
+      "note_id": "V12",
+      "recorded_at": "2027-02-09 11:36",
+      "length_seconds": 17,
+      "transcript": "fergus lindsay, madawaska physio, renfrew arnprior and pembroke, three clinics, book stead. contract's up in the fall, he's just looking for now. gave me his card."
+    },
+    {
+      "note_id": "V13",
+      "recorded_at": "2027-02-09 12:37",
+      "length_seconds": 13,
+      "transcript": "mo from the glebe came back by. he said put the pricing in an email so he can send it to his accountant. five physios and two part timers."
+    },
+    {
+      "note_id": "V14",
+      "recorded_at": "2027-02-09 16:12",
+      "length_seconds": 18,
+      "transcript": "okay that's ottawa. scanner was fine both days for once. nadia's got a pile of cards, she'll get them to erin. the pract shift rep was hanging around the booth again, he scanned in too, ignore him. list on the plane."
+    }
+  ],
+  "owen_list": {
+    "written": "2027-02-09 20:05, on the flight home",
+    "title": "ottawa - plane",
+    "lines": [
+      {
+        "line_id": "L01",
+        "text": "Kate D / Rideau Valley - demo w her 2 leads. 3 sites clinivo"
+      },
+      {
+        "line_id": "L02",
+        "text": "Sunil - Capital Region - 4 sites!! demo for ops"
+      },
+      {
+        "line_id": "L03",
+        "text": "Mo @ Glebe - $$ in writing (for accountant)"
+      },
+      {
+        "line_id": "L04",
+        "text": "Mississippi Mills (Leanne) - demo, paper x2"
+      },
+      {
+        "line_id": "L05",
+        "text": "Marcus Cataraqui Kingston - 3 sites ALL paper. big"
+      },
+      {
+        "line_id": "L06",
+        "text": "Kovac Orleans - demo + WSIB question -> ask Sam first"
+      },
+      {
+        "line_id": "L07",
+        "text": "Graham Pembroke/Petawawa - $$ (no badge, card in bag)"
+      },
+      {
+        "line_id": "L08",
+        "text": "Lorraine Orleans/Rockland massage - paper, swamped"
+      },
+      {
+        "line_id": "L09",
+        "text": "kanata physio, ultra runner guy - paper"
+      },
+      {
+        "line_id": "L10",
+        "text": "Hintonburg guy - bookstead - deposits"
+      },
+      {
+        "line_id": "L11",
+        "text": "Doug Renfrew massage - small, paper, nice"
+      },
+      {
+        "line_id": "L12",
+        "text": "french physio gatineau - Nadia's - call ~22nd"
+      }
+    ]
+  }
+}

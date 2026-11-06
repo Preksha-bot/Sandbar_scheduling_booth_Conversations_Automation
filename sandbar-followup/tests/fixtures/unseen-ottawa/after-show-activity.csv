@@ -1,0 +1,41 @@
+event_id,date_time,event,channel,name,email,clinic,detail
+A001,2027-02-10 14:22,trial started,trial sign-up form,Tamsin Rhodes,tamsin@ashburyphysio.example.ca,Ashbury Physio,Trial started (14 days). How did you hear about us: Google
+A002,2027-02-15 08:05,email sent,Owen's mailbox,Kathryn Doyle,kathryn@rideauvalleyphysio.example.ca,Rideau Valley Physiotherapy,Rideau Valley - demo for you and your two leads
+A003,2027-02-15 10:41,reply received,Owen's mailbox,Kathryn Doyle,kathryn@rideauvalleyphysio.example.ca,Rideau Valley Physiotherapy,"Great, I'll grab a time on your page. Both leads will join."
+A004,2027-02-16 09:12,demo booked,demo booking page,Kathryn Doyle,kathryn@rideauvalleyphysio.example.ca,Rideau Valley Physio,Demo booked for 2027-02-24 14:00 (45 min). Notes: two clinic leads joining. How did you hear about us: Owen's email
+A005,2027-02-16 09:40,email sent,hello@ inbox,Priya Natarajan,priya@kanatamassage.example.ca,Kanata Therapeutic Massage,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A006,2027-02-16 09:44,email sent,hello@ inbox,Dana Lindgren,dlindgren@kemptvillehealth.example.ca,Kemptville Health Collective,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A007,2027-02-16 09:47,email sent,hello@ inbox,Holly Matheson,holly@manotickmassage.example.ca,Manotick Massage Therapy,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A008,2027-02-16 09:51,email sent,hello@ inbox,Monica Tran,monica.tran@merivalephysio.example.com,Merivale Physiotherapy,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A009,2027-02-16 09:53,email sent,hello@ inbox,Simone Achterberg,simone@westboromassage.example.ca,Westboro Massage Collective,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A010,2027-02-16 09:58,email sent,hello@ inbox,Brent Holloway,brent@brockvillerehab.example.ca,Brockville Rehab Centre,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A011,2027-02-16 09:59,reply received,hello@ inbox,Brent Holloway,brent@brockvillerehab.example.ca,Brockville Rehab Centre,Automatic reply: I am away until 2027-02-22. For bookings please call the clinic.
+A012,2027-02-16 10:03,email sent,hello@ inbox,Greg Halvorsen,greg@cumberlandphysio.example.ca,Cumberland Physio,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A013,2027-02-16 10:06,email sent,hello@ inbox,"Kyle Brodeur, PT",kyle@brodeurphyiso.example.ca,Brodeur Physiotherapy,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A014,2027-02-16 10:09,email sent,hello@ inbox,Tanya Rousseau,tanya@rousseaumassage.example.ca,Rousseau Massage Therapy,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A015,2027-02-16 10:11,email bounced,hello@ inbox,Mail Delivery Subsystem,kyle@brodeurphyiso.example.ca,,Delivery failed: address not found (kyle@brodeurphyiso.example.ca)
+A016,2027-02-16 10:14,email sent,hello@ inbox,Hana Kovac,hana@kovacchiro.example.ca,Kovac Chiropractic & Massage,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A017,2027-02-16 10:18,email sent,hello@ inbox,Nadine Proulx,nadine@barrhavenmassage.example.ca,Barrhaven Massage & Wellness,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A018,2027-02-16 10:22,email sent,hello@ inbox,Fergus Lindsay,fergus.lindsay@madawaskaphysio.example.ca,Madawaska Physio & Rehab,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A019,2027-02-16 10:25,email sent,hello@ inbox,Jessica Ouellette,jessica@vanierphysio.example.ca,Vanier Community Physio,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A020,2027-02-16 10:29,email sent,hello@ inbox,Darnell Pryce,darnell.pryce@meridianpractice.example.com,Meridian Practice Insurance,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A021,2027-02-16 10:31,email sent,hello@ inbox,Arthur Penfold,apenfold@capitalphysiogroup.example.com,Capital Physio Group,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A022,2027-02-16 10:35,email sent,hello@ inbox,Wendy Archambault,wendy@orleansfamilyphysio.example.ca,Orleans Family Physio,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A023,2027-02-16 10:38,email sent,hello@ inbox,Omar Farouk,ofarouk@centretownmassage.example.ca,Centretown Massage,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A024,2027-02-17 07:52,email sent,Owen's mailbox,Leanne Fraser,leanne@mmphysio.example.ca,Mississippi Mills Physiotherapy,Mississippi Mills - demo times
+A025,2027-02-17 08:20,email sent,Owen's mailbox,Sunil Varma,svarma@capitalregionrehab.example.com,Capital Region Rehab,Capital Region - a demo for your ops team
+A026,2027-02-17 16:48,reply received,hello@ inbox,Arthur Penfold,apenfold@capitalphysiogroup.example.com,Capital Physio Group,I only put my card in the coffee draw. Please don't add me to anything.
+A027,2027-02-18 12:03,trial started,trial sign-up form,Priya Natarajan,priya@kanatamassage.example.ca,Kanata Therapeutic Massage,Trial started (14 days). How did you hear about us: Ottawa expo
+A028,2027-02-19 09:15,reply received,hello@ inbox,Holly Matheson,holly@manotickmassage.example.ca,Manotick Massage Therapy,"Please take me off your mailing list, thanks."
+A029,2027-02-19 21:30,email sent,Owen's mailbox,Marcus Bell,marcus@cataraquiphysio.example.ca,Cataraqui Physiotherapy,Cataraqui - good to meet you in Ottawa
+A030,2027-02-20 13:47,demo booked,demo booking page,Nadine Proulx,nadine@barrhavenmassage.example.ca,Barrhaven Massage & Wellness,Demo booked for 2027-03-02 13:30 (30 min). How did you hear about us: your email after the expo
+A031,2027-02-22 10:05,demo booked,demo booking page,Front Desk,frontdesk@mmphysio.example.ca,Mississippi Mills Physio,Demo booked for 2027-03-03 15:00 (30 min). Notes: for Leanne Fraser. How did you hear about us: Owen
+A032,2027-02-23 20:11,trial started,trial sign-up form,Andrew Sinclair,andrew.sinclair.pt@example.com,Sinclair Physio,Trial started (14 days). How did you hear about us: met Owen in Ottawa
+A033,2027-02-24 07:31,reply received,Owen's mailbox,Marcus Bell,marcus@cataraquiphysio.example.ca,Cataraqui Physiotherapy,"Thanks Owen. Not this year, we're renovating the Princess St clinic first. Maybe in the fall."
+A034,2027-02-25 13:05,email sent,hello@ inbox,Ingrid Solberg,ingrid@seawayphysio.example.ca,Seaway Physio & Wellness,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A035,2027-02-25 13:09,email sent,hello@ inbox,"Fatima Al-Sayed, RMT",fatima@aylmerwellness.example.ca,Aylmer Wellness Massage,Great to meet you at the Ottawa Valley Rehab & Wellness Expo!
+A036,2027-02-26 11:20,demo booked,demo booking page,W. Archambault,office@orleansfamilyphysio.example.ca,Orleans Family Physio,Demo booked for 2027-03-09 14:00 (30 min). How did you hear about us: your email
+A037,2027-02-26 15:44,demo booked,demo booking page,Pierre Lussier,pierre@lussierrehab.example.ca,Lussier Rehab,Demo booked for 2027-03-10 13:00 (30 min). How did you hear about us: conference
+A038,2027-03-01 18:02,trial started,trial sign-up form,Jasper Neill,jasper@neillphysio.example.com,Neill Physio,Trial started (14 days). How did you hear about us: podcast
+A039,2027-03-03 09:26,demo booked,demo booking page,Lisa Brandt,lisa@kanatalakesphysio.example.ca,Kanata Lakes Physio,Demo booked for 2027-03-16 14:30 (30 min). How did you hear about us: saw your booth at the Ottawa expo
+A040,2027-03-04 11:10,demo booked,demo booking page,Corinna Walde,cwalde@riversidesouthrehab.example.ca,Riverside South Rehab,Demo booked for 2027-03-17 13:00 (30 min). How did you hear about us: a colleague
